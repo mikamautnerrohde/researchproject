@@ -36,7 +36,7 @@ One of the assessors will be designated examiner, and will hold ultimate respons
 
 Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the section [Detailed tasks per role](#detailed-tasks-per-role).
 
-**Table 1 - Roles, requirements and responsibilities**
+#####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
 Daily supervisor|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Helps with learning techniques, understanding relevant concepts.<li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
@@ -65,28 +65,15 @@ As a research master student, the student enrolled in either *Research Project 1
 Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at philosophy departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer the research question.
 
 ---
-**Table 2 - Expectations from the student**
+##### Table 2 - Responsibilities of the student
 | 
 :----: | 
 The student formulates a clear research question | 
 The student develops and tests hypotheses that addresses the research question|
 The student schedules work to meet important deadlines| 
 The student collects and reads relevant literature|
-The student writes and submits a Research Proposal to the programme within one month afterregistering
-
-the project
-
-The student gather
-
-s
-
-reliable and sufficient data for
-
-testing the
-
-hypothesi
-
-s
+The student writes and submits a Research Proposal to the programme within one month after registering the project|
+The student gathers reliable and sufficient data for testing the hypotheses|
 
 The student processes and analyzes the data critically, to
 
@@ -118,7 +105,7 @@ Evaluation
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0MzY1LCJlbmQiOjQzOTAsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0MzY4LCJlbmQiOjQzOTMsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -127,7 +114,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlszMTI3NzkzMjQsLTE5NDcwMDk3MiwtMTkyNzgwNj
-A1NywtODQwNTMxOTc4LDY2Mzc1NDA0OCwtMTI3MzcyNzA2Mywt
-NDY3OTA3NjkwXX0=
+c3RvcnkiOlstOTg3MTk2MzcwLC0xOTQ3MDA5NzIsLTE5Mjc4MD
+YwNTcsLTg0MDUzMTk3OCw2NjM3NTQwNDgsLTEyNzM3MjcwNjMs
+LTQ2NzkwNzY5MF19
 -->

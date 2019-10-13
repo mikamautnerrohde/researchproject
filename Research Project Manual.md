@@ -38,13 +38,13 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-Daily supervisor|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship. |
+Daily supervisor|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship. | 
 Internal assessor | Is located in same lab/research group as supervisor. Holds a doctoral degree. Can be same person as daily supervisor, as long requirements for both roles are met.|
 External assessor (also: co-assessor) | Holds a doctoral degree. Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). | 
-Examiner | Can be either the internal assessor or the external assessor. Must be employed at UvA. Muy  | 
+Examiner | Can be either the internal assessor or the external assessor. Must be employed at UvA. Must hold doctoral degree.  | 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA0NDg0ODUsLTQ2NzkwNzY5MF19
+eyJoaXN0b3J5IjpbMjgyMTY2MDk4LC00Njc5MDc2OTBdfQ==
 -->

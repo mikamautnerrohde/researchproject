@@ -45,7 +45,7 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 #####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-Daily supervisor|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Helps with learning techniques, understanding relevant concepts.<li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
+Daily supervisor|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
 Internal assessor | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Provides feedback on the draft version of the research report. <li>Grades experimental work, presentation and final report.</ul>
 External assessor (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
 Examiner | <ul><li>Can be either the internal assessor or the external assessor. <li>Must be employed at UvA. <li>Must hold doctoral degree.</ul> | <ul><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
@@ -79,10 +79,11 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 Once the proposal has been approved, it will not be possible to change the EC rewarded to the student upon succesful completion of the project.
 #### Be contact for student questions
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
-####  Help with learning 
 
 #### Provides feedback on overall performance and promotes scientific attitude.
+The daily supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
 #### Joins midterm evaluation, together with student.
+Halfway through the project, the student will schedu
 #### Provides feedback on the draft version of the research report.
 ####  Evaluates experimental work and presentation: advises internal assessor on grading
 
@@ -129,7 +130,7 @@ The student takes initiative to make the project a success (i.e. identifying iss
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0OTIzLCJlbmQiOjQ5NDgsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0ODU1LCJlbmQiOjQ4ODAsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -138,6 +139,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxODA5NzEyNTIzLC01Mzc1ODc0ODEsMjA4MjUwNj
+c3RvcnkiOlsxMjIyMTQwMjEwLC01Mzc1ODc0ODEsMjA4MjUwNj
 A0NF19
 -->

@@ -21,9 +21,10 @@ To determine the grades for these components, assessors can use the rubrics list
 |Original contribution| Throughout the project, the student mostly followed instructions with regards to experimental design,data analysis and interpretation. The student did not bring in any substantial ideas for the project.| The student demonstrated the ability to make choices for the experimental design, data analysis and interpretation of results, in collaboration with the supervisor.|The student can formulate good hypotheses and make design choices independently. |The student can formulate good hypotheses and make design choices independently, and can articulate the good reasoning behind those choices. The student came up with original insights or ideas that clearly aided data collection, analysis or interpretation. |
 
 ## Presentation
-|Dimension  |Insufficient (5.5 or less) |Sufficient (6.0 - 7.9) |Good (8.0 - 8.9)| Excellent (9.0 or higher)|
-|-|----|----|----|----|
+|Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
+|-|----|----|----|
+|Structure of the presentation | The structure of the presentation is lacking, because elements are missing or are not connected in a way that facilitates communication.|The presentation deals with the necessary elements (question, methods, results, discussion/conclusion), but the chosen structure is not ideal to convey this information. | | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzMzNjY1NSwxNTYwNTIzNDU5LC0xNj
-U2OTI5NDMsMjg0NjU2ODA2XX0=
+eyJoaXN0b3J5IjpbLTE0MTIxODM4NjcsMTU2MDUyMzQ1OSwtMT
+Y1NjkyOTQzLDI4NDY1NjgwNl19
 -->

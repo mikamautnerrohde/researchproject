@@ -66,11 +66,96 @@ Note for the reader: students from *Brain and Cognitive Sciences* form a multidi
 
 ---
 **Table 2 - Expectations from the student**
-Item | 
+| 
 :----: | 
-Computer | 
+The student formulates a clear research question | 
 Phone |
 Pipe | 
+
+
+The student develops and test
+
+s
+
+a hypothesis that addresses th
+
+e question
+
+The student
+
+creates
+
+/plans
+
+a reasonable timeline for the
+
+research
+
+The student
+
+collects and
+
+reads
+
+relevant literature and in due time
+
+incorporat
+
+es
+
+th
+
+is
+
+in the written report
+
+The student writes and submits a Research Proposal to the programme
+
+within one month after
+
+registering
+
+the project
+
+The student gather
+
+s
+
+reliable and sufficient data for
+
+testing the
+
+hypothesi
+
+s
+
+The student processes and analyzes the data critically, to
+
+answer the research question
+
+The student writes an original report, in line with academic standards, in the fashion of a research article
+
+from the respective field
+
+The student presents and discusses the research project orally
+
+The student
+
+takes
+
+initiative to make
+
+the project
+
+a
+
+success (i.e. identifying issues, troubleshooting, setting up
+
+necessary meetings, scheduling the Midterm
+
+Evaluation
+
+)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -83,7 +168,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls1MzgwMjk0NzksLTE5NDcwMDk3MiwtMTkyNzgwNj
-A1NywtODQwNTMxOTc4LDY2Mzc1NDA0OCwtMTI3MzcyNzA2Mywt
-NDY3OTA3NjkwXX0=
+c3RvcnkiOlstMTk0MTAxNjc4OCwtMTk0NzAwOTcyLC0xOTI3OD
+A2MDU3LC04NDA1MzE5NzgsNjYzNzU0MDQ4LC0xMjczNzI3MDYz
+LC00Njc5MDc2OTBdfQ==
 -->

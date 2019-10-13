@@ -61,7 +61,7 @@ The Research Project goes through several phases:
 
 Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. 
 
-The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes  about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
+The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes Q&A) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
 
 ## Detailed tasks per role
 ### Supervisor tasks
@@ -137,7 +137,9 @@ Grading is based on three components: the experimental work, the final report on
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
-To grade the different components, please use the respective grading rubric.
+To grade the different components or to get a better idea about the expected level, please consult the respective grading rubric.
+
+The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, except if the different between the grade is higher than or equal to 1 point. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a conse
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
 N0YXJ0Ijo0OTM3LCJlbmQiOjQ5NjIsInRleHQiOiJNdXN0IGhv
@@ -149,7 +151,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstNTIwNjA3OTM0LC0xNTU4NTg0NjQ4LC0yMTE4OT
+c3RvcnkiOlstNzAwNTM5NDY0LC0xNTU4NTg0NjQ4LC0yMTE4OT
 M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
 NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

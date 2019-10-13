@@ -128,7 +128,7 @@ The important deadlines are listed in Table 2.
 ##### Table 2 - Important deadlines
 |What?  |When?  |Who?|
 |--|--|--|
-|  |  | |
+|Registering the project via datanose.nl/#yourprojects  | As soon as supervisor and assessors are determined. | Student|
 
 
 ## Grading
@@ -201,8 +201,8 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMjQxNDY2ODI2LC02OTM5Njg5OTksLTY4NTc1OD
-c1LC0xNTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4
-NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MD
-YwNDRdfQ==
+c3RvcnkiOls2NDE2Nzk5MDMsLTY5Mzk2ODk5OSwtNjg1NzU4Nz
+UsLTE1NTg1ODQ2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2
+NjUwNDM3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNj
+A0NF19
 -->

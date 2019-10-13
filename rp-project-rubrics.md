@@ -39,10 +39,10 @@ Please note that the bandwidth of the category 'sufficient to good' is quite bro
 |Introduction|It is insufficiently clear why the research project is relevant and/or the theoretical framework is not explained clearly enough to warrant the research question and hypotheses.|The relevance of the research project is addressed and an overview of the theoretical framework is given, with the research question and hypotheses tying into this framework.|The relevance of the research project is persuasively demonstrated and it is clear how the project contributes to the field as a whole. The theoretical framework naturally leads into the research question and hypotheses.|
 |Methods|Operationalization is lacking: it is not clear how data was gathered and/or what the overall design of the project was. Replication would be impossible on the basis of this report.|It is clear what the experimental procedures were, how samples were collected (e.g. how subjects were included, cells were obtained, etc.), and what the overall design of the project was.|The description of data acquisition is complete enough to allow other scientists to replicate the study. The relation between the concepts under investigation and their operationalization is clear and the choice of methods is justified through logical argumentation or citations.|
 |Results|The results section shows incomplete, inaccurate or irrelevant information, thus preventing the reader from evaluating the subsequent discussion.|There is information about the data that was collected, the data analysis that took place and the results, allowing the reader to evaluate the subsequent discussion.|The description of the data and subsequent analysis is accurate, complete and parsimonious, allowing to reader to critically evaluate the findings and subsequent discussion. All relevant statistics are given. Graphs are clear and informative.|
-|Discussion|----|----|----|
+|Discussion|The discussion offers limited reflection on the results, so that it is unclear what the research has added to the existing body of knowledge, or what the cr|----|----|
 |Writing|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEwMTQ2MjUsNzYxODMyNTc0LC0xNz
-cxMDU5MjI0LC0xNDQwMzgxNzg1LDE1NjA1MjM0NTksLTE2NTY5
-Mjk0MywyODQ2NTY4MDZdfQ==
+eyJoaXN0b3J5IjpbMTIwNDE0OTU1OSw3NjE4MzI1NzQsLTE3Nz
+EwNTkyMjQsLTE0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1Njky
+OTQzLDI4NDY1NjgwNl19
 -->

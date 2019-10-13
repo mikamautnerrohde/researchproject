@@ -9,9 +9,10 @@ As a reminder, the components have designated weights and minimum grades as show
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
-To determine the grades for these components, you can use the holistic rubrics listed below. Note that the weight of the different columns
-.
+To determine the grades for these components, assessors can use the holistic rubrics listed below. Note that the weight of the different columns *within* the rubrics is at the discretion of the assessor. This is done because different projects require different emphases.
+
+## Experimental work (40%)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU3MjYzNjBdfQ==
+eyJoaXN0b3J5IjpbNzc1NzM3NzIwXX0=
 -->

@@ -77,7 +77,7 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 42|1176|28 weeks
 
 Once the proposal has been approved, it will not be possible to change the EC rewarded to the student upon succesful completion of the project.
-#### Contact person for student questions.
+#### Contact person for student questions
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable timeframe. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
 ####  Helps with learning techniques, understanding relevant concepts.
 The daily supervisor guides the student and provides constructive feedback on his or her performance. This feedback is important to improve skills and knowledge of the student, but also to foster an overall academic attitude. 
@@ -138,5 +138,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlsxNzAzMTA3ODksLTUzNzU4NzQ4MSwyMDgyNTA2MD
+Q0XX0=
 -->

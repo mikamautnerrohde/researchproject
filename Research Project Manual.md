@@ -32,17 +32,9 @@ The daily supervisor can be a PhD candidate or a more senior researcher who work
 
 The external assessor should be a researcher from another group, who still has relevant expertise (whether topic-wise or method-wise) to assess the final report that is written on the project.
 
-One of the assessors will be d
+One of the assessors will be designated examiner, and will hold ultimate responsibility for the final grade. This examiner needs to be a UvA employee with a doctoral degree.
 
-grade.
-
-Table 1
-
-summarizes
-
-the requirements and responsibilities of the
-
-different roles.
+Table 1 summarizes the requirements and responsibilities of the different roles.
 
 Please note that the tasks
 
@@ -56,5 +48,5 @@ the project is taking place. The tasks are described in more detail in the next 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzgyMDcxNF19
+eyJoaXN0b3J5IjpbODQ0Mzk4MDUwXX0=
 -->

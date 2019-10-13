@@ -92,7 +92,7 @@ In case the supervisor and internal assessor are not the same person, the superv
 ### Internal assessor tasks
 
 #### Grade experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](rp-project-rubrics.md). Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading.
 
 ### External assessor tasks
 #### Grade final report
@@ -143,7 +143,7 @@ Grading is based on three components: the experimental work, the final report on
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
-To grade the different components or to get a better idea about the expected level, please consult the respective grading rubric.
+To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](rp-project-rubrics.md).
 
 The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme.
 
@@ -189,8 +189,6 @@ Therefore, the Research Project Proposal must be submitted within four weeks aft
 
 Late submission of the Research Project Proposal will not affect the grading of the research project, but the submission date of the final report (and therefore the registration date of the grade) cannot be before the ending date of the project.
 
-.
-
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -203,8 +201,8 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMzQ2MzE5NTI4LC0yMDgyMjU0MTUsMTAxMDc5OD
-AwLC02OTM5Njg5OTksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0y
-MTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OT
-kwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlstMTA4OTgwNzI4MCwtMjA4MjI1NDE1LDEwMTA3OT
+gwMCwtNjkzOTY4OTk5LC02ODU3NTg3NSwtMTU1ODU4NDY0OCwt
+MjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNj
+k5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

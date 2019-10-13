@@ -35,10 +35,14 @@ To determine the grades for these components, assessors can use the rubrics list
 
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
 |-|----|----|----|
-|Structure|----|----|----|
-|-|----|----|----|
+|Structure|Sections are poorly connected, or not connected at all. Questions, hypotheses,design, results and discussion do not form a coherent whole.|----|----|
+|Introduction|----|----|----|
+|Methods|----|----|----|
+|Results|----|----|----|
+|Discussion|----|----|----|
+|Writing|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ1NjI5NiwtMTc3MTA1OTIyNCwtMT
+eyJoaXN0b3J5IjpbMTU3ODA4NjI0MCwtMTc3MTA1OTIyNCwtMT
 Q0MDM4MTc4NSwxNTYwNTIzNDU5LC0xNjU2OTI5NDMsMjg0NjU2
 ODA2XX0=
 -->

@@ -36,23 +36,13 @@ To determine the grades for these components, assessors can use the rubrics list
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
 |-|----|----|----|
 |Structure|Sections are poorly connected, or not connected at all. Questions, hypotheses,design, results and discussion do not form a coherent whole.|The different elements of the report are connected, with questions, hypotheses, design, results and discussion forming a coherent whole.|The different elements of the report are logically connected and sections are organized to explicate key points. Questions, hypotheses,design, results and discussion form a coherent whole. The flow of the text is natural and affords effective communication.|
-|Introduction|It is insufficiently clear why the research project is relevant and/or the theoretical framework is not explained clearly
-
-enough t
-
-o warrant the
-
-research question
-
-and
-
-hypotheses.|----|----|
+|Introduction|It is insufficiently clear why the research project is relevant and/or the theoretical framework is not explained clearly enough to warrant the research question and hypotheses.|----|----|
 |Methods|----|----|----|
 |Results|----|----|----|
 |Discussion|----|----|----|
 |Writing|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM0NjU2NjAsLTE3NzEwNTkyMjQsLT
-E0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1
-NjgwNl19
+eyJoaXN0b3J5IjpbMTI5MjA2Njg4OCwtMTc3MTA1OTIyNCwtMT
+Q0MDM4MTc4NSwxNTYwNTIzNDU5LC0xNjU2OTI5NDMsMjg0NjU2
+ODA2XX0=
 -->

@@ -17,7 +17,7 @@ The research project is one of the capstones of our programme, in which students
 
 6. Demonstrate a scientific attitude (independence, responsibility, perseverance, initiative, self-assessment, communication) within the work and in relation to the supervisor and colleagues.
 
-7. Reflect on and describe the limitations and implications of the research.
+7. Reflect on and describe the limitations and implications of the research project.
 
 All students of the research master Brain and Cognitive Sciences conduct two research projects as mandatory
 
@@ -105,5 +105,5 @@ the project is taking place. The tasks are described in more detail in the next 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzc3NDg0M119
+eyJoaXN0b3J5IjpbLTE3ODc5NTcwMTJdfQ==
 -->

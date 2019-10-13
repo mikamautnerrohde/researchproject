@@ -99,11 +99,18 @@ At the end of the project, the student will submit a draft version of the resear
 The internal assessor is expected to evaluate this draft report and provide the student with constructive feedback.
 
 #### Grades experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the Grading Rubrics app Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the Grading Rubrics appended to this manual. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading.
 
 ### External assessor tasks
 #### Grades final report
-The external assessor is expected to grade the final report, using the Grading Rubric appened to this manual.
+The external assessor is expected to grade the final report, using the Grading Rubric appended to this manual.
+
+### Examiner tasks
+#### Submits the final grade.
+The examiner is expected to submit the final grade to the programme via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
+
+#### Guarantees validity of the grade.
+The examiner is expected to collect the grades f
 
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are summarized in [table 2](#responsibilities-of-the-student). 
@@ -136,6 +143,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTkwMzEzNjE4MywxODY2NTA0MzcsLTE2NTIzNj
-k5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlsyMDU2MTk0MzM2LDE4NjY1MDQzNywtMTY1MjM2OT
+kwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

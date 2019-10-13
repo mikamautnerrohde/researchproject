@@ -119,18 +119,15 @@ As a research master student, the student enrolled in either *Research Project 1
  -  The student develops and tests hypotheses that addresses the research question 
  - The student schedules work to meet important deadlines
  - The student collects and reads relevant literature 
- - The student writes and submits a Research
-   Proposal to the programme within one month after registering the
-   project The student gathers reliable and sufficient data for testing
-   the hypotheses The student processes and analyzes the data
-   critically, to answer the research question The student writes an
-   original report, in line with academic standards, in the fashion of a
-   research article from the respective field The student presents and
-   discusses the research project orally upon completion The student
-   takes initiative to make the project a success (i.e. identifying
-   issues, troubleshooting, setting up necessary meetings, scheduling
-   the Midterm Evaluation)
+ - The student writes and submits a Research Proposal to the programme within one month after registering the project 
+ - The student gathers reliable and sufficient data for testing the hypotheses 
+ - The student processes and analyzes the data critically, to answer the research question 
+ - The student writes an original report, in line with academic standards, in the fashion of a
+   research article from the respective field
+  - The student presents and discusses the research project orally upon completion
+  - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
+If any of these elements are not being performed at a level which can be expected from master's student
 ## Grading
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -143,7 +140,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls5NzYxMjk0ODcsLTIxMTg5Mzg3Nyw4MTAwODQ0Mz
-IsMTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4
-MjUwNjA0NF19
+c3RvcnkiOlsxODQxNjk4NDAzLC0yMTE4OTM4NzcsODEwMDg0ND
+MyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIw
+ODI1MDYwNDRdfQ==
 -->

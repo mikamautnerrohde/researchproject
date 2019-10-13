@@ -1,11 +1,11 @@
 # Research Project Manual
 ## Introduction
 
-This manual concerns the modules *Research Project 1* and *Research Project 2* for students from the master programme *Brain and Cognitive Sciences* at the University of Amsterdam (UvA). It was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner.
+This manual concerns the modules *Research Project 1* and *Research Project 2* for students from the master programme *Brain and Cognitive Sciences* at the University of Amsterdam (UvA). These modules are also known as internships . This manual was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner.
 
 The research project is one of the capstones of our programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. All students of the research master *Brain and Cognitive Sciences* conduct two research projects as mandatory parts of their curriculum:
 
-*Research Project 1* and *Research Project 2*.
+*Research Project 1* (26 or 32 EC) and *Research Project 2* (36 or 42 EC).
 
 ## Learning objectives
 During the research projects, the student is trained to:
@@ -46,5 +46,5 @@ External assessor (also: co-assessor) | Holds a doctoral degree. Must have relev
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA4NjQ0MDYsLTQ2NzkwNzY5MF19
+eyJoaXN0b3J5IjpbLTQyOTAwNzY1MCwtNDY3OTA3NjkwXX0=
 -->

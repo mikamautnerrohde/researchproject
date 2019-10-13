@@ -52,16 +52,13 @@ Role| Requirements| Responsibilities
 
 ## Phases of the Research Project
 
-The Research Project goes through several phases:
+In summary. the Research Project goes through several phases:
 
 1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the students submits via the online form at Datanose.nl within one month of registering  the project.
 
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss progress and mutual satisfaction of the student and supervisor.
 3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given.
-
-Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. 
-
-The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes Q&A) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
+4. Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes Q&A) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.
 
 ## Detailed tasks per role
 ### Supervisor tasks
@@ -156,7 +153,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls5NTEyMDU4MjQsLTY4NTc1ODc1LC0xNTU4NTg0Nj
+c3RvcnkiOls5Njk5Mzg5NDksLTY4NTc1ODc1LC0xNTU4NTg0Nj
 Q4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1
 MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

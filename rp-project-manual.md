@@ -90,7 +90,7 @@ At the end of the project, the student will submit a draft version of the resear
 The draft version should be as complete as possible, to allow for effective feedback.
 
 ####  Evaluates experimental work and presentation
-Besides the research report, the final grade of the student is also determined by performance on experimental work and by the oral presentation on the project. In case the supervisor and internal assessor are not the same person, the supervisor is encouraged to advise the internal assessor on grading
+Besides the research report, the final grade of the student is also determined by performance on experimental work and by the oral presentation on the project. In case the supervisor and internal assessor are not the same person, the supervisor is encouraged to advise the internal assessor on grading experimental work and presentation, as the supervisor is more keenly aware of 
 
 tic. As a supervisor,
 
@@ -133,6 +133,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MD
-YwNDRdfQ==
+c3RvcnkiOlstMjEyNTUxNTA2OCwtMTY1MjM2OTkwNSwtNTM3NT
+g3NDgxLDIwODI1MDYwNDRdfQ==
 -->

@@ -113,23 +113,23 @@ The examiner is expected to submit the final grade to the programme via www.data
 The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and reaching consensus if opinions about the final grade diverge too much.
 
 ### Student tasks
-As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are summarized in [table 2](#responsibilities-of-the-student). 
+As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are: 
 
-If this ownership is not shown, or if any of the elements listed in table 2 should be done better, it is important that the supervisor provides timely feedback on this performance.
-
-##### Table 2 - Responsibilities of the student
-| 
-:---- | 
-The student formulates a clear research question | 
-The student develops and tests hypotheses that addresses the research question|
-The student schedules work to meet important deadlines| 
-The student collects and reads relevant literature|
-The student writes and submits a Research Proposal to the programme within one month after registering the project|
-The student gathers reliable and sufficient data for testing the hypotheses|
-The student processes and analyzes the data critically, to answer the research question|
-The student writes an original report, in line with academic standards, in the fashion of a research article from the respective field|
-The student presents and discusses the research project orally upon completion|
-The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)|
+ - The student formulates a clear research question
+ -  The student develops and tests hypotheses that addresses the research question 
+ - The student schedules work to meet important deadlines
+ - The student collects and reads relevant literature 
+ - The student writes and submits a Research
+   Proposal to the programme within one month after registering the
+   project The student gathers reliable and sufficient data for testing
+   the hypotheses The student processes and analyzes the data
+   critically, to answer the research question The student writes an
+   original report, in line with academic standards, in the fashion of a
+   research article from the respective field The student presents and
+   discusses the research project orally upon completion The student
+   takes initiative to make the project a success (i.e. identifying
+   issues, troubleshooting, setting up necessary meetings, scheduling
+   the Midterm Evaluation)
 
 ## Grading
 <!--stackedit_data:
@@ -143,7 +143,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0Mz
-csLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
-
+c3RvcnkiOls5NzYxMjk0ODcsLTIxMTg5Mzg3Nyw4MTAwODQ0Mz
+IsMTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4
+MjUwNjA0NF19
 -->

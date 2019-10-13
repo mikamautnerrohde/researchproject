@@ -128,7 +128,7 @@ As a research master student, the student enrolled in either *Research Project 1
   - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
 ## Grading
-
+Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 2 summarizes the different components, 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
 N0YXJ0Ijo0OTUxLCJlbmQiOjQ5NzYsInRleHQiOiJNdXN0IGhv
@@ -140,7 +140,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTU1ODU4NDY0OCwtMjExODkzODc3LDgxMDA4ND
-QzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwy
-MDgyNTA2MDQ0XX0=
+c3RvcnkiOlstMTY1NDI1OTg0NSwtMTU1ODU4NDY0OCwtMjExOD
+kzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUs
+LTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

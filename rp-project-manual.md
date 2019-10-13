@@ -40,7 +40,7 @@ The external assessor should be a researcher from another group, who still has r
 
 One of the assessors will be designated examiner, and will hold ultimate responsibility for the final grade. This examiner needs to be a UvA employee with a doctoral degree.
 
-Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the section [Detailed tasks per role](#detailed-tasks-per-role).
+[Table 1]( summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the section [Detailed tasks per role](#detailed-tasks-per-role).
 
 #####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
@@ -128,17 +128,18 @@ As a research master student, the student enrolled in either *Research Project 1
   - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
 ## Grading
-Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 2 summarizes the different components, their contribution to the final grade and the minimum grade required per component.
+Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. [Table 2](#table-2-assessment-forms) summarizes the different components, their contribution to the final grade and the minimum grade required per component.
 
+##### Table 2 - Assessment forms
 | Component |Contribution to final grade| Graded by| Minimum grade | 
 |--|--|--|--|
 |Experimental work  |40%  |Internal assessor |5.5 |
-|Final report  |50%  |Internal assessor  |6.0 |
-|Oral presentation  |10%  | | |
+|Final report  |50%  |Internal assessor and external assessor |6.0 |
+|Oral presentation  |10%  |Internal assessor |5.5 |
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0OTUxLCJlbmQiOjQ5NzYsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0OTU0LCJlbmQiOjQ5NzksInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -147,7 +148,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsyMzg0MDUyMjQsLTE1NTg1ODQ2NDgsLTIxMTg5Mz
-g3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01
-Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstMTA2MDY3NzYzMCwtMTU1ODU4NDY0OCwtMjExOD
+kzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUs
+LTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

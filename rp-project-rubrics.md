@@ -31,24 +31,18 @@ To determine the grades for these components, assessors can use the rubrics list
 |Eye contact and elocution|The student mumbles or is otherwise difficult to follow, and makes too much use of notes or other supportive material to stay on track.|Student is mostly clear and mostly maintains appropriate eye contact, but makes use of notes or other supportive material a bit too often, or at times has trouble expressing ideas.|Student uses a clear voice and correct English, so that everyone can easily follow the presentation. The student appropriate maintains eye contact with the group, while making little use of notes or presentation slides to stay on track.|
 
 ## Research report (50%)
-
+Please note that the bandwidth of the category 'sufficient to good' is quite broad and offers room for nuance in determining the actual grade.
 
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
 |-|----|----|----|
 |Structure|Sections are poorly connected, or not connected at all. Questions, hypotheses,design, results and discussion do not form a coherent whole.|The different elements of the report are connected, with questions, hypotheses, design, results and discussion forming a coherent whole.|The different elements of the report are logically connected and sections are organized to explicate key points. Questions, hypotheses,design, results and discussion form a coherent whole. The flow of the text is natural and affords effective communication.|
 |Introduction|It is insufficiently clear why the research project is relevant and/or the theoretical framework is not explained clearly enough to warrant the research question and hypotheses.|The relevance of the research project is addressed and an overview of the theoretical framework is given, with the research question and hypotheses tying into this framework.|The relevance of the research project is persuasively demonstrated and it is clear how the project contributes to the field as a whole. The theoretical framework naturally leads into the research question and hypotheses.|
-|Methods|Operationalization is lacking: it is not clear how data was gathered and/or what the overall design of the project was. Replication would be impossible on the basis of this report.|It is clear what the experimental procedures were, how samples were collected (e.g. how subjects were included, cells were obtained, etc.), and what the overall design of the project was.|The description of data acquisition is complete enough to allow other scientists to replicate the study. The relation between the concepts under investigation and their operationalization is clear and the choice of methods is justified
-
-through logical
-
-argumentation or
-
-citations.|
+|Methods|Operationalization is lacking: it is not clear how data was gathered and/or what the overall design of the project was. Replication would be impossible on the basis of this report.|It is clear what the experimental procedures were, how samples were collected (e.g. how subjects were included, cells were obtained, etc.), and what the overall design of the project was.|The description of data acquisition is complete enough to allow other scientists to replicate the study. The relation between the concepts under investigation and their operationalization is clear and the choice of methods is justified through logical argumentation or citations.|
 |Results|----|----|----|
 |Discussion|----|----|----|
 |Writing|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg3MTg1MjQsLTE3NzEwNTkyMjQsLT
-E0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1
-NjgwNl19
+eyJoaXN0b3J5IjpbNzYxODMyNTc0LC0xNzcxMDU5MjI0LC0xND
+QwMzgxNzg1LDE1NjA1MjM0NTksLTE2NTY5Mjk0MywyODQ2NTY4
+MDZdfQ==
 -->

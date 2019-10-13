@@ -65,6 +65,38 @@ The student will also give an oral presentation about their Research Project, du
 
 ## Detailed tasks per role
 ### Supervisor tasks
+The daily supervisor guides the student and provides constructive feedback on his or her performance. This feedback is important to improve skills and knowledge of the student, but also to foster an overall academic attitude. During the research project, the supervisor should be available to discuss problems within a reasonable timeframe.
+
+When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
+ The i
+
+ntensity of supervision varies between projects
+
+, so it is important that
+
+prior to the research project
+
+the student knows what he/she can expect of the
+
+supervision
+
+.
+
+At the start of the project, the student is responsible for submitting a Research Proposal to the master’s
+
+programme. This proposal serves to prepare the student for the work ahead, but also to ensure that planning
+
+is realis
+
+tic. As a supervisor,
+
+please check whether the workload of the project is feasible
+
+(do to so, you can
+
+take the amount of EC for the project and multiply it by 28, which gives the amount of hours that should be
+
+spent on the project).
 
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are summarized in [table 2](#responsibilities-of-the-student). 
@@ -97,5 +129,5 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls4NjEyOTc0MjYsMjA4MjUwNjA0NF19
+c3RvcnkiOlstMTE0OTE3MjIwMCwyMDgyNTA2MDQ0XX0=
 -->

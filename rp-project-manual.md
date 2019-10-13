@@ -124,6 +124,11 @@ As a research master student, the student enrolled in either *Research Project 1
   - The student presents and discusses the research project orally upon completion
   - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
+|  |  |
+|--|--|
+|  |  |
+
+
 ## Grading
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 2 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
@@ -194,7 +199,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTc1Nzg0MTk2NywtNjg1NzU4NzUsLTE1NTg1OD
-Q2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0x
-NjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstNjkzOTY4OTk5LC02ODU3NTg3NSwtMTU1ODU4ND
+Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
+NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

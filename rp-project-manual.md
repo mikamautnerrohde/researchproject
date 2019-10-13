@@ -130,9 +130,11 @@ As a research master student, the student enrolled in either *Research Project 1
 ## Grading
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 2 summarizes the different components, their contribution to the final grade and the minimum grade required per component.
 
-| Component |Contribution to final grade| Assessed by| Minimum grade | 
+| Component |Contribution to final grade| Graded by| Minimum grade | 
 |--|--|--|--|
-|  |  | | |
+|Experimental work  |40%  |Internal assessor |5.5 |
+|Final report  |50%  |Internal assessor  |6.0 |
+|Oral presentation  |10%  | | |
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -145,7 +147,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsyMDQ4MjA1NzcwLC0xNTU4NTg0NjQ4LC0yMTE4OT
-M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
-NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlsyMzg0MDUyMjQsLTE1NTg1ODQ2NDgsLTIxMTg5Mz
+g3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01
+Mzc1ODc0ODEsMjA4MjUwNjA0NF19
 -->

@@ -71,11 +71,12 @@ When the student submits a research proposal to the programme, this will include
 
 Project size (EC)| Workload (hours) | Fulltime equivalent
 :----: | :----:|:----:|
-26 | 728|
-32| 896|
-36|1008|
-42|1176|
+26 | 728|17 weeks
+32| 896|21 weeks
+36|1008|24 weeks
+42|1176|28 weeks
 
+Once the proposal has been approved, it will not be possible to change the EC rewarded t
 #### Contact person for student questions.
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable timeframe. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
 ####  Helps with learning techniques, understanding relevant concepts.
@@ -137,5 +138,5 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls0NDA4MDc5NTEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstMTk0OTIzNjg2OSwyMDgyNTA2MDQ0XX0=
 -->

@@ -43,6 +43,7 @@ Please note that the bandwidth of the category 'sufficient to good' is quite bro
 |Writing|The report deviates from style and language demands as defined in the style guide of the journal that was chosen as exemplary for the field.|The report follows the style guid of the journal that was chosen as exemplary for the field, language is precise and parsimonious and language and grammar follow academic standards.|The report follows the academic standards for style, language and grammar.It maintains flow, with smooth connections between paragraphs, an overall argumentation line and clearly motivated statements. The style fits the journal that was chosen as exemplary for the field.|
 
 # Determining the grades
+## Grading scheme
 The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 10. [Here](https://student.uva.nl/en/content/az/grading-scheme/grading-scheme.html) you can find a comparison between the UvA grading scheme and other systems. Interpreted in light of the goals of the research master *Brain and Cognitive Sciences*, we can describe the different grades as follows.
 
 
@@ -55,9 +56,10 @@ The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 
 | 9.0| The work demonstrates excellence. |
 | 9.5 -- 10.0 | The research master's students is performing at a level appropriate for a PhD student in the first years of their programme, or better. |
 
-
+## Submitting the grade
+The examiner of the research project can submit the grades via www.datanose.nl. See the [Research Project Manual](rp-project-manual) for more information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODczMDI1Miw3NjE4MzI1NzQsLTE3Nz
+eyJoaXN0b3J5IjpbLTQzMzcwNjMxNCw3NjE4MzI1NzQsLTE3Nz
 EwNTkyMjQsLTE0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1Njky
 OTQzLDI4NDY1NjgwNl19
 -->

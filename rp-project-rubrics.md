@@ -12,7 +12,10 @@ As a reminder, the components have designated weights and minimum grades as show
 To determine the grades for these components, assessors can use the holistic rubrics listed below. Note that the weight of the different columns *within* the rubrics is at the discretion of the assessor. This is done because different projects require different emphases.
 
 ## Experimental work (40%)
+|Dimension  |Insufficient (5.5 or less) |Sufficient (6.0 - 7.9) |Good (8.| Excellent|
+|--|--|--- |--- |--- |
+|  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NzM3NzIwXX0=
+eyJoaXN0b3J5IjpbLTI4NDkzNzAwNF19
 -->

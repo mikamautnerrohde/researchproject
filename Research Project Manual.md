@@ -28,7 +28,7 @@ During the research projects, the student is trained to:
 
 To reach these goals, the student will work together with a daily supervisor, an internal assessor and an external assessor. 
 
-The daily supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor
+The daily supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to have the supervisor and  internal assessor to b
 
 One of the other two roles
 
@@ -86,5 +86,5 @@ the project is taking place. The tasks are described in more detail in the next 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA5MzE0MTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTEzMjI2MTRdfQ==
 -->

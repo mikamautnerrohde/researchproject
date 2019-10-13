@@ -57,9 +57,9 @@ The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 
 | 9.5 -- 10.0 | The research master's students is performing at a level appropriate for a PhD student in the first years of their programme, or better. |
 
 ## Submitting the grade
-The examiner of the research project can submit the grades via www.datanose.nl. See the [Research Project Manual](rp-project-manual) for more information.
+The examiner of the research project can submit the grades via www.datanose.nl. See the [Research Project Manual](rp-project-manual.md) for more information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzcwNjMxNCw3NjE4MzI1NzQsLTE3Nz
+eyJoaXN0b3J5IjpbLTEzOTA2ODM0Nyw3NjE4MzI1NzQsLTE3Nz
 EwNTkyMjQsLTE0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1Njky
 OTQzLDI4NDY1NjgwNl19
 -->

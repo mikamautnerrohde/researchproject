@@ -9,7 +9,7 @@ The research project is one of the capstones of our programme, in which students
 *Research Project 1* (26 or 32 EC) and *Research Project 2* (36 or 42 EC).
 
 ---
-Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at philosophy departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer the research question.
+Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at philosophy departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer their research question.
 
 ---
 
@@ -34,7 +34,7 @@ During the research projects, the student is trained to:
 
 To reach these goals, the student will work together with a daily supervisor, an internal assessor and an external assessor. 
 
-The daily supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to have both the supervisor and  internal assessor role, as long as these requirements are met.
+The daily supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to have both the supervisor and  internal assessor role, as long as all of the above requirements are met.
 
 The external assessor should be a researcher from another group, who still has relevant expertise (whether topic-wise or method-wise) to assess the final report that is written on the project.
 
@@ -147,7 +147,7 @@ The final report is graded by both the internal and the external assessor. Their
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0OTM3LCJlbmQiOjQ5NjIsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0OTUwLCJlbmQiOjQ5NzUsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -156,7 +156,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxNzE1NjA4NDMsLTY4NTc1ODc1LC0xNTU4NTg0Nj
+c3RvcnkiOls5NTEyMDU4MjQsLTY4NTc1ODc1LC0xNTU4NTg0Nj
 Q4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1
 MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

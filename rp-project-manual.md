@@ -84,23 +84,21 @@ The supervisor is the go-to person for the student, for any question related to 
 The daily supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
 #### Joins midterm evaluation, together with student.
 Halfway through the project, the student will schedule an evaluation meeting to discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for both parties to review how things are going.
-#### Provide feedback on the draft version of the research report.
+#### Provides feedback on the draft version of the research report.
 At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done.
 
 The draft version should be as complete as possible, to allow for effective feedback.
 
 ####  Evaluates experimental work and presentation
-In case the supervisor and internal assessor are not the same person, the supervisor is strongly encouraged to advise the internal assessor on grading the experimental work of the student, as well as  and presentation, as the supervisor is more keenly aware of 
+In case the supervisor and internal assessor are not the same person, the supervisor is strongly encouraged to *advise* the internal assessor on grading the experimental work of the student, as well as the oral presentation on the project. 
 
-tic. As a supervisor,
+### Internal assessor tasks
+#### Provides feedback on the draft version of the research report
+At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done.
 
-please check whether the workload of the project is feasible
+The draft version should be as complete as possible, to allow for effective feedback.
+-   Grades experimental work, presentation and final report.
 
-(do to so, you can
-
-take the amount of EC for the project and multiply it by 28, which gives the amount of hours that should be
-
-spent on the project).
 
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are summarized in [table 2](#responsibilities-of-the-student). 
@@ -133,6 +131,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxNTI3NzIxNDUxLC0xNjUyMzY5OTA1LC01Mzc1OD
-c0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOls3NTgzODY2MzEsLTE2NTIzNjk5MDUsLTUzNzU4Nz
+Q4MSwyMDgyNTA2MDQ0XX0=
 -->

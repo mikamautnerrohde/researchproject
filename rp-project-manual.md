@@ -67,7 +67,7 @@ The student will also give an oral presentation about their Research Project, du
 ### Supervisor tasks
 
 #### Assist in project planning
-When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project. The supervisor is requested to ascertain the feasibility of the project within the submitted timeframe. The student can inform the supervisor about the relevant EC count.
+When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project. The supervisor is requested to ascertain the feasibility of the project within the submitted time frame. The student can inform the supervisor about the relevant EC count.
 
 Project size (EC)| Workload (hours) | Fulltime equivalent
 :----: | :----:|:----:|
@@ -77,10 +77,10 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 42|1176|28 weeks
 
 Once the proposal has been approved, it will not be possible to change the EC rewarded to the student upon succesful completion of the project.
-#### Contact person for student questions
-The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable timeframe. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
-####  Helps with learning techniques, understanding relevant concepts.
-The daily supervisor guides the student and provides constructive feedback on his or her performance. This feedback is important to improve skills and knowledge of the student, but also to foster an overall academic attitude. 
+#### Be contact for student questions
+The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
+####  Help with learning 
+The daily supervisor guides the student and provides constructive feedback on his or her performance, whether it mastering techniques or understanding key concepts . This feedback is important to improve skills and knowledge of the student, but also to foster an overall academic attitude.
 #### Provides feedback on overall performance and promotes scientific attitude.
 #### Joins midterm evaluation, together with student.
 #### Provides feedback on the draft version of the research report.
@@ -138,6 +138,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxNzAzMTA3ODksLTUzNzU4NzQ4MSwyMDgyNTA2MD
-Q0XX0=
+c3RvcnkiOlsxNTAwOTA4MTU5LC01Mzc1ODc0ODEsMjA4MjUwNj
+A0NF19
 -->

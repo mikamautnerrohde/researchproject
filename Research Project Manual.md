@@ -50,47 +50,10 @@ The Research Project goes through several phases:
 1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the students submits via the online form at Datanose.nl within one month of registering  the project.
 
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation todiscuss progress and mutual satisfaction of the student and supervisor.
-3. 
+3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given.
 
-3.
+Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors.
 
-In the final month of the project (or earlier if
-
-the supervisor
-
-deems
-
-this appropriate), the student
-
-will draft a re
-
-port on the conducted research, on which the supervisor provides feedback. This draft
-
-should be as definitive as possible, so that meaningful feedback can be given.
-
-Based on the feedback
-
-on
-
-this draft, the student
-
-will submit a final version to Datanose.nl
-
-, which will be graded
-
-by co
-
--
-
-assess
-
-or and examiner
-
-. See page 7
-
-for more information about grading.
-
-In this phas
 
 e, the student will also give an oral presentation about the Research Project, during a
 
@@ -117,6 +80,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstODQwNTMxOTc4LDY2Mzc1NDA0OCwtMTI3MzcyNz
-A2MywtNDY3OTA3NjkwXX0=
+c3RvcnkiOlsyMDQxOTkyNjksLTg0MDUzMTk3OCw2NjM3NTQwND
+gsLTEyNzM3MjcwNjMsLTQ2NzkwNzY5MF19
 -->

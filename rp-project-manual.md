@@ -147,11 +147,16 @@ Also note that upon submitting the grade, the student is immediately informed ab
 
 ## Miscellaneous issues
 ### Credits
-Credits
-
 The credits listed on the proposal form are those rewarded to the student. Students do not receive more credits for any extra time they put into the project if it is running late. As such it is important that a realistic time plan is made at the beginning of the project, to avoid a (costly) study delay for the student.
 
-If a project exceeds the originally planned deadline by six months or more, the Examinations Board of the master’s programme may contact the interdecide to deem the project as unsatisfactory, and no credits will be awarded for the research project.
+If a project exceeds the originally planned deadline by six months or more, the Examinations Board of the master’s programme may contact the internal assessor of the project for an explanation.
+
+### Insufficient performance
+As listed in table 2, there are minimum grades for all three assessment component. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
+
+Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it isimportant to explicitly inform the student about this. This way the student can either adapt performance
+
+accordingly, or choose to end the internship prematurely.
 
 
 
@@ -167,7 +172,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMjA4MjkzNzczLC02ODU3NTg3NSwtMTU1ODU4ND
-Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
-NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlstMTQ0ODQxOTk1NCwtNjg1NzU4NzUsLTE1NTg1OD
+Q2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0x
+NjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
 -->

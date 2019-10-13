@@ -115,9 +115,11 @@ The examiner is expected to collect the grade(s) given by the other assessor and
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are summarized in [table 2](#responsibilities-of-the-student). 
 
+If this ownership is not shown, or if any of the elements listed in table 2 should be done better, it is important that the supervisor provides timely feedback on this performance.
+
 ##### Table 2 - Responsibilities of the student
 | 
-:----: | 
+:---- | 
 The student formulates a clear research question | 
 The student develops and tests hypotheses that addresses the research question|
 The student schedules work to meet important deadlines| 
@@ -143,6 +145,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls4MTAwODQ0MzIsMTg2NjUwNDM3LC0xNjUyMzY5OT
-A1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstNjA2NzAzNjAyLDgxMDA4NDQzMiwxODY2NTA0Mz
+csLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+
 -->

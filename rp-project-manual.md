@@ -85,19 +85,21 @@ The daily supervisor guides the student and provides constructive feedback on hi
 #### Joins midterm evaluation, together with student.
 Halfway through the project, the student will schedule an evaluation meeting to discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for both parties to review how things are going.
 #### Provides feedback on the draft version of the research report.
-At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done.
+At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
-The draft version should be as complete as possible, to allow for effective feedback.
+The supervisor is expected to evaluate this draft report and provide the student with constructive feedback.
 
 ####  Evaluates experimental work and presentation
 In case the supervisor and internal assessor are not the same person, the supervisor is strongly encouraged to *advise* the internal assessor on grading the experimental work of the student, as well as the oral presentation on the project. 
 
 ### Internal assessor tasks
 #### Provides feedback on the draft version of the research report
-At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done.
+At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
-The draft version should be as complete as possible, to allow for effective feedback.
--   Grades experimental work, presentation and final report.
+The internal assessor is expected
+
+#### Grades experimental work, presentation and final report
+
 
 
 ### Student tasks
@@ -131,6 +133,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls3NTgzODY2MzEsLTE2NTIzNjk5MDUsLTUzNzU4Nz
+c3RvcnkiOlsxODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4Nz
 Q4MSwyMDgyNTA2MDQ0XX0=
 -->

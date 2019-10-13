@@ -18,9 +18,17 @@ To determine the grades for these components, assessors can use the rubrics list
 |Experimental skills  | Experimental work done by the student is not efficient, either because of low accuracy, low speed or the requirement of intensive supervision. |The student learned to employ the techniques that were necessary to gather data, but there is considerate room for improvement with regards to timeliness/accuracy. |The student worked in a timely and accurate fashion when applying the techniques relevant to this project. The student has a good idea of how the techniques work, but is not yet able to apply them independently or in a novel setting. |The student mastered the techniques that were necessary to gather data and understands their principles and their scope of applicability. The student is able to employ the techniques independently and in novel situations. The student works timely and accurately when doing such experimental work. |
 |Data analysis  |The student is not able to select a data analysis method and/or cannot analyze and interpret results without step-by-step supervision.  |The student is able to select an appropriate data analysis for acquired data in the domain of the research project and is also able to analyze and interpret the results, but still requires considerable supervision to do so, and is not capable of motivating important choices during the analysis.|The student is able to select appropriate data analysis methods for acquired data in the domain of the research project. The student has shown a good understanding of the workings of the analysis methods and is able to analyze and interpret results. |The student is able to select appropriate data analysis methods for acquired data in the domain of the research project, and can provide clear argumentation to support a choice. The student is able to perform analysis and interpret the results critically, while relatively unsupervised. |
 |Process |The learning process of the student was unnecessarily hindered for a long time and/or the student could not be relied upon when agreements or deadlines were set. Feedback had little effect to improve the learning of the student.  | The student stayed in control of the learning process, seeking out information independently or by asking questions. However, the learning process was unnecessarily hindered at times and/or the student had difficulties upholding agreements and deadlines. The student responded well to feedback.| The student showed initiative in learning, seeking out information independently or by asking questions. The student responded well to feedback and upheld agreements and deadlines.|The student has demonstrated to be inquisitive during the learning process, keeping the right balance between asking questions and learning independently. The student upheld agreements and deadlines, responded well to feedback and took initiative to structure the internship, set personal goals and optimize learning. |
-|Original contribution| Throughout the project,the student mostly followed instructions with regards to experimental design,data analysis and interpretation. The student did not bring in any ideas | | | |
+|Original contribution| Throughout the project,the student mostly followed instructions with regards to experimental design,data analysis and interpretation. The student did not bring in any substantial ideas for the project.| The student demonstrated the ability to make choices for the experimental design, data analysis and interpretation of results, in collaboration with the supervisor.|The student can formulate good hypotheses and make design choices independently. |The student can formulate good hypotheses and make design choices independently, and can articulate the good reasoning behind those choices. The student came
+
+up with original insights or
+
+ideas that clearly aided
+
+data collection, analysis or
+
+interpretation. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4ND
-Y1NjgwNl19
+eyJoaXN0b3J5IjpbODc0MjMyMzgwLDE1NjA1MjM0NTksLTE2NT
+Y5Mjk0MywyODQ2NTY4MDZdfQ==
 -->

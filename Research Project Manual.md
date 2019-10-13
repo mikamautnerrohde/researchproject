@@ -55,8 +55,6 @@ The Research Project goes through several phases:
 Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. 
 
 The student will also give an oral presentation about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
-
-.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -69,6 +67,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstNDgwOTUyODUsLTg0MDUzMTk3OCw2NjM3NTQwND
-gsLTEyNzM3MjcwNjMsLTQ2NzkwNzY5MF19
+c3RvcnkiOlstMTkyNzgwNjA1NywtODQwNTMxOTc4LDY2Mzc1ND
+A0OCwtMTI3MzcyNzA2MywtNDY3OTA3NjkwXX0=
 -->

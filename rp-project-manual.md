@@ -61,7 +61,7 @@ The Research Project goes through several phases:
 
 Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. 
 
-The student will also give an oral presentation about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
+The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes  about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
 
 ## Detailed tasks per role
 ### Supervisor tasks
@@ -149,7 +149,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMTU3MDY2NTg1LC0xNTU4NTg0NjQ4LC0yMTE4OT
+c3RvcnkiOlstNTIwNjA3OTM0LC0xNTU4NTg0NjQ4LC0yMTE4OT
 M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
 NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

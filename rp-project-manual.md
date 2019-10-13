@@ -128,6 +128,9 @@ The important deadlines are listed in Table 2.
 |Submitting proposal via datanose.nl/#yourprojects  | Within one month of starting date | Student|
 |Midterm evaluation meeting, prepared for using this form. | Halfway through the project | Student and supervisor|
 |Submit draft of research project (recommended)  | One month before ending date| Student sends draft, supervisor provides feedback|
+|Submit final report via datanose.nl/#yourprojects  | Project finish date | Student|
+|Present research findings in presentation of 20-30 minutes, with   | Project finish date | Student|
+
 
 
 ## Grading
@@ -200,8 +203,8 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMDEwNzk4MDAsLTY5Mzk2ODk5OSwtNjg1NzU4Nz
-UsLTE1NTg1ODQ2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2
-NjUwNDM3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNj
-A0NF19
+c3RvcnkiOls3MTM1OTk1NjEsMTAxMDc5ODAwLC02OTM5Njg5OT
+ksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEw
+MDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3ND
+gxLDIwODI1MDYwNDRdfQ==
 -->

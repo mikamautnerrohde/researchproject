@@ -128,14 +128,15 @@ As a research master student, the student enrolled in either *Research Project 1
   - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
 ## Grading
-Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 2 summarizes the different components, their contribution to the final grade and the minimum grade required per component.
+Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 2 summarizes the different components, their contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
 ##### Table 2 - Assessment forms
 | Component |Contribution to final grade| Graded by| Minimum grade | 
-|--|:--:|:--|:--:|
+|:--|:--:|:--|:--:|
 |Experimental work  |40%  |Internal assessor |5.5 |
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
+
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -148,7 +149,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsyOTI1MTA0OTcsLTE1NTg1ODQ2NDgsLTIxMTg5Mz
-g3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01
-Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstMTU1OTYzODA1MiwtMTU1ODU4NDY0OCwtMjExOD
+kzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUs
+LTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

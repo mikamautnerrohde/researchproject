@@ -96,10 +96,10 @@ In case the supervisor and internal assessor are not the same person, the superv
 #### Provides feedback on the draft version of the research report
 At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
-The internal assessor is expected
+The internal assessor is expected to evaluate this draft report and provide the student with constructive feedback.
 
 #### Grades experimental work, presentation and final report
-
+On
 
 
 ### Student tasks
@@ -133,6 +133,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4Nz
-Q4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlsxMzY4MTMxODcxLDE4NjY1MDQzNywtMTY1MjM2OT
+kwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

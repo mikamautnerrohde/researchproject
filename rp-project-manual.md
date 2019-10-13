@@ -87,19 +87,10 @@ Halfway through the project, the student will schedule an evaluation meeting to 
 #### Provide feedback on the draft version of the research report.
 At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done.
 
-The draft version should be as complete as possible, to allow for e
-####  Evaluates experimental work and presentation: advises internal assessor on grading
+The draft version should be as complete as possible, to allow for effective feedback.
 
-
-
-The intensity of supervision varies between projects, so it is important that this is discussed prior to the start of the research project, so that the student knows what to expect.
-.
-
-At the start of the project, the student is responsible for submitting a Research Proposal to the master’s
-
-programme. This proposal serves to prepare the student for the work ahead, but also to ensure that planning
-
-is realis
+####  Evaluates experimental work and presentation
+Besides the research report, the final grade of the student is also determined by performance on experimental work and by the oral presentation on the project. While the supervisor does not necessarily 
 
 tic. As a supervisor,
 
@@ -142,6 +133,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxNTUzODY3OTc3LC01Mzc1ODc0ODEsMjA4MjUwNj
+c3RvcnkiOlstMjc3Mjg1MzQ4LC01Mzc1ODc0ODEsMjA4MjUwNj
 A0NF19
 -->

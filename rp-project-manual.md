@@ -119,7 +119,7 @@ If this ownership is not shown, or if any of the elements listed in table 2 shou
 
 ##### Table 2 - Responsibilities of the student
 | 
-|:---- | 
+:---- | 
 The student formulates a clear research question | 
 The student develops and tests hypotheses that addresses the research question|
 The student schedules work to meet important deadlines| 
@@ -132,9 +132,6 @@ The student presents and discusses the research project orally upon completion|
 The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)|
 
 ## Grading
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
 N0YXJ0Ijo0OTUxLCJlbmQiOjQ5NzYsInRleHQiOiJNdXN0IGhv
@@ -146,7 +143,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlszMDMwNTI3NTUsODEwMDg0NDMyLDE4NjY1MDQzNy
-wtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlstMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0Mz
+csLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 
 -->

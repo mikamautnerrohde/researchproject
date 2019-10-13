@@ -43,9 +43,9 @@ Please note that the bandwidth of the category 'sufficient to good' is quite bro
 |Writing|The report deviates from style and language demands as defined in the style guide of the journal that was chosen as exemplary for the field.|The report follows the style guid of the journal that was chosen as exemplary for the field, language is precise and parsimonious and language and grammar follow academic standards.|The report follows the academic standards for style, language and grammar.It maintains flow, with smooth connections between paragraphs, an overall argumentation line and clearly motivated statements. The style fits the journal that was chosen as exemplary for the field.|
 
 # Determining the grades
-
+The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 10. [Here](https://student.uva.nl/en/content/az/grading-scheme/grading-scheme.html) you can find a comparison between the UvA grading scheme and other systems. Interpreted in light of the goals of the research master *Brain and Cognitive Sciences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MTEwOTEzLDc2MTgzMjU3NCwtMTc3MT
+eyJoaXN0b3J5IjpbODEyMjI3NTgxLDc2MTgzMjU3NCwtMTc3MT
 A1OTIyNCwtMTQ0MDM4MTc4NSwxNTYwNTIzNDU5LC0xNjU2OTI5
 NDMsMjg0NjU2ODA2XX0=
 -->

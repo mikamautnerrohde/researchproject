@@ -37,22 +37,18 @@ To determine the grades for these components, assessors can use the rubrics list
 |-|----|----|----|
 |Structure|Sections are poorly connected, or not connected at all. Questions, hypotheses,design, results and discussion do not form a coherent whole.|The different elements of the report are connected, with questions, hypotheses, design, results and discussion forming a coherent whole.|The different elements of the report are logically connected and sections are organized to explicate key points. Questions, hypotheses,design, results and discussion form a coherent whole. The flow of the text is natural and affords effective communication.|
 |Introduction|It is insufficiently clear why the research project is relevant and/or the theoretical framework is not explained clearly enough to warrant the research question and hypotheses.|The relevance of the research project is addressed and an overview of the theoretical framework is given, with the research question and hypotheses tying into this framework.|The relevance of the research project is persuasively demonstrated and it is clear how the project contributes to the field as a whole. The theoretical framework naturally leads into the research question and hypotheses.|
-|Methods|Operationalization is
+|Methods|Operationalization is lacking: it is not clear how data was gathered and/or what the overall design of the project was. Replication would be impossible on the basis of this report.|It is clear what the experimental procedures were, how samples were collected (e.g. how subjects were included, cells were obtained, etc.), and what the overall design of the project was.|The description of data acquisition is complete enough to allow other scientists to replicate the study. The relation between the concepts under investigation and their operationalization is clear and the choice of methods is justified
 
-lacking: it is not clear
+through logical
 
-how data was gathered
+argumentation or
 
-and/or what the overall
-
-design of the project
-
-was.|----|----|
+citations.|
 |Results|----|----|----|
 |Discussion|----|----|----|
 |Writing|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTE0MDY4MSwtMTc3MTA1OTIyNCwtMT
-Q0MDM4MTc4NSwxNTYwNTIzNDU5LC0xNjU2OTI5NDMsMjg0NjU2
-ODA2XX0=
+eyJoaXN0b3J5IjpbLTExOTg3MTg1MjQsLTE3NzEwNTkyMjQsLT
+E0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1
+NjgwNl19
 -->

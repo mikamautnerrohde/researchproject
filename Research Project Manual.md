@@ -3,7 +3,11 @@
 
 This manual concerns the modules *Research Project 1* and *Research Project 2* for students from the master programme *Brain and Cognitive Sciences* at the University of Amsterdam (UvA). It was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner.
 
-The research project is one of the capstones of our programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. During the research project, the student is trained to:
+The research project is one of the capstones of our programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. All students of the research master Brain and Cognitive Sciences conduct two research projects as mandatory parts of their curriculum:
+
+*Research Project 1* and *Research Project 2*.
+
+During the research projects, the student is trained to:
 
 1. Engage in the different phases of research in the field of brain and cognitive sciences (i.e. using and selecting relevant literature, choosing a research design, performing experimental work, analyzing data).
 
@@ -19,15 +23,6 @@ The research project is one of the capstones of our programme, in which students
 
 7. Reflect on and describe the limitations and implications of the research project.
 
-All students of the research master Brain and Cognitive Sciences conduct two research projects as mandatory
-
-parts of their curriculum:
-
-Research Project 1
-
-and
-
-Research Project 2
 
 .
 
@@ -105,5 +100,5 @@ the project is taking place. The tasks are described in more detail in the next 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc5NTcwMTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTIzOTY3MTNdfQ==
 -->

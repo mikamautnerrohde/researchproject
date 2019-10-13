@@ -130,17 +130,7 @@ The important deadlines are listed in Table 2.
 |Submit draft of research project (recommended)  | One month before ending date| Student sends draft, supervisor provides feedback|
 |Submit final report via datanose.nl/#yourprojects  | Project finish date | Student|
 |Present research findings in presentation of 20-30 minutes  | Project finish date | Student|
-|Grading | Within 20 working days after project completion| <ol> <li>Internal assessor grades experimental work, presentation and report (advised by supervisor). <li>External assessor grades report. <li>The two have contact to determine their feedback, reach consensus on grading.<li>
-
-Co
-
--assessor and/or examiner meet with
-
-student to provide feedback personally
-
-5.
-
-Examiner submits final grades to Datanose.nlr. |</ol>
+|Grading | Within 20 working days after project completion| <ol> <li>Internal assessor grades experimental work, presentation and report (advised by supervisor). <li>External assessor grades report. <li>The two have contact to determine their feedback, reach consensus on grading.<li>Supervisor and/or assessor meets student to provide feedback personally.<li>Examiner submits final grades to Datanose.nl. </ol>
 
 
 ## Grading
@@ -213,8 +203,8 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlszNzEwNTQxOTIsMTAxMDc5ODAwLC02OTM5Njg5OT
-ksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEw
-MDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3ND
-gxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlstMjA4MjI1NDE1LDEwMTA3OTgwMCwtNjkzOTY4OT
+k5LC02ODU3NTg3NSwtMTU1ODU4NDY0OCwtMjExODkzODc3LDgx
+MDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4Nz
+Q4MSwyMDgyNTA2MDQ0XX0=
 -->

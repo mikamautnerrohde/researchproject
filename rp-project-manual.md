@@ -124,16 +124,17 @@ As a research master student, the student enrolled in either *Research Project 1
   - The student presents and discusses the research project orally upon completion
   - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
-
-|  |  |
-|--|--|
-|  |  |
+The important deadlines are listed in Table 2.
+##### Table 2 - Important deadlines
+|What?  |When?  |Who?|
+|--|--|--|
+|  |  | |
 
 
 ## Grading
-Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 2 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
+Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 3 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
-##### Table 2 - Assessment forms
+##### Table 3 - Assessment forms
 | Component |Contribution to final grade| Graded by| Minimum grade | 
 |:--|:--:|:--|:--:|
 |Experimental work  |40%  |Internal assessor |5.5 |
@@ -158,7 +159,7 @@ The credits listed on the proposal form are those rewarded to the student. Stude
 If a project exceeds the originally planned deadline by six months or more, the Examinations Board of the master’s programme may contact the internal assessor of the project for an explanation.
 
 ### Insufficient performance
-As listed in table 2, there are minimum grades for all three assessment component. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
+As listed in table 3, there are minimum grades for all three assessment component. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
 
 Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it is important to explicitly inform the student about this. This way the student can either adapt performance accordingly, or choose to end the internship prematurely.
 
@@ -200,8 +201,8 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTQ0NjExNzAxMywtNjkzOTY4OTk5LC02ODU3NT
-g3NSwtMTU1ODU4NDY0OCwtMjExODkzODc3LDgxMDA4NDQzMiwx
-ODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNT
-A2MDQ0XX0=
+c3RvcnkiOlstMjQxNDY2ODI2LC02OTM5Njg5OTksLTY4NTc1OD
+c1LC0xNTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4
+NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MD
+YwNDRdfQ==
 -->

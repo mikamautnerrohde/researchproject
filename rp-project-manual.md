@@ -67,11 +67,14 @@ The student will also give an oral presentation about their Research Project, du
 ### Supervisor tasks
 
 #### Assists in creating realistic project planning, corresponding to workload.
-When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project. 
+When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project. The student can inform you about this EC count.
 
-Project size (EC)| Workload (hours) | Workload (months) 
-:----: | 
-The student formulates a clear research question | 
+Project size (EC)| Workload (hours) | Fulltime equivalent
+:----: | :----:|:----:|
+26 | 728
+32| 
+36|
+42|
 
 #### Contact person for student questions.
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable timeframe. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
@@ -134,5 +137,5 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTQ5MjAwNTU0NSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlstNDU5NjI0NzIsMjA4MjUwNjA0NF19
 -->

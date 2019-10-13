@@ -1,5 +1,4 @@
 # Research Project Manual
-[TOC]
 
 ## Introduction
 
@@ -65,6 +64,8 @@ Based on the feedback on this draft, the student will submit a final version to 
 The student will also give an oral presentation about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
 
 ## Detailed tasks per role
+### Supervisor tasks
+
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are summarized in [table 2](#responsibilities-of-the-student). 
 
@@ -82,11 +83,12 @@ The student writes an original report, in line with academic standards, in the f
 The student presents and discusses the research project orally upon completion|
 The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)|
 
-)
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0OTI5LCJlbmQiOjQ5NTQsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0OTIzLCJlbmQiOjQ5NDgsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -95,5 +97,5 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls4NzAzNDc3ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOls4NjEyOTc0MjYsMjA4MjUwNjA0NF19
 -->

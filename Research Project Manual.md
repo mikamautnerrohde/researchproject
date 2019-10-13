@@ -38,17 +38,13 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-Daily supervisor|Must be PhD candidate or a more senior researcher.Must be active in research
-
-group that hosts the
-
-internship |
-Phone | $12 |
-Pipe | $1 | 
+Daily supervisor|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship |
+Internal assessor | $12 |
+External assessor (also: co-assessor) | $1 | 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODMzMzE3MF19
+eyJoaXN0b3J5IjpbLTE2OTQ0NDAxMzJdfQ==
 -->

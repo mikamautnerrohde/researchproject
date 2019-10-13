@@ -124,6 +124,7 @@ As a research master student, the student enrolled in either *Research Project 1
   - The student presents and discusses the research project orally upon completion
   - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
+
 |  |  |
 |--|--|
 |  |  |
@@ -199,7 +200,8 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstNjkzOTY4OTk5LC02ODU3NTg3NSwtMTU1ODU4ND
-Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
-NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlstMTQ0NjExNzAxMywtNjkzOTY4OTk5LC02ODU3NT
+g3NSwtMTU1ODU4NDY0OCwtMjExODkzODc3LDgxMDA4NDQzMiwx
+ODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNT
+A2MDQ0XX0=
 -->

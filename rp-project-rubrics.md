@@ -52,9 +52,12 @@ The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 
 | 5.5 -- 6.0 | The work is only just sufficient at the level of a master's student. |
 | 6.5 -- 7.5 | The work meets reasonable expectations of a research master's student. |
 | 8.0 -- 8.5 | The work shows that the research master's student is performing at a high level. |
+| 9.0| The work demonstrates excellence. |
+| 9.5 -- 10.0 | The research master's students is performing at a level appropriate for. |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTUwOTg5MCw3NjE4MzI1NzQsLTE3Nz
-EwNTkyMjQsLTE0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1Njky
-OTQzLDI4NDY1NjgwNl19
+eyJoaXN0b3J5IjpbMjQwMTQ1MjIwLDc2MTgzMjU3NCwtMTc3MT
+A1OTIyNCwtMTQ0MDM4MTc4NSwxNTYwNTIzNDU5LC0xNjU2OTI5
+NDMsMjg0NjU2ODA2XX0=
 -->

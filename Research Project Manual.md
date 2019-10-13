@@ -43,7 +43,94 @@ Internal assessor | <ul><li>Is located in same lab/research group as supervisor.
 External assessor (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
 Examiner | <ul><li>Can be either the internal assessor or the external assessor. <li>Must be employed at UvA. <li>Must hold doctoral degree.</ul> | <ul><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
 
+## Phases of the Research Project
 
+The Research Project goes through several phases:
+
+1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the students submits via the online form at Datanose.nl within one month of 
+registering
+
+the project. See page 8
+
+for more information on the Research Proposal.
+
+2.
+
+In the subsequent m
+
+onths, the student will acquire and/
+
+or
+
+analyze
+
+the data relevant to the Research
+
+Project. At some convenient time within this phase, the student will have a Midterm Evaluation to
+
+discuss progress and mutual satisfaction of t
+
+he student and supervisor
+
+. See page 8
+
+for more
+
+information about the Midterm Evaluation.
+
+3.
+
+In the final month of the project (or earlier if
+
+the supervisor
+
+deems
+
+this appropriate), the student
+
+will draft a re
+
+port on the conducted research, on which the supervisor provides feedback. This draft
+
+should be as definitive as possible, so that meaningful feedback can be given.
+
+Based on the feedback
+
+on
+
+this draft, the student
+
+will submit a final version to Datanose.nl
+
+, which will be graded
+
+by co
+
+-
+
+assess
+
+or and examiner
+
+. See page 7
+
+for more information about grading.
+
+In this phas
+
+e, the student will also give an oral presentation about the Research Project, during a
+
+meeting at which at least the
+
+internal supervisors are present
+
+, but preferably
+
+in front of the
+
+research group
+
+.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -56,6 +143,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls2NjM3NTQwNDgsLTEyNzM3MjcwNjMsLTQ2NzkwNz
-Y5MF19
+c3RvcnkiOlstMTUwNDAwMjcyNiw2NjM3NTQwNDgsLTEyNzM3Mj
+cwNjMsLTQ2NzkwNzY5MF19
 -->

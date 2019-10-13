@@ -60,6 +60,11 @@ The student will also give an oral presentation about their Research Project, du
 ## Detailed tasks per role
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project.
+
+---
+Please note: students from *Brain and Cognitive Sciences* form a multidisciplinary group. Tenter internships at a wide range of hosting institutes. Some of them could work at philosophy departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer the research question.
+
+---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -72,7 +77,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTk0NzAwOTcyLC0xOTI3ODA2MDU3LC04NDA1Mz
-E5NzgsNjYzNzU0MDQ4LC0xMjczNzI3MDYzLC00Njc5MDc2OTBd
-fQ==
+c3RvcnkiOlsxNDAzNTc3NTA0LC0xOTQ3MDA5NzIsLTE5Mjc4MD
+YwNTcsLTg0MDUzMTk3OCw2NjM3NTQwNDgsLTEyNzM3MjcwNjMs
+LTQ2NzkwNzY5MF19
 -->

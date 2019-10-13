@@ -47,36 +47,10 @@ Examiner | <ul><li>Can be either the internal assessor or the external assessor.
 
 The Research Project goes through several phases:
 
-1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the students submits via the online form at Datanose.nl within one month of 
-registering
+1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the students submits via the online form at Datanose.nl within one month of registering  the project.
 
-the project. See page 8
-
-for more information on the Research Proposal.
-
-2.
-
-In the subsequent m
-
-onths, the student will acquire and/
-
-or
-
-analyze
-
-the data relevant to the Research
-
-Project. At some convenient time within this phase, the student will have a Midterm Evaluation to
-
-discuss progress and mutual satisfaction of t
-
-he student and supervisor
-
-. See page 8
-
-for more
-
-information about the Midterm Evaluation.
+2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation todiscuss progress and mutual satisfaction of the student and supervisor.
+3. 
 
 3.
 
@@ -143,6 +117,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTUwNDAwMjcyNiw2NjM3NTQwNDgsLTEyNzM3Mj
-cwNjMsLTQ2NzkwNzY5MF19
+c3RvcnkiOlstODQwNTMxOTc4LDY2Mzc1NDA0OCwtMTI3MzcyNz
+A2MywtNDY3OTA3NjkwXX0=
 -->

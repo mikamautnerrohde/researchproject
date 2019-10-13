@@ -42,9 +42,10 @@ Please note that the bandwidth of the category 'sufficient to good' is quite bro
 |Discussion|The discussion offers limited reflection on the results, so that it is unclear what the research has added to the existing body of knowledge, or what critical comments should be placed to interpret the research findings.|The research question is answered on the basis of the results and the discussion evaluates what this means for the theoretical framework.|The research question is answered on the basis of the results and the discussion evaluates what this means for the theoretical framework, while considering the strong and weak points of the approach taken in the research project. Open questions are identified and follow-up research is clearly suggested in a comprehensive analysis of the results that were obtained.|
 |Writing|The report deviates from style and language demands as defined in the style guide of the journal that was chosen as exemplary for the field.|The report follows the style guid of the journal that was chosen as exemplary for the field, language is precise and parsimonious and language and grammar follow academic standards.|The report follows the academic standards for style, language and grammar.It maintains flow, with smooth connections between paragraphs, an overall argumentation line and clearly motivated statements. The style fits the journal that was chosen as exemplary for the field.|
 
+# Determining the grades
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODU5OTc2NSw3NjE4MzI1NzQsLTE3Nz
-EwNTkyMjQsLTE0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1Njky
-OTQzLDI4NDY1NjgwNl19
+eyJoaXN0b3J5IjpbODc1MTEwOTEzLDc2MTgzMjU3NCwtMTc3MT
+A1OTIyNCwtMTQ0MDM4MTc4NSwxNTYwNTIzNDU5LC0xNjU2OTI5
+NDMsMjg0NjU2ODA2XX0=
 -->

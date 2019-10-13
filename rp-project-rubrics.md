@@ -32,8 +32,15 @@ To determine the grades for these components, assessors can use the rubrics list
 
 ## Research report (50%)
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
+|Structure|----|----|----|
+|Introduction|----|----|----|
+|Methods |----|----|----|
+|-|----|----|----|
+|-|----|----|----|
+|-|----|----|----|
 |-|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEwNTkyMjQsLTE0NDAzODE3ODUsMT
-U2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1NjgwNl19
+eyJoaXN0b3J5IjpbLTE5MDQ1NDc0ODYsLTE3NzEwNTkyMjQsLT
+E0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1
+NjgwNl19
 -->

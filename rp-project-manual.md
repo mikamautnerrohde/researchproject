@@ -146,7 +146,12 @@ In the case where the external assessor is the examiner, please note that the in
 Also note that upon submitting the grade, the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting them to Datanose.
 
 ## Miscellaneous issues
+### Credits
+Credits
 
+The credits listed on the proposal form are those rewarded to the student. Students do not receive more credits for any extra time they put into the project if it is running late. As such it is important that a realistic time plan is made at the beginning of the project, to avoid a (costly) study delay for the student.
+
+If a project exceeds the originally planned deadline by six months or more, the Examinations Board of the master’s programme may contact the interdecide to deem the project as unsatisfactory, and no credits will be awarded for the research project.
 
 
 
@@ -162,7 +167,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTA2MjUyMDQ4LC02ODU3NTg3NSwtMTU1ODU4ND
+c3RvcnkiOlsxMjA4MjkzNzczLC02ODU3NTg3NSwtMTU1ODU4ND
 Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
 NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

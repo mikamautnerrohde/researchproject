@@ -69,51 +69,10 @@ Note for the reader: students from *Brain and Cognitive Sciences* form a multidi
 | 
 :----: | 
 The student formulates a clear research question | 
-Phone |
-Pipe | 
-
-
-The student develops and test
-
-s
-
-a hypothesis that addresses th
-
-e question
-
-The student
-
-creates
-
-/plans
-
-a reasonable timeline for the
-
-research
-
-The student
-
-collects and
-
-reads
-
-relevant literature and in due time
-
-incorporat
-
-es
-
-th
-
-is
-
-in the written report
-
-The student writes and submits a Research Proposal to the programme
-
-within one month after
-
-registering
+The student develops and tests hypotheses that addresses the research question|
+The student schedules work to meet important deadlines| 
+The student collects and reads relevant literature|
+The student writes and submits a Research Proposal to the programme within one month afterregistering
 
 the project
 
@@ -168,7 +127,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTk0MTAxNjc4OCwtMTk0NzAwOTcyLC0xOTI3OD
-A2MDU3LC04NDA1MzE5NzgsNjYzNzU0MDQ4LC0xMjczNzI3MDYz
-LC00Njc5MDc2OTBdfQ==
+c3RvcnkiOlszMTI3NzkzMjQsLTE5NDcwMDk3MiwtMTkyNzgwNj
+A1NywtODQwNTMxOTc4LDY2Mzc1NDA0OCwtMTI3MzcyNzA2Mywt
+NDY3OTA3NjkwXX0=
 -->

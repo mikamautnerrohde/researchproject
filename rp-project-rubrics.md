@@ -31,16 +31,14 @@ To determine the grades for these components, assessors can use the rubrics list
 |Eye contact and elocution|The student mumbles or is otherwise difficult to follow, and makes too much use of notes or other supportive material to stay on track.|Student is mostly clear and mostly maintains appropriate eye contact, but makes use of notes or other supportive material a bit too often, or at times has trouble expressing ideas.|Student uses a clear voice and correct English, so that everyone can easily follow the presentation. The student appropriate maintains eye contact with the group, while making little use of notes or presentation slides to stay on track.|
 
 ## Research report (50%)
+
+
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
+|-|----|----|----|
 |Structure|----|----|----|
-|Introduction|----|----|----|
-|Methods |----|----|----|
-|-|----|----|----|
-|-|----|----|----|
-|-|----|----|----|
 |-|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ1NDc0ODYsLTE3NzEwNTkyMjQsLT
-E0NDAzODE3ODUsMTU2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1
-NjgwNl19
+eyJoaXN0b3J5IjpbLTE0MDQ1NjI5NiwtMTc3MTA1OTIyNCwtMT
+Q0MDM4MTc4NSwxNTYwNTIzNDU5LC0xNjU2OTI5NDMsMjg0NjU2
+ODA2XX0=
 -->

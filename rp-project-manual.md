@@ -74,32 +74,10 @@ The student schedules work to meet important deadlines|
 The student collects and reads relevant literature|
 The student writes and submits a Research Proposal to the programme within one month after registering the project|
 The student gathers reliable and sufficient data for testing the hypotheses|
-
-The student processes and analyzes the data critically, to
-
-answer the research question
-
-The student writes an original report, in line with academic standards, in the fashion of a research article
-
-from the respective field
-
-The student presents and discusses the research project orally
-
-The student
-
-takes
-
-initiative to make
-
-the project
-
-a
-
-success (i.e. identifying issues, troubleshooting, setting up
-
-necessary meetings, scheduling the Midterm
-
-Evaluation
+The student processes and analyzes the data critically, to answer the research question|
+The student writes an original report, in line with academic standards, in the fashion of a research article from the respective field|
+The student presents and discusses the research project orally|
+The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)|
 
 )
 > Written with [StackEdit](https://stackedit.io/).
@@ -114,5 +92,5 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlsxNDgwNTMwMzgxLDIwODI1MDYwNDRdfQ==
 -->

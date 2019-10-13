@@ -45,9 +45,9 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 #####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-Daily supervisor|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
-Internal assessor | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Provides feedback on the draft version of the research report. <li>Grades experimental work, presentation and final report.</ul>
-External assessor (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
+[Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
+[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Provides feedback on the draft version of the research report. <li>Grades experimental work, presentation and final report.</ul>
+[External assessor]( (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
 Examiner | <ul><li>Can be either the internal assessor or the external assessor. <li>Must be employed at UvA. <li>Must hold doctoral degree.</ul> | <ul><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
 
 ## Phases of the Research Project
@@ -136,7 +136,7 @@ The student takes initiative to make the project a success (i.e. identifying iss
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0ODU1LCJlbmQiOjQ4ODAsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0OTA3LCJlbmQiOjQ5MzIsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -145,7 +145,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTQwNTI2MTIyOCw4MTAwODQ0MzIsMTg2NjUwND
-M3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstMjY0MTU2ODM1LDgxMDA4NDQzMiwxODY2NTA0Mz
+csLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 
 -->

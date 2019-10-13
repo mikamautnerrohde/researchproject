@@ -28,41 +28,11 @@ During the research projects, the student is trained to:
 
 To reach these goals, the student will work together with a daily supervisor, an internal assessor and an external assessor. 
 
-The daily supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to have the supervisor and  internal assessor to b
+The daily supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to have both the supervisor and  internal assessor role, as long as these requirements are met.
 
-One of the other two roles
+The external assessor should be a researcher from another group, who still has relevant expertise (whether topic-wise or method-wise) to assess the final report that is written on the project.
 
-(co
-
--assessor or examiner
-
-) should be a senior researcher
-
-in that
-
-research group
-
-. The other role
-
-(examiner or co
-
--assessor
-
-) should be a researcher from another research
-
-group who still has relevant expertise to assess the student’s research project repor
-
-t. Note that
-
-the
-
-examiner
-
-needs
-
-be permanent staff at the University of Amsterdam (UvA)
-
-, as only UvA staff can register the student’s
+One of the assessors will be d
 
 grade.
 
@@ -86,5 +56,5 @@ the project is taking place. The tasks are described in more detail in the next 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEzMjI2MTRdfQ==
+eyJoaXN0b3J5IjpbMTA2MzgyMDcxNF19
 -->

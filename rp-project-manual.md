@@ -138,6 +138,11 @@ To grade the different components or to get a better idea about the expected lev
 
 The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme.
 
+### Submitting the grade
+The examiner will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, the examiner can fill in the online grading rubric and submit the final grade.
+
+Please note that upon submitting the grade, the stud
+
 
 
 
@@ -153,7 +158,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMzczOTExNDg2LC02ODU3NTg3NSwtMTU1ODU4ND
-Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
-NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlsxMzY1NzIwOTYsLTY4NTc1ODc1LC0xNTU4NTg0Nj
+Q4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1
+MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

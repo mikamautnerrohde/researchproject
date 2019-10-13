@@ -38,46 +38,7 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-Daily supervisor|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Helps with learning techniques, understanding relevant concepts.<li>Provides feedback on overall performance and promotes scientific attitude
-
-
-Joins
-
-midterm
-
-evaluation
-
-, together
-
-with student
-
-•
-
-Provides feedback on the draft
-
-version
-
-of research report
-
-•
-
-Evaluates
-
-experimental work and
-
-presentation
-
-and
-
-advisesin
-
-ternal
-
-co
-
--assessor or examiner
-
-on grading </ul> 
+Daily supervisor|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Helps with learning techniques, understanding relevant concepts.<li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading </ul> 
 Internal assessor | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|
 External assessor (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | 
 Examiner | <ul><li>Can be either the internal assessor or the external assessor. <li>Must be employed at UvA. <li>Must hold doctoral degree. </ul> | 
@@ -85,5 +46,5 @@ Examiner | <ul><li>Can be either the internal assessor or the external assessor.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ4NDc4ODksLTQ2NzkwNzY5MF19
+eyJoaXN0b3J5IjpbMjEzNDEzMzE1OSwtNDY3OTA3NjkwXX0=
 -->

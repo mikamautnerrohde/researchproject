@@ -119,7 +119,7 @@ If this ownership is not shown, or if any of the elements listed in table 2 shou
 
 ##### Table 2 - Responsibilities of the student
 | 
-:---- | 
+|:---- | 
 The student formulates a clear research question | 
 The student develops and tests hypotheses that addresses the research question|
 The student schedules work to meet important deadlines| 
@@ -145,7 +145,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstNjA2NzAzNjAyLDgxMDA4NDQzMiwxODY2NTA0Mz
-csLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlstMTQwNTI2MTIyOCw4MTAwODQ0MzIsMTg2NjUwND
+M3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
 
 -->

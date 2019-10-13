@@ -65,21 +65,19 @@ The student will also give an oral presentation about their Research Project, du
 
 ## Detailed tasks per role
 ### Supervisor tasks
+
+#### Assists in creating realistic project planning, corresponding to workload.
+#### Contact person for student questions.
+####  Helps with learning techniques, understanding relevant concepts.
+#### Provides feedback on overall performance and promotes scientific attitude.
+#### Joins midterm evaluation, together with student.
+#### Provides feedback on the draft version of the research report.
+-   Evaluates experimental work and presentation: advises internal assessor on grading
 The daily supervisor guides the student and provides constructive feedback on his or her performance. This feedback is important to improve skills and knowledge of the student, but also to foster an overall academic attitude. During the research project, the supervisor should be available to discuss problems within a reasonable timeframe.
 
 When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
- The i
 
-ntensity of supervision varies between projects
-
-, so it is important that
-
-prior to the research project
-
-the student knows what he/she can expect of the
-
-supervision
-
+The intensity of supervision varies between projects, so it is important that this is discussed prior to the start of the research project, so that the student knows what to expect.
 .
 
 At the start of the project, the student is responsible for submitting a Research Proposal to the master’s
@@ -129,5 +127,5 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTE0OTE3MjIwMCwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlstMTMzNDExODA3MiwyMDgyNTA2MDQ0XX0=
 -->

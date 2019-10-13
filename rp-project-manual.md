@@ -96,18 +96,18 @@ At the end of the project, the student will submit a draft version of the resear
 The internal assessor is expected to evaluate this draft report and provide the student with constructive feedback.
 
 #### Grade experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the Grading Rubrics appended to this manual. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading.
 
 ### External assessor tasks
 #### Grade final report
-The external assessor is expected to grade the final report, using the Grading Rubric appended to this manual.
+The external assessor is expected to grade the final report. See [here](#grading) for more information about grading.
 
 ### Examiner tasks
 #### Submit the final grade.
 The examiner is expected to submit the final grade to the programme via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
 
 #### Guarantee validity of the grade.
-The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and reaching consensus if opinions about the final grade diverge too much.
+The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and reaching consensus if opinions about the final grade diverge too much. See [here](#grading) for more information.
 
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are: 
@@ -153,7 +153,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls5Njk5Mzg5NDksLTY4NTc1ODc1LC0xNTU4NTg0Nj
-Q4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1
-MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlsxMzczOTExNDg2LC02ODU3NTg3NSwtMTU1ODU4ND
+Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
+NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

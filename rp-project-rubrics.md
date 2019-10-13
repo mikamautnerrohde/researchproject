@@ -23,8 +23,14 @@ To determine the grades for these components, assessors can use the rubrics list
 ## Presentation
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
 |-|----|----|----|
-|Structure of the presentation | The structure of the presentation is lacking, because elements are missing or are not connected in a way that facilitates communication.|The presentation deals with the necessary elements (question, methods, results, discussion/conclusion), but the chosen structure is not ideal to convey this information. | | |
+|Structure of the presentation | The structure of the presentation is lacking, because elements are missing or are not connected in a way that facilitates communication.|The presentation deals with the necessary elements (question, methods, results, discussion/conclusion), but the chosen structure is not ideal to convey this information. |The presentation has an engaging opening and then tells a coherent, clear story that explains the research question, research design, results and their discussion and conclusion. The transitions between different elements of the presentation are smooth and the presentation builds towards clear conclusions and discussion points.|
+|-|----|----|----|
+|-|----|----|----|
+|-|----|----|----|
+|-|----|----|----|
+|-|----|----|----|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTIxODM4NjcsMTU2MDUyMzQ1OSwtMT
-Y1NjkyOTQzLDI4NDY1NjgwNl19
+eyJoaXN0b3J5IjpbLTY5Nzc1NjgzNywxNTYwNTIzNDU5LC0xNj
+U2OTI5NDMsMjg0NjU2ODA2XX0=
 -->

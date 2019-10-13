@@ -36,11 +36,19 @@ One of the assessors will be designated examiner, and will hold ultimate respons
 
 Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the next section.
 
+Role| Requirements| Responsibilities
+----- | ----- | ---------
+Daily supervisor|Must be PhD candidate or a more senior researcher.Must be active in research
 
+group that hosts the
+
+internship |
+Phone | $12 |
+Pipe | $1 | 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTkwMDQ3OF19
+eyJoaXN0b3J5IjpbLTk0ODMzMzE3MF19
 -->

@@ -80,36 +80,36 @@ Once the proposal has been approved, it will not be possible to change the EC re
 #### Be contact for student questions
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
 
-#### Provides feedback on overall performance and promotes scientific attitude.
+#### Provide feedback on overall performance and promotes scientific attitude.
 The daily supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
-#### Joins midterm evaluation, together with student.
+#### Join midterm evaluation, together with student.
 Halfway through the project, the student will schedule an evaluation meeting to discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for both parties to review how things are going.
-#### Provides feedback on the draft version of the research report.
+#### Provide feedback on the draft version of the research report.
 At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
 The supervisor is expected to evaluate this draft report and provide the student with constructive feedback.
 
-####  Evaluates experimental work and presentation
+####  Evaluate experimental work and presentation
 In case the supervisor and internal assessor are not the same person, the supervisor is strongly encouraged to *advise* the internal assessor on grading the experimental work of the student, as well as the oral presentation on the project. 
 
 ### Internal assessor tasks
-#### Provides feedback on the draft version of the research report
+#### Provide feedback on the draft version of the research report
 At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
 The internal assessor is expected to evaluate this draft report and provide the student with constructive feedback.
 
-#### Grades experimental work, presentation and final report
+#### Grade experimental work, presentation and final report
 The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the Grading Rubrics appended to this manual. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading.
 
 ### External assessor tasks
-#### Grades final report
+#### Grade final report
 The external assessor is expected to grade the final report, using the Grading Rubric appended to this manual.
 
 ### Examiner tasks
-#### Submits the final grade.
+#### Submit the final grade.
 The examiner is expected to submit the final grade to the programme via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
 
-#### Guarantees validity of the grade.
+#### Guarantee validity of the grade.
 The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and reaching consensus if opinions about the final grade diverge too much.
 
 ### Student tasks
@@ -131,6 +131,7 @@ The student writes an original report, in line with academic standards, in the f
 The student presents and discusses the research project orally upon completion|
 The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)|
 
+## Grading
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -145,7 +146,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstNjM4OTQ2MDM2LDgxMDA4NDQzMiwxODY2NTA0Mz
-csLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlszMDMwNTI3NTUsODEwMDg0NDMyLDE4NjY1MDQzNy
+wtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 
 -->

@@ -27,10 +27,10 @@ To determine the grades for these components, assessors can use the rubrics list
 |Relevance of the research|The relevance of the research questions are not made clear through the presentation.|The presentation shows how the question of the research project relates to existing knowledge and what could be its application, but not very persuasively or comprehensively.|The presentation clearly shows why the student’s research question is worth investigating. The student comprehensively shows the place of the research project in the existing body of knowledge and clearly delineates what the research project adds to this body and/or its applications.|
 |Clarity of design|There is information missing, too much unnecessary information or the presentation of the design is otherwise not clear.|The presentation contains all necessary information about the goals and the design of the experiment, but important choices were left unexplained or were not communicated clearly.|The presentation clearly conveys the design that was used to answer the research question(s). It makes good use of graphs, contains no unnecessary information and is easily readable.|
 |Results|The results are not clear from the presentation.|The presentation lists the important results, but the steps that were made to arrive at the results are omitted or not clearly explained.|The presentation clearly conveys the important results from the project and how they were obtained. Where relevant, the student goes through steps of analyses and the explanation is supported through good use of graphs and figures.|
-|Discussion|----|----|----|
+|Discussion|The student is not able to provide satisfactory answers to questions about the research.|The student is able to answer basic questions about aims and design choices, but is not able to critically reflect on the research.|----|
 |Eye contact and elocution|----|----|----|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgzMTgyNDksLTE0NDAzODE3ODUsMT
-U2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1NjgwNl19
+eyJoaXN0b3J5IjpbLTg0MTUzNDM5MywtMTQ0MDM4MTc4NSwxNT
+YwNTIzNDU5LC0xNjU2OTI5NDMsMjg0NjU2ODA2XX0=
 -->

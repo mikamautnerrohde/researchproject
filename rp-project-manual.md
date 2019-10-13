@@ -99,7 +99,7 @@ At the end of the project, the student will submit a draft version of the resear
 The internal assessor is expected to evaluate this draft report and provide the student with constructive feedback.
 
 #### Grades experimental work, presentation and final report
-On
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expect
 
 
 ### Student tasks
@@ -133,6 +133,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMzY4MTMxODcxLDE4NjY1MDQzNywtMTY1MjM2OT
+c3RvcnkiOlsxMTUyMTk5NjYyLDE4NjY1MDQzNywtMTY1MjM2OT
 kwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

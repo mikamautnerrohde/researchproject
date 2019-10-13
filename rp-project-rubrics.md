@@ -28,22 +28,10 @@ To determine the grades for these components, assessors can use the rubrics list
 |Clarity of design|There is information missing, too much unnecessary information or the presentation of the design is otherwise not clear.|The presentation contains all necessary information about the goals and the design of the experiment, but important choices were left unexplained or were not communicated clearly.|The presentation clearly conveys the design that was used to answer the research question(s). It makes good use of graphs, contains no unnecessary information and is easily readable.|
 |Results|The results are not clear from the presentation.|The presentation lists the important results, but the steps that were made to arrive at the results are omitted or not clearly explained.|The presentation clearly conveys the important results from the project and how they were obtained. Where relevant, the student goes through steps of analyses and the explanation is supported through good use of graphs and figures.|
 |Discussion|The student is not able to provide satisfactory answers to questions about the research.|The student is able to answer basic questions about aims and design choices, but is not able to critically reflect on the research.|The student is able to engage in a productive, critical discussion about the research project and can aptly respond to questions about it.|
-|Eye contact and elocution|The student mumbles or is otherwise difficult to follow, and makes too much use of notes or other supportive material to stay on track.|Student is mostly clear and mostly maintains appropriate eye contact, but makes use of notes or other supportive material a bit too often, or at times has trouble expressing ideas.|Student uses a clear voice and correct English, so that
-everyone can easily follow
+|Eye contact and elocution|The student mumbles or is otherwise difficult to follow, and makes too much use of notes or other supportive material to stay on track.|Student is mostly clear and mostly maintains appropriate eye contact, but makes use of notes or other supportive material a bit too often, or at times has trouble expressing ideas.|Student uses a clear voice and correct English, so that everyone can easily follow the presentation. The student appropriate maintains eye contact with the group, while making little use of notes or presentation slides to stay on track.|
 
-the presentation. The
-
-student maintains eye
-
-contact with the group,
-
-making little use of notes or
-
-presentation slides to stay
-
-on track.|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODQ4OTQ0MywtMTQ0MDM4MTc4NSwxNT
-YwNTIzNDU5LC0xNjU2OTI5NDMsMjg0NjU2ODA2XX0=
+eyJoaXN0b3J5IjpbLTEwNTMzNTcyNTUsLTE0NDAzODE3ODUsMT
+U2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1NjgwNl19
 -->

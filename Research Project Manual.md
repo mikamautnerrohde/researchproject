@@ -38,15 +38,13 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-Daily supervisor|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship |
-Internal assessor | Holds a doctoral degree. Can be same person as daily supervisor, as long requirements for both roles are met. Is located at different lab/research group ex
-
-examiner |
-External assessor (also: co-assessor) | $1 | 
+Daily supervisor|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship. |
+Internal assessor | Is located in same lab/research group as supervisor. Holds a doctoral degree. Can be same person as daily supervisor, as long requirements for both roles are met.|
+External assessor (also: co-assessor) | Holds a doctoral degree. Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). | 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQzMzc0NDIsLTQ2NzkwNzY5MF19
+eyJoaXN0b3J5IjpbLTE5OTA4NjQ0MDYsLTQ2NzkwNzY5MF19
 -->

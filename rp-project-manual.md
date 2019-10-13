@@ -46,7 +46,7 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
 [Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
-[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Provides feedback on the draft version of the research report. <li>Grades experimental work, presentation and final report.</ul>
+[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul> <li>Grades experimental work, presentation and final report.</ul>
 [External assessor](#external-assessor-tasks) (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
 [Examiner](#examiner-tasks) | <ul><li>Can be either the internal assessor or the external assessor. <li>Must be employed at UvA. <li>Must hold doctoral degree.</ul> | <ul><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
 
@@ -90,10 +90,6 @@ The supervisor is expected to evaluate this draft report and provide the student
 In case the supervisor and internal assessor are not the same person, the supervisor is strongly encouraged to *advise* the internal assessor on grading the experimental work of the student, as well as the oral presentation on the project. 
 
 ### Internal assessor tasks
-#### Provide feedback on the draft version of the research report
-At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
-
-The internal assessor is expected to evaluate this draft report and provide the student with constructive feedback.
 
 #### Grade experimental work, presentation and final report
 The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading.
@@ -131,7 +127,7 @@ The important deadlines are listed in Table 2.
 |Registering the project via datanose.nl/#yourprojects  | As soon as supervisor and assessors are determined. | Student|
 |Submitting proposal via datanose.nl/#yourprojects  | Within one month of starting date | Student|
 |Midterm evaluation meeting, prepared for using this form. | Halfway through the project | Student and supervisor|
-|Submit draft of research project (recommended)  | One month before ending date| Student send draft, supervisor and internal assessor provide feedback|
+|Submit draft of research project (recommended)  | One month before ending date| Student sends draft, supervisor provides feedback|
 
 
 ## Grading
@@ -195,7 +191,7 @@ Late submission of the Research Project Proposal will not affect the grading of 
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0OTY2LCJlbmQiOjQ5OTEsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0OTAwLCJlbmQiOjQ5MjUsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -204,8 +200,8 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMjI2MDQzNzg1LC02OTM5Njg5OTksLTY4NTc1OD
-c1LC0xNTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4
-NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MD
-YwNDRdfQ==
+c3RvcnkiOlsxMDEwNzk4MDAsLTY5Mzk2ODk5OSwtNjg1NzU4Nz
+UsLTE1NTg1ODQ2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2
+NjUwNDM3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNj
+A0NF19
 -->

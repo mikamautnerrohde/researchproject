@@ -34,19 +34,13 @@ The external assessor should be a researcher from another group, who still has r
 
 One of the assessors will be designated examiner, and will hold ultimate responsibility for the final grade. This examiner needs to be a UvA employee with a doctoral degree.
 
-Table 1 summarizes the requirements and responsibilities of the different roles.
+Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the next section.
 
-Please note that the tasks
 
-for both examiner and co
-
--assessor are dependent on whether they are internal or external to the lab where
-
-the project is taking place. The tasks are described in more detail in the next section.
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0Mzk4MDUwXX0=
+eyJoaXN0b3J5IjpbLTU1NTkwMDQ3OF19
 -->

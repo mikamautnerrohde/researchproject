@@ -40,9 +40,9 @@ The external assessor should be a researcher from another group, who still has r
 
 One of the assessors will be designated examiner, and will hold ultimate responsibility for the final grade. This examiner needs to be a UvA employee with a doctoral degree.
 
-Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the section [Detailed tasks per role](#detailed-tasks-per-role).
+Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the section *[Detailed tasks per role](#detailed-tasks-per-role)*.
 
-#####  Table 1 - Roles and responsibilities
+#####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
 [Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
@@ -176,22 +176,16 @@ The Research Project Proposal serves two goals:
 
 Both goals are served by timely submission of the proposal. In the case of goal 1, the possible scenario in which the programme rejects a proposed research project is extra costly for the student if the project has been ongoing for a relatively long time. In the case of goal 2, late submission may indicate that the student spent a relatively long time without clear plans or goals, which jeopardizes the learning process.
 
-Therefore, the Research Project Proposal must be submitted within four weeks after the registration date of the internship. If submitted more than two weeks late, the Examinations Board considers the use of time within the internship to have been inefficient. The registration date of the project will then be shifted to six weeks before the submission date of the (complete) Research Project Proposal Form. This will also shift the ending date of the project accordingly.
+Therefore, the Research Project Proposal must be submitted within four weeks after the registration date of the internship. If submitted more than two weeks late, the Examinations Board considers the use of time within the internship to have been inefficient. The registered starting date of the project will then be shifted to six weeks before the submission date of the (complete) Research Project Proposal Form. This will also shift the ending date of the project accordingly.
 
-Late submission of the Research Project Proposal will not affect the grading of the research project,
-
-but the submission date of the final report (and therefore
-
-the registration date of the grade)
-
-cannot be before the ending date of the project.
+Late submission of the Research Project Proposal will not affect the grading of the research project, but the submission date of the final report (and therefore the registration date of the grade) cannot be before the ending date of the project.
 
 .
 
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0OTUwLCJlbmQiOjQ5NzUsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0OTY2LCJlbmQiOjQ5OTEsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -200,7 +194,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls4MjQyMzg1NTcsLTY4NTc1ODc1LC0xNTU4NTg0Nj
-Q4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1
-MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlstMTc1Nzg0MTk2NywtNjg1NzU4NzUsLTE1NTg1OD
+Q2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0x
+NjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
 -->

@@ -85,7 +85,7 @@ The daily supervisor guides the student and provides constructive feedback on hi
 #### Joins midterm evaluation, together with student.
 Halfway through the project, the student will schedule an evaluation meeting to discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for both parties to review how things are going.
 #### Provide feedback on the draft version of the research report.
-At the end of the project, the student will submit a draft
+At the end of the project, the student will submit a draft version of the research report. This report should be written in a format that is appropriate to the field in which the internship takes place (e.g. as an article in a journal , and it should clearly convey the work that the student has done
 ####  Evaluates experimental work and presentation: advises internal assessor on grading
 
 
@@ -140,6 +140,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls4NjMyNDE3NjksLTUzNzU4NzQ4MSwyMDgyNTA2MD
-Q0XX0=
+c3RvcnkiOlsxMjk3ODIzNDE4LC01Mzc1ODc0ODEsMjA4MjUwNj
+A0NF19
 -->

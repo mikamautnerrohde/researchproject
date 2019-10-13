@@ -141,9 +141,12 @@ The final report is graded by both the internal and the external assessor. Their
 ### Submitting the grade
 The examiner will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, the examiner can fill in the online grading rubric and submit the final grade.
 
-Please note that the internal assessor should inform the examiner about the grades for the three different components, prior to the examiner submitting the final grade.
+In the case where the external assessor is the examiner, please note that the internal assessor should inform the examiner about the grades for the three different components.
 
-Please note that upon submitting the grade, the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting them to Datanose.
+Also note that upon submitting the grade, the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting them to Datanose.
+
+## Miscellaneous issues
+
 
 
 
@@ -159,7 +162,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTg2MDU3MDMwMCwtNjg1NzU4NzUsLTE1NTg1OD
-Q2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0x
-NjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstMTA2MjUyMDQ4LC02ODU3NTg3NSwtMTU1ODU4ND
+Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
+NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

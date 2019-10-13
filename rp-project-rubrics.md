@@ -20,7 +20,7 @@ To determine the grades for these components, assessors can use the rubrics list
 |Process |The learning process of the student was unnecessarily hindered for a long time and/or the student could not be relied upon when agreements or deadlines were set. Feedback had little effect to improve the learning of the student.  | The student stayed in control of the learning process, seeking out information independently or by asking questions. However, the learning process was unnecessarily hindered at times and/or the student had difficulties upholding agreements and deadlines. The student responded well to feedback.| The student showed initiative in learning, seeking out information independently or by asking questions. The student responded well to feedback and upheld agreements and deadlines.|The student has demonstrated to be inquisitive during the learning process, keeping the right balance between asking questions and learning independently. The student upheld agreements and deadlines, responded well to feedback and took initiative to structure the internship, set personal goals and optimize learning. |
 |Original contribution| Throughout the project, the student mostly followed instructions with regards to experimental design,data analysis and interpretation. The student did not bring in any substantial ideas for the project.| The student demonstrated the ability to make choices for the experimental design, data analysis and interpretation of results, in collaboration with the supervisor.|The student can formulate good hypotheses and make design choices independently. |The student can formulate good hypotheses and make design choices independently, and can articulate the good reasoning behind those choices. The student came up with original insights or ideas that clearly aided data collection, analysis or interpretation. |
 
-## Presentation
+## Presentation (10%)
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
 |-|----|----|----|
 |Structure of the presentation | The structure of the presentation is lacking, because elements are missing or are not connected in a way that facilitates communication.|The presentation deals with the necessary elements (question, methods, results, discussion/conclusion), but the chosen structure is not ideal to convey this information. |The presentation has an engaging opening and then tells a coherent, clear story that explains the research question, research design, results and their discussion and conclusion. The transitions between different elements of the presentation are smooth and the presentation builds towards clear conclusions and discussion points.|
@@ -30,8 +30,10 @@ To determine the grades for these components, assessors can use the rubrics list
 |Discussion|The student is not able to provide satisfactory answers to questions about the research.|The student is able to answer basic questions about aims and design choices, but is not able to critically reflect on the research.|The student is able to engage in a productive, critical discussion about the research project and can aptly respond to questions about it.|
 |Eye contact and elocution|The student mumbles or is otherwise difficult to follow, and makes too much use of notes or other supportive material to stay on track.|Student is mostly clear and mostly maintains appropriate eye contact, but makes use of notes or other supportive material a bit too often, or at times has trouble expressing ideas.|Student uses a clear voice and correct English, so that everyone can easily follow the presentation. The student appropriate maintains eye contact with the group, while making little use of notes or presentation slides to stay on track.|
 
-
+## Research report (50%)
+|Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
+|-|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMzNTcyNTUsLTE0NDAzODE3ODUsMT
+eyJoaXN0b3J5IjpbLTE3NzEwNTkyMjQsLTE0NDAzODE3ODUsMT
 U2MDUyMzQ1OSwtMTY1NjkyOTQzLDI4NDY1NjgwNl19
 -->

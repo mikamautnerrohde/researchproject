@@ -59,7 +59,7 @@ The student will also give an oral presentation about their Research Project, du
 
 ## Detailed tasks per role
 ### Student tasks
-The s
+As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
@@ -72,7 +72,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTUwOTAwNzAyNSwtMTkyNzgwNjA1NywtODQwNT
-MxOTc4LDY2Mzc1NDA0OCwtMTI3MzcyNzA2MywtNDY3OTA3Njkw
-XX0=
+c3RvcnkiOlstNTk3MjQxNzg2LC0xOTI3ODA2MDU3LC04NDA1Mz
+E5NzgsNjYzNzU0MDQ4LC0xMjczNzI3MDYzLC00Njc5MDc2OTBd
+fQ==
 -->

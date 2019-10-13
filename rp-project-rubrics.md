@@ -14,21 +14,12 @@ To determine the grades for these components, assessors can use the holistic rub
 ## Experimental work (40%)
 |Dimension  |Insufficient (5.5 or less) |Sufficient (6.0 - 7.9) |Good (8.0 - 8.9)| Excellent (9.0 or higher)|
 |--|--|--- |--- |--- |
-|Collecting literature  |Despite supervision on this process, the student did not manage to collect appropriate literature for effective performance on the research project. The student lacks an overview of the theoretical framework in which the research project took place, and cannot motivate the important design choices.  |The student collected relevant literature, but did not arrive at a demonstrable
-understanding of it and
-
-cannot motivate all the
-
-important choices in
-
-the experimental
-
-design | | |
+|Collecting literature  |Despite supervision on this process, the student did not manage to collect appropriate literature for effective performance on the research project. The student lacks an overview of the theoretical framework in which the research project took place, and cannot motivate the important design choices.  |The student collected relevant literature, but did not arrive at a demonstrable understanding of it and cannot motivate all the important choices in the experimental design. |The student collected and evaluated relevant literature, leading to a good understanding of the theoretical framework and empirical space in which the project took place. Student can motivate the choice of research questions and important design choices | |
 |Experimental skills  |  | | | |
 |Data analysis  |  | | | |
 |Process |  | | | |
 |Original contribution|  | | | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU1NzQxNl19
+eyJoaXN0b3J5IjpbNzMzOTQ3OTk1XX0=
 -->

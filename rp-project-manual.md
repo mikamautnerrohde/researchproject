@@ -165,7 +165,64 @@ Termination of the internship is only possible in two cases:
 
 1. If the student, supervisor and examiner mutually agree on it
 
-2. If the Examinations Board of the programme has reviewed the situation and has decided that termination is appropriate
+2. If the Examinations Board of the programme has reviewed the situation and has decided that termination is appropriate.
+
+### Late submission of the research proposal
+The Research Project Proposal serves two goals:
+
+1. It allows the programme to review the suitability of a given project, i.e. whether the project fits with the learning objectives of the course modules *Research Project 1* or *Research Project 2*
+
+.
+
+2.
+
+It prepares the student for learning effectively during the internship, by guaranteeing that
+
+research questions, hypotheses, experimental design and methods of
+
+analysis/interpretation are explicitly considered by the students at an early stage of the
+
+learning process.
+
+Both goals are served by timely s
+
+ubmission. In the case of goal 1, the possible
+
+scenario in which the
+
+Examinations Board rejects a proposed research project is extra costly for the student if the project
+
+has been on
+
+-going for a relatively long time. In the case of goal 2, late submission may indicate that
+
+the student spent a relatively long time without clear plans or goals, which jeopardizes the learning
+
+process.
+
+Therefore, the Research Project Proposal must be submitted within four weeks after the
+
+registration date of the internship. If submitted more than two weeks late, the Examinations Board
+
+considers the use of time within the Research Project
+
+to have been
+
+inefficient. The registration
+
+date of the project will then be shifted to six weeks before the submission date of the (complete)
+
+Research Project Proposal Form. This will also shift the ending date of the project
+
+accordingly.
+
+Late submission of the Research Project Proposal will not affect the grading of the research project,
+
+but the submission date of the final report (and therefore
+
+the registration date of the grade)
+
+cannot be before the ending date of the project.
 
 .
 
@@ -181,7 +238,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls2Njk5NjcwNzQsLTY4NTc1ODc1LC0xNTU4NTg0Nj
+c3RvcnkiOls0MTczNTk1MTgsLTY4NTc1ODc1LC0xNTU4NTg0Nj
 Q4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1
 MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

@@ -34,7 +34,7 @@ The external assessor should be a researcher from another group, who still has r
 
 One of the assessors will be designated examiner, and will hold ultimate responsibility for the final grade. This examiner needs to be a UvA employee with a doctoral degree.
 
-Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the next section.
+Table 1 summarizes the requirements and responsibilities of the different roles. Please note that the assessor tasks depend on whether the assessor is internal or external to the lab where the project is taking place. The tasks are described in more detail in the sections [Detailed tasks per role](#detailed-tasks-per-role).
 
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
@@ -55,10 +55,13 @@ The Research Project goes through several phases:
 Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. 
 
 The student will also give an oral presentation about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group.
+
+## Detailed tasks per role
+### Student tasks
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0MjYzLCJlbmQiOjQyODgsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo0MzExLCJlbmQiOjQzMzYsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -67,6 +70,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTkyNzgwNjA1NywtODQwNTMxOTc4LDY2Mzc1ND
-A0OCwtMTI3MzcyNzA2MywtNDY3OTA3NjkwXX0=
+c3RvcnkiOlsxMjkxOTA3ODg3LC0xOTI3ODA2MDU3LC04NDA1Mz
+E5NzgsNjYzNzU0MDQ4LC0xMjczNzI3MDYzLC00Njc5MDc2OTBd
+fQ==
 -->

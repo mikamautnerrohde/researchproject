@@ -3,95 +3,21 @@
 
 This manual concerns the modules *Research Project 1* and *Research Project 2* for students from the master programme *Brain and Cognitive Sciences* at the University of Amsterdam (UvA). It was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner.
 
-The research project is one of the capstones of our programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment.
+The research project is one of the capstones of our programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. During the research project, the student is trained to:
 
-During th
+1. Engage in the different phases of research in the field of brain and cognitive sciences (i.e. using and selecting relevant literature, choosing a research design, performing experimental work, analyzing data).
 
-e research
+2. Independently perform relevant scientific research method(s) and data analyses.
 
-project, the student is trained to:
+3. Create a realistic planning for research, within the time limits that are imposed.
 
-1.
+4. Write a scientific report about his/her research at an academic level.
 
-Engage in
+5. Demonstrate academic presentation skills.
 
-the different phases of research in the field of b
+6. Demonstrate a scientific attitude (independence, responsibility, perseverance, initiative, self-assessment, communication) within the work and in relation to the supervisor and colleagues.
 
-rain and c
-
-ognitive
-
-sciences
-
-(e.g. using
-
-and
-
-select
-
-ing
-
-relevant
-
-literature, choosing a
-
-research design, performing
-
-experimental work,
-
-analyzing
-
-data
-
-)
-
-2.
-
-Independently perform relevant scientific res
-
-earch method(s) and data analyse
-
-s
-
-3.
-
-Create a realistic planning for research, within the
-
-time
-
-limits
-
-that are imposed
-
-4.
-
-Write a scientific report about his/her research at an academic level
-
-5.
-
-Demonstrate
-
-academic presentation skills
-
-6.
-
-Demonstrate a scientific attitude (independence, responsibility,
-
-perseverance, initiative, self
-
--
-
-assessment
-
-, communication) within the
-
-work and in relation to the supervisor and colleagues.
-
-7.
-
-Reflect on and describe the limitatio
-
-ns and implications of the research.
+7. Reflect on and describe the limitations and implications of the research.
 
 All students of the research master Brain and Cognitive Sciences conduct two research projects as mandatory
 
@@ -179,5 +105,5 @@ the project is taking place. The tasks are described in more detail in the next 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg4NjkwMDVdfQ==
+eyJoaXN0b3J5IjpbLTMwNzc3NDg0M119
 -->

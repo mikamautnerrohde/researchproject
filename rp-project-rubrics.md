@@ -9,7 +9,8 @@ As a reminder, the components have designated weights and minimum grades as show
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
-To determine the grades for these components, you can use the holistic rubrics listed below. Holistic rubrics allow you to weigh the different
+To determine the grades for these components, you can use the holistic rubrics listed below. Holistic rubrics allow you to weigh the different columns of the rubric at your own discretion. This affords the versatility that is necessary for a multidisciplinary pool of students. For more on holistic rubrics, see
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTU0ODI2Nl19
+eyJoaXN0b3J5IjpbMTA0OTQxMDEwMl19
 -->

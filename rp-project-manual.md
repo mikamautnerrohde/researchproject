@@ -84,7 +84,7 @@ The supervisor is the go-to person for the student, for any question related to 
 The daily supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
 #### Joins midterm evaluation, together with student.
 Halfway through the project, the student will schedule an evaluation meeting to discuss all progress so far, as well as performance, mutual satisfaction about the internship
-#### Provides feedback on the draft version of the research report.
+#### Provide feedback on the draft version of the research report.
 ####  Evaluates experimental work and presentation: advises internal assessor on grading
 
 
@@ -139,6 +139,6 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMDA2NTQ5MTk5LC01Mzc1ODc0ODEsMjA4MjUwNj
-A0NF19
+c3RvcnkiOlszMDY1NjYzMTQsLTUzNzU4NzQ4MSwyMDgyNTA2MD
+Q0XX0=
 -->

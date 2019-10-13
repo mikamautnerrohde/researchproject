@@ -1,73 +1,11 @@
 # Research Project Manual
-Introduction
+## Introduction
 
-This manual concerns the modules
+This manual concerns the modules *Research Project 1* and *Research Project 2* for students from the master programme *Brain and Cognitive Sciences* at the University of Amsterdam (UvA). It was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner.
 
-Research Project 1
+The research project is one of the capstones of our programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment.
 
-and
-
-Research Project 2
-
-for
-
-students
-
-from
-
-the master
-
-programme
-
-Brain and Cognitive Sciences
-
-at the University of Amsterdam
-
-(UvA)
-
-. It was written to inform all
-
-involved parties
-
-about the requi
-
-rements of the research project and
-
-about
-
-their
-
-role, whether student,
-
-daily
-
-supervisor,
-
-examiner or co
-
--assessor
-
-.
-
-The research project
-
-is one of the capstones
-
-of our program
-
-me, in which students acquir
-
-e practical research
-
-experience and
-
-learn to work and think independently
-
-within a scientific
-
-environment
-
-. During th
+During th
 
 e research
 
@@ -241,5 +179,5 @@ the project is taking place. The tasks are described in more detail in the next 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjQ2MTc4M119
+eyJoaXN0b3J5IjpbLTE0ODg4NjkwMDVdfQ==
 -->

@@ -154,11 +154,20 @@ If a project exceeds the originally planned deadline by six months or more, the 
 ### Insufficient performance
 As listed in table 2, there are minimum grades for all three assessment component. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
 
-Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it isimportant to explicitly inform the student about this. This way the student can either adapt performance
+Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it is important to explicitly inform the student about this. This way the student can either adapt performance accordingly, or choose to end the internship prematurely.
 
-accordingly, or choose to end the internship prematurely.
+### Prematurely ending the internship
+If issues arise that jeopardize the success of the research project and that cannot be remediated by feedback or reaching consensus between supervisor, examiner and student, please contact the programme via info-mcs@uva.nl. 
 
+The programme coordinator will meet with both the student and the daily supervisor (and, if appropriate, the examiner) to help decide on the best course of action.
 
+Termination of the internship is only possible in two cases:
+
+1. If the student, supervisor and examiner mutually agree on it
+
+2. If the Examinations Board of the programme has reviewed the situation and has decided that termination is appropriate
+
+.
 
 
 <!--stackedit_data:
@@ -172,7 +181,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTQ0ODQxOTk1NCwtNjg1NzU4NzUsLTE1NTg1OD
-Q2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0x
-NjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOls2Njk5NjcwNzQsLTY4NTc1ODc1LC0xNTU4NTg0Nj
+Q4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1
+MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

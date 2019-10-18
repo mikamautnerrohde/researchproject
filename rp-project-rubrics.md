@@ -9,7 +9,7 @@ As a reminder, the components have designated weights and minimum grades as show
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
-To determine the grades for these components, assessors can use the rubrics listed below. Note that the weight of the different columns *within* the rubrics is at the discretion of the assessor. This is done because different projects require different emphases.
+To determine the grades for these components, assessors can use the rubrics listed below. Note that the weight of the different rows *within* the rubrics is at the discretion of the assessor. This is done because different projects require different emphases.
 
 ## Experimental work (40%)
 |Dimension  |Insufficient (5.5 or less) |Sufficient (6.0 - 7.9) |Good (8.0 - 8.9)| Excellent (9.0 or higher)|

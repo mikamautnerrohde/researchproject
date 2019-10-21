@@ -92,12 +92,12 @@ In case the supervisor and internal assessor are not the same person, the superv
 ### Internal assessor tasks
 
 #### Grade experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](rp-project-rubrics.md). Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](rp-project-rubrics.md). Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
 
 ### External assessor tasks
 
 #### Grade final report
-The external assessor is expected to grade the final report. See [here](#grading) for more information about grading.
+The external assessor is expected to grade the final report. See [here](#grading) for more information about grading. This includes filling in the appropriate grading rubric on www.datanose.nl.
 
 ### Examiner tasks
 
@@ -110,7 +110,7 @@ Once the student has submitted a research proposal to the master's programme and
 While reviewing the proposal, it is possible to leave remarks that are visible to all parties involved in the project.
 
 #### Submit the final grade.
-The examiner is expected to submit the final grade to the programme via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
+The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
 
 #### Guarantee validity of the grade.
 The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and reaching consensus if opinions about the final grade diverge too much. See [here](#grading) for more information.
@@ -141,7 +141,7 @@ The important deadlines are listed in Table 2.
 |Submit draft of research project (recommended)  | One month before ending date| Student sends draft, supervisor provides feedback|
 |Submit final report via datanose.nl/#yourprojects  | Project finish date | Student|
 |Present research findings in presentation of 20-30 minutes  | Project finish date | Student|
-|Grading | Within 20 working days after project completion| <ol> <li>Internal assessor grades experimental work, presentation and report (advised by supervisor). <li>External assessor grades report. <li>The two have contact to determine their feedback, reach consensus on grading.<li>Supervisor and/or assessor meets student to provide feedback personally.<li>Examiner submits final grades to Datanose.nl. </ol>
+|Grading | Within 20 working days after project completion| <ol> <li>Internal assessor grades experimental work, presentation and report (advised by supervisor). <li>External assessor grades report. <li>The two have contact to determine their feedback, reach consensus on grading.<li>Supervisor and/or assessor meets student to provide feedback personally.<li>Internal and external assessor fill in the appropriate grading rubrics on www.datanose.nl. <li>Examiner submits final grades to www.datanose.nl for registration.</ol>
 
 
 ## Grading

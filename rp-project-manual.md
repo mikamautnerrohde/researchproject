@@ -46,9 +46,9 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
 [Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
-[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul> <li>Grades experimental work, presentation and final report.</ul>
+[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Grades experimental work, presentation and final report.</ul>
 [External assessor](#external-assessor-tasks) (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
-[Examiner](#examiner-tasks) | <ul><li>Can be either the internal assessor or the external assessor. <li>Must be employed at UvA. <li>Must hold doctoral degree.</ul> | <ul><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
+[Examiner](#examiner-tasks) | <ul><li>Can be either the internal assessor or the external assessor. <li>Must be employed at UvA. <li>Must hold doctoral degree.</ul> | <ul><li>Reviews and approves project proposal.</li><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
 
 ## Phases of the Research Project
 
@@ -95,10 +95,20 @@ In case the supervisor and internal assessor are not the same person, the superv
 The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](rp-project-rubrics.md). Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading.
 
 ### External assessor tasks
+
 #### Grade final report
 The external assessor is expected to grade the final report. See [here](#grading) for more information about grading.
 
 ### Examiner tasks
+
+####  Reviews and approves project proposal.
+Once the student has submitted a research proposal to the master's programme and that proposal has been approved by the programme, the examiner will be asked to review the proposal. In this process, the examiner is asked to judge the following:
+
+- is the planning of the project feasible?
+- is the design of the study appropriate given the research question and hypotheses?
+
+While reviewing the proposal, it is possible to leave remarks that are visible to all parties involved in the project.
+
 #### Submit the final grade.
 The examiner is expected to submit the final grade to the programme via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
 
@@ -126,6 +136,7 @@ The important deadlines are listed in Table 2.
 |--|--|--|
 |Registering the project via datanose.nl/#yourprojects  | As soon as supervisor and assessors are determined. | Student|
 |Submitting proposal via datanose.nl/#yourprojects  | Within one month of starting date | Student|
+|Reviewing the proposal | Within one month of submission date | Programme|
 |Midterm evaluation meeting, prepared for using this form. | Halfway through the project | Student and supervisor|
 |Submit draft of research project (recommended)  | One month before ending date| Student sends draft, supervisor provides feedback|
 |Submit final report via datanose.nl/#yourprojects  | Project finish date | Student|

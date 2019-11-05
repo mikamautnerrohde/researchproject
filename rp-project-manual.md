@@ -4,6 +4,8 @@
 
 This manual concerns the modules *Research Project 1* and *Research Project 2* for students from the master programme *Brain and Cognitive Sciences* at the University of Amsterdam (UvA). These modules are also known as internships . This manual was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner.
 
+The most up-to-date version of the Research Project Manual can always be found via [this link]([https://github.com/tijmz/researchproject/blob/master/rp-project-manual.md](https://github.com/tijmz/researchproject/blob/master/rp-project-manual.md)).
+
 The research project is one of the capstones of our programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. All students of the research master *Brain and Cognitive Sciences* conduct two research projects as mandatory parts of their curriculum:
 
 *Research Project 1* (26 or 32 EC) and *Research Project 2* (36 or 42 EC).
@@ -203,7 +205,7 @@ Late submission of the Research Project Proposal will not affect the grading of 
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo0OTAwLCJlbmQiOjQ5MjUsInRleHQiOiJNdXN0IGhv
+N0YXJ0Ijo1MTQ5LCJlbmQiOjUxNzQsInRleHQiOiJNdXN0IGhv
 bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
@@ -212,8 +214,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTA4OTgwNzI4MCwtMjA4MjI1NDE1LDEwMTA3OT
-gwMCwtNjkzOTY4OTk5LC02ODU3NTg3NSwtMTU1ODU4NDY0OCwt
-MjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNj
-k5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
+c3RvcnkiOlsxNzQ2NDgxMDcyLC0xMDg5ODA3MjgwLC0yMDgyMj
+U0MTUsMTAxMDc5ODAwLC02OTM5Njg5OTksLTY4NTc1ODc1LC0x
+NTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MD
+QzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRd
+fQ==
 -->

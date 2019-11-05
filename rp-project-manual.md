@@ -93,7 +93,7 @@ In case the supervisor and internal assessor are not the same person, the superv
 ### Internal assessor tasks
 
 #### Grade experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](https://github.com/tijmz/researchproject/blob/master/rp-project-rubrics.md). Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
 
 ### External assessor tasks
 
@@ -155,7 +155,7 @@ Grading is based on three components: the experimental work, the final report on
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
-To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](rp-project-rubrics.md).
+To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](https://github.com/tijmz/researchproject/blob/master/rp-project-rubrics.md).
 
 The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme.
 
@@ -213,9 +213,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTgwMTczNzE5OCwxMDAxNDE4Mjk3LC0xMDg5OD
-A3MjgwLC0yMDgyMjU0MTUsMTAxMDc5ODAwLC02OTM5Njg5OTks
-LTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEwMD
-g0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgx
-LDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlszMDU0NTQyNDksMTAwMTQxODI5NywtMTA4OTgwNz
+I4MCwtMjA4MjI1NDE1LDEwMTA3OTgwMCwtNjkzOTY4OTk5LC02
+ODU3NTg3NSwtMTU1ODU4NDY0OCwtMjExODkzODc3LDgxMDA4ND
+QzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwy
+MDgyNTA2MDQ0XX0=
 -->

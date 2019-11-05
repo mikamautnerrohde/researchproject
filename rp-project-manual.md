@@ -93,7 +93,7 @@ In case the supervisor and internal assessor are not the same person, the superv
 ### Internal assessor tasks
 
 #### Grade experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](rp-project-rubrics.md). Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the [respective grading rubrics](. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
 
 ### External assessor tasks
 
@@ -213,9 +213,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxMDAxNDE4Mjk3LC0xMDg5ODA3MjgwLC0yMDgyMj
-U0MTUsMTAxMDc5ODAwLC02OTM5Njg5OTksLTY4NTc1ODc1LC0x
-NTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEwMDg0NDMyLDE4NjY1MD
-QzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgxLDIwODI1MDYwNDRd
-fQ==
+c3RvcnkiOlstMTgwMTczNzE5OCwxMDAxNDE4Mjk3LC0xMDg5OD
+A3MjgwLC0yMDgyMjU0MTUsMTAxMDc5ODAwLC02OTM5Njg5OTks
+LTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OTM4NzcsODEwMD
+g0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwtNTM3NTg3NDgx
+LDIwODI1MDYwNDRdfQ==
 -->

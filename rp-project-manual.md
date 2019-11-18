@@ -162,7 +162,7 @@ The final report is graded by both the internal and the external assessor. Their
 ### Submitting the grade
 Both the internal and external assessor will receive receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, they can grade the different components of the project. The examiner, finally, can submit the final grade, which is calculated as the weighted average of the average grades given by the assessors.
 
-Upon completion of the grading, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see: [https://github.com/tijmz/teaching-matters/wiki/Submitting-grades](Submitting grades) on our teaching wiki.
+Upon completion of the grading, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/tijmz/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
 
 Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
 

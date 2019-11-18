@@ -160,11 +160,11 @@ To grade the different components or to get a better idea about the expected lev
 The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme.
 
 ### Submitting the grade
-The examiner will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, the examiner can fill in the online grading rubric and submit the final grade.
+Both the internal and external assessor will receive receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, they can grade the different components of the project. The examiner, finally, can submit the final grade, which is calculated as the weighted average of the average grades given by the assessors.
 
-In the case where the external assessor is the examiner, please note that the internal assessor should inform the examiner about the grades for the three different components.
+Upon completion of the grading, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see: [https://github.com/tijmz/teaching-matters/wiki/Submitting-grades](Submitting grades) on our teaching wiki.
 
-Also note that upon submitting the grade, the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting them to Datanose.
+Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
 
 ## Miscellaneous issues
 ### Credits

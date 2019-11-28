@@ -58,7 +58,7 @@ In summary. the Research Project goes through several phases:
 1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the student submits via the online form at Datanose.nl within one month of registering  the project.
 
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss progress and mutual satisfaction of the student and supervisor.
-3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given.
+3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student is not supposed to submit multiple drafts.
 4. Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes Q&A) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.
 
 ## Detailed tasks per role
@@ -74,7 +74,7 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 36|1008|24 weeks
 42|1176|28 weeks
 
-Once the proposal has been approved, it will not be possible to change the EC rewarded to the student upon succesful completion of the project.
+Once the proposal has been approved, it is not possible to change the EC rewarded to the student upon succesful completion of the project.
 #### Be contact for student questions
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
 
@@ -213,9 +213,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsyMTM2NDE4ODg3LDMwNTQ1NDI0OSwxMDAxNDE4Mj
-k3LC0xMDg5ODA3MjgwLC0yMDgyMjU0MTUsMTAxMDc5ODAwLC02
-OTM5Njg5OTksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OT
-M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
-NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOlstMTYzNDg1NDIyMywzMDU0NTQyNDksMTAwMTQxOD
+I5NywtMTA4OTgwNzI4MCwtMjA4MjI1NDE1LDEwMTA3OTgwMCwt
+NjkzOTY4OTk5LC02ODU3NTg3NSwtMTU1ODU4NDY0OCwtMjExOD
+kzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUs
+LTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

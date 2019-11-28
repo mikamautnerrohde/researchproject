@@ -132,6 +132,8 @@ As a research master student, the student enrolled in either *Research Project 1
   - The student takes initiative to make the project a success (i.e. identifying issues, troubleshooting, setting up necessary meetings, scheduling the Midterm Evaluation)
 
 The important deadlines are listed in Table 2.
+\pagebreak
+
 ##### Table 2 - Important deadlines
 |What?  |When?  |Who?|
 |--|--|--|
@@ -213,9 +215,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTk4Nzg3Njg3LDMwNTQ1NDI0OSwxMDAxNDE4Mj
-k3LC0xMDg5ODA3MjgwLC0yMDgyMjU0MTUsMTAxMDc5ODAwLC02
-OTM5Njg5OTksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OT
-M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
-NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOls5MTAyOTE2MjEsLTE5ODc4NzY4NywzMDU0NTQyND
+ksMTAwMTQxODI5NywtMTA4OTgwNzI4MCwtMjA4MjI1NDE1LDEw
+MTA3OTgwMCwtNjkzOTY4OTk5LC02ODU3NTg3NSwtMTU1ODU4ND
+Y0OCwtMjExODkzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2
+NTIzNjk5MDUsLTUzNzU4NzQ4MSwyMDgyNTA2MDQ0XX0=
 -->

@@ -117,7 +117,7 @@ The examiner is expected to submit the final grade for registration via www.data
 The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and reaching consensus if opinions about the final grade diverge too much. See [here](#grading) for more information.
 
 ### Student tasks
-As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plan should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are: 
+As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plans should be made in collaboration with the supervisor, the student is expected to display ownership of the project. Expectations from the student are: 
 
  - The student formulates a clear research question
  -  The student develops and tests hypotheses that addresses the research question 
@@ -135,9 +135,9 @@ The important deadlines are listed in Table 2.
 ##### Table 2 - Important deadlines
 |What?  |When?  |Who?|
 |--|--|--|
-|Registering the project via datanose.nl/#yourprojects  | As soon as supervisor and assessors are determined. | Student|
+|Registering the project via datanose.nl/#yourprojects  | As soon as supervisor and assessor(s) are determined. | Student|
 |Submitting proposal via datanose.nl/#yourprojects  | Within one month of starting date | Student|
-|Reviewing the proposal | Within one month of submission date | Programme|
+|Reviewing the proposal | Within two weeks of submission date | Programme|
 |Midterm evaluation meeting, prepared for using this form. | Halfway through the project | Student and supervisor|
 |Submit draft of research project (recommended)  | One month before ending date| Student sends draft, supervisor provides feedback|
 |Submit final report via datanose.nl/#yourprojects  | Project finish date | Student|
@@ -213,9 +213,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOls3NzE3MDIxODcsMzA1NDU0MjQ5LDEwMDE0MTgyOT
-csLTEwODk4MDcyODAsLTIwODIyNTQxNSwxMDEwNzk4MDAsLTY5
-Mzk2ODk5OSwtNjg1NzU4NzUsLTE1NTg1ODQ2NDgsLTIxMTg5Mz
-g3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01
-Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlsxMTg1NDQzNzY2LDMwNTQ1NDI0OSwxMDAxNDE4Mj
+k3LC0xMDg5ODA3MjgwLC0yMDgyMjU0MTUsMTAxMDc5ODAwLC02
+OTM5Njg5OTksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OT
+M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
+NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

@@ -79,7 +79,7 @@ Once the proposal has been approved, it is not possible to change the EC rewarde
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
 
 #### Provide feedback on overall performance and promotes scientific attitude.
-The daily supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
+The  supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
 #### Join midterm evaluation, together with student.
 Halfway through the project, the student will schedule an evaluation meeting to discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for both parties to review how things are going.
 #### Provide feedback on the draft version of the research report.
@@ -213,7 +213,7 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTYzNDg1NDIyMywzMDU0NTQyNDksMTAwMTQxOD
+c3RvcnkiOlstMTAyMzExNjAyOCwzMDU0NTQyNDksMTAwMTQxOD
 I5NywtMTA4OTgwNzI4MCwtMjA4MjI1NDE1LDEwMTA3OTgwMCwt
 NjkzOTY4OTk5LC02ODU3NTg3NSwtMTU1ODU4NDY0OCwtMjExOD
 kzODc3LDgxMDA4NDQzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUs

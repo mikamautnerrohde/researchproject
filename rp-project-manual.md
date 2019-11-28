@@ -55,7 +55,7 @@ Role| Requirements| Responsibilities
 
 In summary. the Research Project goes through several phases:
 
-1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the students submits via the online form at Datanose.nl within one month of registering  the project.
+1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects, reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the student submits via the online form at Datanose.nl within one month of registering  the project.
 
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss progress and mutual satisfaction of the student and supervisor.
 3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given.
@@ -213,9 +213,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlszMDU0NTQyNDksMTAwMTQxODI5NywtMTA4OTgwNz
-I4MCwtMjA4MjI1NDE1LDEwMTA3OTgwMCwtNjkzOTY4OTk5LC02
-ODU3NTg3NSwtMTU1ODU4NDY0OCwtMjExODkzODc3LDgxMDA4ND
-QzMiwxODY2NTA0MzcsLTE2NTIzNjk5MDUsLTUzNzU4NzQ4MSwy
-MDgyNTA2MDQ0XX0=
+c3RvcnkiOlsyMTM2NDE4ODg3LDMwNTQ1NDI0OSwxMDAxNDE4Mj
+k3LC0xMDg5ODA3MjgwLC0yMDgyMjU0MTUsMTAxMDc5ODAwLC02
+OTM5Njg5OTksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OT
+M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
+NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
 -->

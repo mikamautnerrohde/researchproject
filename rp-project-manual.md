@@ -111,7 +111,7 @@ Once the student has submitted a research proposal to the master's programme and
 While reviewing the proposal, it is possible to leave remarks that are visible to all parties involved in the project.
 
 #### Submit the final grade.
-The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report. See the section 
+The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report. For more on grade submission the examiner is kindly referred to [our teaching wiki](https://github.com/tijmz/teaching-matters/wiki/Submitting-grades).
 
 #### Guarantee validity of the grade.
 The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and reaching consensus if opinions about the final grade diverge too much. See [here](#grading) for more information.
@@ -213,9 +213,9 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlstMTI3MzEzNDY5LDMwNTQ1NDI0OSwxMDAxNDE4Mj
-k3LC0xMDg5ODA3MjgwLC0yMDgyMjU0MTUsMTAxMDc5ODAwLC02
-OTM5Njg5OTksLTY4NTc1ODc1LC0xNTU4NTg0NjQ4LC0yMTE4OT
-M4NzcsODEwMDg0NDMyLDE4NjY1MDQzNywtMTY1MjM2OTkwNSwt
-NTM3NTg3NDgxLDIwODI1MDYwNDRdfQ==
+c3RvcnkiOls3NzE3MDIxODcsMzA1NDU0MjQ5LDEwMDE0MTgyOT
+csLTEwODk4MDcyODAsLTIwODIyNTQxNSwxMDEwNzk4MDAsLTY5
+Mzk2ODk5OSwtNjg1NzU4NzUsLTE1NTg1ODQ2NDgsLTIxMTg5Mz
+g3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01
+Mzc1ODc0ODEsMjA4MjUwNjA0NF19
 -->

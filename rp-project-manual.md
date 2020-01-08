@@ -158,7 +158,7 @@ Grading is based on three components: the experimental work, the final report on
 
 To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](https://github.com/tijmz/researchproject/blob/master/rp-project-rubrics.md).
 
-The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme.
+The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme via info-mcs@uva.nl.
 
 ### Submitting the grade
 Both the internal and external assessor will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, they can grade the different components of the project. The examiner, finally, can submit the final grade, which is calculated as the weighted average of the average grades given by the assessors.

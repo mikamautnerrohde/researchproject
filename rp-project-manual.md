@@ -23,7 +23,7 @@ During the research projects, the student is trained to:
 
 3. Create a realistic planning for research, within the time limits that are imposed.
 
-4. Write a scientific report about his/her research at an academic level.
+4. Report about the project in a manner accordant to the norms and standards of a relevant journal
 
 5. Demonstrate academic presentation skills.
 

@@ -204,7 +204,7 @@ Late submission of the Research Project Proposal will not affect the grading of 
 
 ## Questions and comments
 * If you notice any issues with this manual or the overall process of the Research Project, please submit them via [the Github issue tracker](https://github.com/tijmz/researchproject/issues).
-* There is a FAQ at (https://github.com/tijmz/researchproject/blob/master/rp-project-FAQ.md)
+* There is a FAQ at https://github.com/tijmz/researchproject/blob/master/rp-project-FAQ.md
 
 
 <!--stackedit_data:

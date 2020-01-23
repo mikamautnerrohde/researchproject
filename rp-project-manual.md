@@ -203,14 +203,14 @@ Therefore, the Research Project Proposal must be submitted within four weeks aft
 Late submission of the Research Project Proposal will not affect the grading of the research project, but the submission date of the final report (and therefore the registration date of the grade) cannot be before the ending date of the project.
 
 ## Questions and comments
-* If you notice any issues with this manual or the overall process of the Research Project, please submit them via [the Github issue tracker](https://github.com/tijmz/researchproject/issues).
-* There is a FAQ at https://github.com/tijmz/researchproject/blob/master/rp-project-FAQ.md
+* If you notice any issues with this manual or the overall process of the Research Project, please contact v.tijms@uva.nl or submit them via [the Github issue tracker](https://github.com/tijmz/researchproject/issues).
+* There is a FAQ [here](https://github.com/tijmz/researchproject/blob/master/rp-project-FAQ.md).
 
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHTHdUTkZqWEYwNHZybzN5Ijp7In
-N0YXJ0Ijo1MDc3LCJlbmQiOjUxMDIsInRleHQiOiJNdXN0IGhv
-bGQgZG9jdG9yYWwgZGVncmVlIn19LCJjb21tZW50cyI6eyI4QX
+RleHQiOiJNdXN0IGhvbGQgZG9jdG9yYWwgZGVncmVlIiwic3Rh
+cnQiOjUwNzcsImVuZCI6NTEwMn19LCJjb21tZW50cyI6eyI4QX
 RkVlJpUEFXT29BQTB5Ijp7ImRpc2N1c3Npb25JZCI6IkdMd1RO
 RmpYRjA0dnJvM3kiLCJzdWIiOiJnaDozMzI4ODk1NiIsInRleH
 QiOiJUaGlzIGlzIGEgcmVxdWlyZW1lbnQgYnkgdGhlIEV4YW1p
@@ -218,9 +218,10 @@ bmF0aW9ucyBCb2FyZCB3aGljaCBpcyBub3QgYWx3YXlzIGVhc3
 kgdG8gbWVldC4gQWxzbywgc3VjaCBhIGRlZ3JlZSBkb2VzIG5v
 dCBndWFyYW50ZWUgQktPIGNlcnRpZmljYXRpb24gaW4gb3VyIG
 ZpZWxkcy4iLCJjcmVhdGVkIjoxNTcwOTU4MzUwNTA0fX0sImhp
-c3RvcnkiOlsxNjc3OTM3ODM1LC0xOTg3ODc2ODcsMzA1NDU0Mj
-Q5LDEwMDE0MTgyOTcsLTEwODk4MDcyODAsLTIwODIyNTQxNSwx
-MDEwNzk4MDAsLTY5Mzk2ODk5OSwtNjg1NzU4NzUsLTE1NTg1OD
-Q2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIsMTg2NjUwNDM3LC0x
-NjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4MjUwNjA0NF19
+c3RvcnkiOlstMTYzMjc4ODIzMywxNjc3OTM3ODM1LC0xOTg3OD
+c2ODcsMzA1NDU0MjQ5LDEwMDE0MTgyOTcsLTEwODk4MDcyODAs
+LTIwODIyNTQxNSwxMDEwNzk4MDAsLTY5Mzk2ODk5OSwtNjg1Nz
+U4NzUsLTE1NTg1ODQ2NDgsLTIxMTg5Mzg3Nyw4MTAwODQ0MzIs
+MTg2NjUwNDM3LC0xNjUyMzY5OTA1LC01Mzc1ODc0ODEsMjA4Mj
+UwNjA0NF19
 -->

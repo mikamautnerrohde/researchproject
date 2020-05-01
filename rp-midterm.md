@@ -31,7 +31,7 @@ The second discussion topics relate to the learning and teaching environment:
 
 ## Section 2: Reflecting on the discussion
 
-Were there any elements scored 1 or 2? If so, please motivate why. Also mention what the plans for improvement are.
+Were  any elements scored 1 or 2? If so, please motivate why. Also mention what the plans for improvement are.
 <br/>
 <br/>
 <br/>

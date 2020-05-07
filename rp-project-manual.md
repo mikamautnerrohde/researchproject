@@ -67,7 +67,6 @@ When the student submits a research proposal to the programme, this will include
 Project size (EC)| Workload (hours) | Fulltime equivalent
 :----: | :----:|:----:|
 26 | 728|17 weeks
-32| 896|21 weeks
 36|1008|24 weeks
 42|1176|28 weeks
 
@@ -192,4 +191,4 @@ In case the deadline for final submission as registered on Datanose is not going
 
 ## Questions and comments
 * If you notice any issues with this manual or the overall process of the Research Project, please contact v.tijms@uva.nl or submit them via [the Github issue tracker](https://github.com/braincogsci/researchproject/issues).
-* There is a FAQ [here](https://github.com/tijmz/braincogsci/blob/master/rp-project-FAQ.md).
+* There is a FAQ [here](https://github.com/braincogsci/blob/master/rp-project-FAQ.md).

@@ -140,7 +140,7 @@ Grading is based on three components: the experimental work, the final report on
 |Final report  |50%  |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
-To grade the different components or to get a better idea about the expected level, please consult the respective grading rubric.
+To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](rp-project-rubrics.md).
 
 The final report is graded by both the internal and the external assessor. Their grades are averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme via info-mcs@uva.nl.
 
@@ -191,4 +191,4 @@ In case the deadline for final submission as registered on Datanose is not going
 
 ## Questions and comments
 * If you notice any issues with this manual or the overall process of the Research Project, please contact v.tijms@uva.nl or submit them via [the Github issue tracker](https://github.com/braincogsci/researchproject/issues).
-* There is a FAQ [here](https://github.com/braincogsci/blob/master/rp-project-FAQ.md).
+* There is a FAQ [here](rp-project-FAQ.md).

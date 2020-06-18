@@ -31,7 +31,7 @@ During the research projects, the student is trained to:
 7. Reflect on and describe the limitations and implications of the research project.
 
 ## Roles within the project
-To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). At least one of these assessors should be a senior scientist employed at UvA and is formally known as the _examiner_ of the project.
+To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). At least one of these assessors should be a senior scientist employed at UvA who is formally known as the _examiner_ of the project.
 
 The supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to take on both the supervisor and internal assessor roles, as long as all of the above requirements are met.
 
@@ -48,6 +48,8 @@ Role| Requirements| Responsibilities
 [Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Grades experimental work, presentation and final report.</ul>
 [External assessor](#external-assessor-tasks) (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
 [Examiner](#examiner-tasks) | <ul><li>This is a label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA). <li>Must hold doctoral degree.</ul> | <ul><li>Reviews and approves project proposal.</li><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
+
+**Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the person who has the role Examiner as examiner. You can list the other assessor as assessor.
 
 ## Phases of the Research Project
 
@@ -73,7 +75,6 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 Once the proposal has been approved, it is not possible to change the EC rewarded to the student upon succesful completion of the project.
 #### Be contact for student questions
 The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
-
 #### Provide feedback on overall performance and promotes scientific attitude.
 The  supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
 #### Join midterm evaluation, together with student.
@@ -153,9 +154,15 @@ Note that upon registration of the grade (through digital signature or processin
 
 ## Miscellaneous issues
 ### Credits
-The credits listed on the proposal form are those rewarded to the student. Students do not receive more credits for any extra time they put into the project if it is running late. As such it is important that a realistic time plan is made at the beginning of the project, to avoid a (costly) study delay for the student.
+The credits listed on the proposal form are those rewarded to the student. In principle, students do not receive more credits for extra time they put into the project if it is running late. As such it is important that a realistic time plan is made at the beginning of the project, to avoid a (costly) study delay for the student.
 
 If a project exceeds the originally planned deadline by six months or more, the Examinations Board of the master’s programme may contact the internal assessor of the project for an explanation.
+
+### Extending the project
+There are two situations that can lead to extension of the project (i.e. increasing the credits awarded).
+
+1. If the Study Plan of the student includes a 5 EC course as an Elective, 1 EC can be added to *Research Project 2*. This should be listed as a comment when registering the project on Datanose. The student is expected to also work for about 28 hours more on the project.
+2. If the reality of a 36 EC *Research Project 2* mandates additional work that was not part of the planning, a request for extension can be submitted to the Examinations Board of the programme to turn it into a 42 EC *Research Project 2*. This request needs to be accompanied by an overview of the additional tasks, as well as a declaration by the supervisor that these tasks are necessary to succesfully complete the project.
 
 ### Insufficient performance
 As listed in table 3, there are minimum grades for all three assessment components. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.

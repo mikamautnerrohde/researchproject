@@ -63,8 +63,9 @@ In summary, the Research Project goes through several phases:
 ## Detailed tasks per role
 ### Supervisor tasks
 
+##### Table 2 - Overview of supervisor tasks
 Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
-:---:|:---:|
+:---:|:---:|:---:|:---:|
 Assist in project planning|6|6|6|
 Contact person|17|24|28|
 Ongoing feedback|4|6|7|
@@ -74,8 +75,9 @@ Miscellaneous|5|16|23|
 
 
 #### Assist in project planning
-When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project. The supervisor is requested to ascertain the feasibility of the project within the submitted time frame. The student can inform the supervisor about the relevant EC count.
+When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project (see table 3). The supervisor is requested to ascertain the feasibility of the project within the submitted time frame. The student can inform the supervisor about the relevant EC count.
 
+#### Table 3 - Project sizes
 Project size (EC)| Workload (hours) | Fulltime equivalent
 :----: | :----:|:----:|
 26 | 728|17 weeks
@@ -106,10 +108,22 @@ In case the supervisor and internal assessor are not the same person, the superv
 
 ### Internal assessor tasks
 
+##### Table 4 - Overview of internal assessor tasks
+Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
+:---:|:---:|:---:|:---:|
+Miscellaneous|1|1|1|
+Grading |3|3|3|
+
+
 #### Grade experimental work, presentation and final report
 The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
 
 ### External assessor tasks
+##### Table 5 - Overview of external assessor tasks
+Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
+:---:|:---:|:---:|:---:|
+Miscellaneous|1|1|1|
+Grading report |3|3|3|
 
 #### Grade final report
 The external assessor is expected to grade the final report. See [here](#grading) for more information about grading. This includes filling in the appropriate grading rubric on www.datanose.nl.

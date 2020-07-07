@@ -49,16 +49,16 @@ Role| Requirements| Responsibilities
 [External assessor](#external-assessor-tasks) (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
 [Examiner](#examiner-tasks) | <ul><li>This is a label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA). <li>Must hold doctoral degree.</ul> | <ul><li>Reviews and approves project proposal.</li><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
 
-**Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the person who has the role Examiner as examiner. You can list the other assessor as assessor.
+**Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the person who has the role examiner as examiner. You can list the other assessor as assessor.
 
 ## Phases of the Research Project
 
 In summary, the Research Project goes through several phases:
 
-1. Upon starting, the student registers the Research Project via www.datanose.nl/#yourprojects, then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits via the online form at Datanose.nl within one month of registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
+1. Upon starting, the student registers the Research Project via Datanose (www.datanose.nl/#yourprojects), then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits again via Datanose, within one month of registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss how the project is going with the supervisor and the examiner of the project.
 3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student may not submit multiple drafts.
-4. Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes Q&A) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.
+4. Based on the feedback on this draft, the student will submit a final version to Datanose, which will be graded by both assessors. The student will also give an oral presentation (usually 20 to 30 minutes, plus 10 minutes Q&A, but this can be adapted to be in line with the mores of the hosting institute) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.
 
 ## Detailed tasks per role
 ### Supervisor tasks
@@ -70,8 +70,7 @@ Assist in project planning|6|6|6|
 Contact person|17|24|28|
 Ongoing feedback|4|6|7|
 Feedback on draft report|6|6|6|
-Grading |6|6|6|
-Miscellaneous|5|16|23|
+Miscellaneous|11|22|29|
 
 
 #### Assist in project planning
@@ -158,11 +157,11 @@ Important deadlines are listed in Table 6.
 ##### Table 6 - Important deadlines
 |What?  |When?  |Who?|
 |--|--|--|
-|Registering the project via datanose.nl/#yourprojects  | As soon as supervisor and assessor(s) are determined. | Student|
+|Registering the project via datanose.nl/#yourprojects  |As soon as a complete [work agreement](rp-work-agreement) is in place|Student|
 |Submitting proposal via datanose.nl/#yourprojects  | Within one month of starting date | Student|
-|Reviewing the proposal | Within two weeks of submission date | Programme|
-|Midterm evaluation meeting, prepared for using this form. | Halfway through the project | Student and supervisor|
-|Submit draft of research project (recommended)  | One month before ending date| Student sends draft, supervisor provides feedback|
+|Reviewing the proposal | Within two weeks of submission date |Programme and examiner|
+|Midterm Evaluation Meeting| Halfway through the project | Student, supervisor and examiner|
+|Submit draft of research project| One month before ending date| Student sends draft, supervisor provides feedback|
 |Submit final report via datanose.nl/#yourprojects  | Project finish date | Student|
 |Present research findings in presentation of 20-30 minutes  | Project finish date | Student|
 |Grading | Within 20 working days after project completion| <ol> <li>Internal assessor grades experimental work, presentation and report (advised by supervisor). <li>External assessor grades report. <li>The two have contact to determine their feedback, reach consensus on grading.<li>Supervisor and/or assessor meets student to provide feedback personally.<li>Internal and external assessor fill in the appropriate grading rubrics on www.datanose.nl. <li>Examiner submits final grades to www.datanose.nl for registration.</ol>
@@ -175,7 +174,7 @@ Grading is based on three components: the experimental work, the final report on
 | Component |Contribution to final grade| Graded by| Minimum grade | 
 |:--|:--:|:--|:--:|
 |Experimental work  |40%  |Internal assessor |5.5 |
-|Final report  |50%  |Internal assessor and external assessor |6.0 |
+|Final report  |50% |Internal assessor and external assessor |6.0 |
 |Oral presentation  |10%  |Internal assessor |5.5 |
 
 To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](rp-project-rubrics.md).

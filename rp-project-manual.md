@@ -55,13 +55,23 @@ Role| Requirements| Responsibilities
 
 In summary, the Research Project goes through several phases:
 
-1. In the first month, the student registers the Research Project via www.datanose.nl/#yourprojects upon starting, then reads relevant literature and formulates research questions, hypotheses and an appropriate design. This results in a Research Proposal, which the student submits via the online form at Datanose.nl within one month of registering the project.
-2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss progress and mutual satisfaction of the student and supervisor.
-3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student is not supposed to submit multiple drafts.
+1. Upon starting, the student registers the Research Project via www.datanose.nl/#yourprojects, then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits via the online form at Datanose.nl within one month of registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
+2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss how the project is going with the supervisor and the examiner of the project.
+3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student may not submit multiple drafts.
 4. Based on the feedback on this draft, the student will submit a final version to Datanose.nl, which will be graded by both assessors. The student will also give an oral presentation (20 to 30 minutes, plus 10 minutes Q&A) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.
 
 ## Detailed tasks per role
 ### Supervisor tasks
+
+Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
+:---:|:---:|
+Assist in project planning|6|6|6|
+Contact person|17|24|28|
+Ongoing feedback|4|6|7|
+Feedback on draft report|6|6|6|
+Grading |6|6|6|
+Miscellaneous|5|16|23|
+
 
 #### Assist in project planning
 When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project. The supervisor is requested to ascertain the feasibility of the project within the submitted time frame. The student can inform the supervisor about the relevant EC count.
@@ -74,11 +84,18 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 
 Once the proposal has been approved, it is not possible to change the EC rewarded to the student upon succesful completion of the project.
 #### Be contact for student questions
-The supervisor is the go-to person for the student, for any question related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
+The supervisor is the go-to person for the student, for any questions related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student.
+
+A good rule of thumb is for the supervisor to have at least 1 hour per week allotted to discussion with the student, either via a single meeting or via multiple short ones.
+
 #### Provide feedback on overall performance and promotes scientific attitude.
 The  supervisor guides the student and provides constructive feedback on his or her performance, whether that's mastering techniques, understanding key concepts or other aspects of being a scientist. This feedback is important to improve the skills and knowledge of the student, and to foster an overall academic attitude.
-#### Join midterm evaluation, together with student.
-Halfway through the project, the student will schedule an evaluation meeting to discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for both parties to review how things are going.
+
+If student and supervisor work closely together, then providing this feedback may happen quite naturally. If this is not the case, it is good to set out some time each month to talk about how things are going.
+
+#### Join midterm evaluation, together with student and examiner.
+One of these feedback meetings, halfway through the project should be more formalized and should include the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
+
 #### Provide feedback on the draft version of the research report.
 At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
@@ -107,11 +124,17 @@ Once the student has submitted a research proposal to the master's programme and
 
 While reviewing the proposal, it is possible to leave remarks that are visible to all parties involved in the project.
 
+#### Join midterm evaluation, together with student and supervisor.
+Halfway through the project, the student schedules a meeting with the supervisor and the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
+
 #### Submit the final grade.
 The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report. For more on grade submission the examiner is kindly referred to [our teaching wiki](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades).
 
 #### Guarantee validity of the grade.
-The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and establishing consensus if the first opinions about the final grade diverge too much. See [here](#grading) for more information.
+The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and establishing consensus if the first opinions about the final grade diverge too much. See [here](#grading) for more information. In case of any doubts about the overall grade, the examiner can contact the MBCS programme coordinator for troubleshooting. Examples of such doubts may be:
+
+* The two assessors have conflicting opinions about the written report
+* The quality of the (cross-validated) report is very different from the quality (non-validated) experimental work and/or presentation.
 
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plans should be made in collaboration with the supervisor, the student is expected to display ownership of the project. The perfomance level is enumerated (relatively abstractly) in the grading rubrics of the project. The student is expected to meet agreements and deadlines set out in collaboration with supervisor, assessor(s) and the programme.
@@ -148,7 +171,7 @@ The final report is graded by both the internal and the external assessor. Their
 ### Submitting the grade
 Both the internal and external assessor will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, they can grade the different components of the project. The examiner, finally, can submit the final grade, which is calculated as the weighted average of the average grades given by the assessors.
 
-Upon completion of the grading, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/tijmz/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
+Upon completion of the grading, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
 
 Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
 

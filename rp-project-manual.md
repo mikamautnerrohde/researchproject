@@ -153,9 +153,9 @@ The examiner is expected to collect the grade(s) given by the other assessor and
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plans should be made in collaboration with the supervisor, the student is expected to display ownership of the project. The perfomance level is enumerated (relatively abstractly) in the grading rubrics of the project. The student is expected to meet agreements and deadlines set out in collaboration with supervisor, assessor(s) and the programme.
 
-Important deadlines are listed in Table 2.
+Important deadlines are listed in Table 6.
 
-##### Table 2 - Important deadlines
+##### Table 6 - Important deadlines
 |What?  |When?  |Who?|
 |--|--|--|
 |Registering the project via datanose.nl/#yourprojects  | As soon as supervisor and assessor(s) are determined. | Student|
@@ -169,9 +169,9 @@ Important deadlines are listed in Table 2.
 
 
 ## Grading
-Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 3 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
+Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 7 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
-##### Table 3 - Assessment forms
+##### Table 7 - Assessment forms
 | Component |Contribution to final grade| Graded by| Minimum grade | 
 |:--|:--:|:--|:--:|
 |Experimental work  |40%  |Internal assessor |5.5 |
@@ -202,7 +202,7 @@ There are two situations that can lead to extension of the project (i.e. increas
 2. If the reality of a 36 EC *Research Project 2* mandates additional work that was not part of the planning, a request for extension can be submitted to the Examinations Board of the programme to turn it into a 42 EC *Research Project 2*. This request needs to be accompanied by an overview of the additional tasks, as well as a declaration by the supervisor that these tasks are necessary to succesfully complete the project.
 
 ### Insufficient performance
-As listed in table 3, there are minimum grades for all three assessment components. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
+As listed in table 7, there are minimum grades for all three assessment components. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
 
 Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it is important to explicitly inform the student about this. This way the student can either adapt performance accordingly, or choose to end the internship prematurely.
 

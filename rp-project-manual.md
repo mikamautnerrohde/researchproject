@@ -13,6 +13,14 @@ Note for the reader: students from *Brain and Cognitive Sciences* form a multidi
 
 ---
 
+As 1 EC corresponds to 28 hours of work, the size of these projects can also be considered as:
+
+Project size (EC)| Workload (hours) | Fulltime equivalent
+:----: | :----:|:----:|
+26 | 728|17 weeks
+36|1008|24 weeks
+42|1176|28 weeks
+
 ## Learning objectives
 During the research projects, the student is trained to:
 

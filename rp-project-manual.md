@@ -52,10 +52,10 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 #####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-[Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
-[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Grades experimental work, presentation and final report.</ul>
+[Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student and examiner.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
+[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor.<li>Grades experimental work, presentation and final report.</ul>
 [External assessor](#external-assessor-tasks) (also: co-assessor) | <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li></ul>
-[Examiner](#examiner-tasks) | <ul><li>This is a label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA). <li>Must hold doctoral degree.</ul> | <ul><li>Reviews and approves project proposal.</li><li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
+[Examiner](#examiner-tasks) | <ul><li>This is a label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA). <li>Must hold doctoral degree.</ul> | <ul><li>Reviews and approves project proposal.</li><li>Joins the midterm evaluation.<li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
 
 **Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the person who has the role examiner as examiner. You can list the other assessor as assessor.
 
@@ -63,7 +63,7 @@ Role| Requirements| Responsibilities
 
 In summary, the Research Project goes through several phases:
 
-1. Upon starting, the student registers the Research Project via Datanose (www.datanose.nl/#yourprojects), then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits again via Datanose, within one month of registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
+1. Upon starting, once a work agreement is in place, the student registers the Research Project via Datanose (www.datanose.nl/#yourprojects), then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits again via Datanose, within one month of registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss how the project is going with the supervisor and the examiner of the project.
 3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student may not submit multiple drafts.
 4. Based on the feedback on this draft, the student will submit a final version to Datanose, which will be graded by both assessors. The student will also give an oral presentation (usually 20 to 30 minutes, plus 10 minutes Q&A, but this can be adapted to be in line with the mores of the hosting institute) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.
@@ -103,10 +103,10 @@ The  supervisor guides the student and provides constructive feedback on his or 
 If student and supervisor work closely together, then providing this feedback may happen quite naturally. If this is not the case, it is good to set out some time each month to talk about how things are going.
 
 #### Join midterm evaluation, together with student and examiner.
-One of these feedback meetings, halfway through the project should be more formalized and should include the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
+One of these feedback meetings, halfway through the project should be more formalized and should include the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going. The topics that should be addressed during this meeting are listed on a [separate form](https://github.com/braincogsci/researchproject/blob/master/rp-midterm.md).
 
 #### Provide feedback on the draft version of the research report.
-At the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
+One month before the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
 The supervisor is expected to evaluate this draft report within a reasonable time frame and provide the student with constructive feedback.
 
@@ -124,6 +124,9 @@ Grading |3|3|3|
 
 #### Grade experimental work, presentation and final report
 The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
+
+#### Monitor the project
+It is good practice to monitor the project, either via occassional check-ins with the supervisor or with the student.
 
 ### External assessor tasks
 ##### Table 5 - Overview of external assessor tasks
@@ -149,18 +152,18 @@ While reviewing the proposal, it is possible to leave remarks that are visible t
 Halfway through the project, the student schedules a meeting with the supervisor and the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
 
 #### Submit the final grade.
-The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report. For more on grade submission the examiner is kindly referred to [our teaching wiki](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades).
+The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report. For more on grade submission the examiner is referred to [our teaching wiki](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades).
 
 #### Guarantee validity of the grade.
 The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and establishing consensus if the first opinions about the final grade diverge too much. See [here](#grading) for more information. In case of any doubts about the overall grade, the examiner can contact the MBCS programme coordinator for troubleshooting. Examples of such doubts may be:
 
 * The two assessors have conflicting opinions about the written report
-* The quality of the (cross-validated) report is very different from the quality (non-validated) experimental work and/or presentation.
+* The quality of the (cross-validated) report is very different from the quality of the (non-validated) experimental work and/or presentation.
 
 ### Student tasks
-As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plans should be made in collaboration with the supervisor, the student is expected to display ownership of the project. The perfomance level is enumerated (relatively abstractly) in the grading rubrics of the project. The student is expected to meet agreements and deadlines set out in collaboration with supervisor, assessor(s) and the programme.
+As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plans should be made in collaboration with the supervisor, the student is expected to display ownership of the project. The perfomance level is enumerated (relatively abstractly) in the grading rubrics of the project. The student is expected to meet agreements and deadlines set out in collaboration with supervisor, assessor(s) and the programme. These include setting up a work agreement, submitting documentation in time and scheduling the Midterm Evaluation.
 
-Important deadlines are listed in Table 6.
+The important deadlines are listed in Table 6.
 
 ##### Table 6 - Important deadlines
 |What?  |When?  |Who?|
@@ -168,12 +171,11 @@ Important deadlines are listed in Table 6.
 |Registering the project via datanose.nl/#yourprojects  |As soon as a complete [work agreement](rp-work-agreement) is in place|Student|
 |Submitting proposal via datanose.nl/#yourprojects  | Within one month of starting date | Student|
 |Reviewing the proposal | Within two weeks of submission date |Programme and examiner|
-|Midterm Evaluation Meeting| Halfway through the project | Student, supervisor and examiner|
+|Midterm Evaluation Meeting| Halfway through the project | Student, supervisor and examiner - scheduled by student|
 |Submit draft of research project| One month before ending date| Student sends draft, supervisor provides feedback|
-|Submit final report via datanose.nl/#yourprojects  | Project finish date | Student|
-|Present research findings in presentation of 20-30 minutes  | Project finish date | Student|
+|Submit final report via datanose.nl/#yourprojects  |Project finish date | Student|
+|Present research findings in presentation of 20-30 minutes  |In the weeks around finish date | Student|
 |Grading | Within 20 working days after project completion| <ol> <li>Internal assessor grades experimental work, presentation and report (advised by supervisor). <li>External assessor grades report. <li>The two have contact to determine their feedback, reach consensus on grading.<li>Supervisor and/or assessor meets student to provide feedback personally.<li>Internal and external assessor fill in the appropriate grading rubrics on www.datanose.nl. <li>Examiner submits final grades to www.datanose.nl for registration.</ol>
-
 
 ## Grading
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 7 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
@@ -181,9 +183,9 @@ Grading is based on three components: the experimental work, the final report on
 ##### Table 7 - Assessment forms
 | Component |Contribution to final grade| Graded by| Minimum grade | 
 |:--|:--:|:--|:--:|
-|Experimental work  |40%  |Internal assessor |5.5 |
-|Final report  |50% |Internal assessor and external assessor |6.0 |
-|Oral presentation  |10%  |Internal assessor |5.5 |
+|Experimental work|40%|Internal assessor |5.5|
+|Final report|50% |Internal assessor and external assessor |6.0 |
+|Oral presentation|10%|Internal assessor |5.5|
 
 To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](rp-project-rubrics.md).
 
@@ -194,7 +196,7 @@ Both the internal and external assessor will receive an automatic e-mail once th
 
 Upon completion of the grading, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
 
-Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
+Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results **before** submitting grades to Datanose.
 
 ## Miscellaneous issues
 ### Credits
@@ -205,13 +207,13 @@ If a project exceeds the originally planned deadline by six months or more, the 
 ### Extending the project
 There are two situations that can lead to extension of the project (i.e. increasing the credits awarded).
 
-1. If the Study Plan of the student includes a 5 EC course as an Elective, 1 EC can be added to *Research Project 2*. This should be listed as a comment when registering the project on Datanose. The student is expected to also work for about 28 hours more on the project.
-2. If the reality of a 36 EC *Research Project 2* mandates additional work that was not part of the planning, a request for extension can be submitted to the Examinations Board of the programme to turn it into a 42 EC *Research Project 2*. This request needs to be accompanied by an overview of the additional tasks, as well as a declaration by the supervisor that these tasks are necessary to succesfully complete the project.
+1. If the Study Plan of the student includes a 5 EC course as an Elective, 1 EC can be added to *Research Project 2*. This should be listed as a comment when registering the project on Datanose. The student is expected to also work for 28 hours more on the project.
+2. If the reality of a 36 EC *Research Project 2* mandates additional work that was not part of the planning, a request for extension can be submitted to the Examinations Board of the programme to turn it into a 42 EC *Research Project 2*. This request needs to be accompanied by an overview of the additional tasks, as well as a declaration by the supervisor that these tasks are necessary to succesfully complete the project. Please note that such an extension would be exceptional and is not guaranteed.
 
 ### Insufficient performance
 As listed in table 7, there are minimum grades for all three assessment components. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
 
-Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it is important to explicitly inform the student about this. This way the student can either adapt performance accordingly, or choose to end the internship prematurely.
+Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it is important to explicitly inform the student about this (e.g. during the Midterm Evaluation). This way the student can either adapt performance accordingly, or choose to end the internship prematurely.
 
 ### Prematurely ending the Research Project
 If issues arise that jeopardize the success of the research project and that cannot be remediated by feedback or reaching consensus between supervisor, examiner and student, please contact the programme via info-mcs@uva.nl. 
@@ -229,16 +231,19 @@ The Research Project Proposal serves two goals:
 
 1. It allows the programme to review the suitability of a given project, i.e. whether the project fits with the learning objectives of the course modules *Research Project 1* or *Research Project 2*.
 
-2. It prepares the student for learning effectively during the internship, by guaranteeing that research questions, hypotheses, experimental design and methods of analysis/interpretation are explicitly considered by the students at an early stage of the learning process.
+2. It prepares the student for learning effectively during the internship, by guaranteeing that research questions, hypotheses, experimental design and methods of analysis/interpretation are explicitly considered by the student at an early stage of the learning process.
 
 Both goals are served by timely submission of the proposal. In the case of goal 1, the possible scenario in which the programme rejects a proposed research project is extra costly for the student if the project has been ongoing for a relatively long time. In the case of goal 2, late submission may indicate that the student spent a relatively long time without clear plans or goals, which jeopardizes the learning process.
 
 Therefore, the Research Project Proposal must be submitted within four weeks after the registration date of the internship. If submitted more than two weeks late, the Examinations Board considers the use of time within the internship to have been inefficient. The registered starting date of the project will then be shifted to six weeks before the submission date of the (complete) Research Project Proposal Form. This will also shift the ending date of the project accordingly.
 
-Late submission of the Research Project Proposal will not affect the grading of the research project, but the submission date of the final report (and therefore the registration date of the grade) cannot be before the ending date of the project.
+Late submission of the Research Project Proposal will not affect the grading of the research project, but the submission date of the final report cannot be before the ending date of the project.
 
 ### Delays in completing the Research Project
-In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl with an indication of the size of the delay. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner and assessor of the Research Project. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline together with the student or to request termination of the project (see [above](#Prematurely ending the Research Project).
+In case the deadline for final submission as registered on Datanose is not going to be met by the student and the delay is more than one month, the student should inform the  programme coordinator and the examiner and assessor of the Research Project, and supply the reasons for the delay.. Based on this motivation, the examiner of the project may decide to set a new deadline together with the student or to request termination of the project (see [above](#Prematurely ending the Research Project).
+
+### Registration date of the grade
+At the Faculty of Science at the University of Amsterdam, grades for individual projects such as *Research Project 1* and *Research Project 2* are registered at the date of grade submission by the examiner. Note that the students should be actively enrolled for this grade registration. 
 
 ## Questions and comments
 * If you notice any issues with this manual or the overall process of the Research Project, please contact v.tijms@uva.nl or submit them via [the Github issue tracker](https://github.com/braincogsci/researchproject/issues).

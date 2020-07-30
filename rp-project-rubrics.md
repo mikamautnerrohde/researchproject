@@ -18,12 +18,13 @@ The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 
 
 |Grade|Description |
 |:-----:|------------------|
-| 1.0 -- 5.0 | The work is not at the level of a master's student, but might be considered sufficient (not good) for a student at the bachelor's level. |
-| 5.5 -- 6.0 | The work is only just sufficient at the level of a master's student. |
-| 6.5 -- 7.5 | The work meets reasonable expectations of a research master's student. |
-| 8.0 -- 8.5 | The work shows that the research master's student is performing at a high level. |
-| 9.0| The work demonstrates excellence. |
-| 9.5 -- 10.0 | The research master's students is performing at a level appropriate for a PhD student in the first years of their programme, or better. |
+|1.0 -- 4.0|The work is not at the level of a master's student and would also not be sufficient for a student at the bachelor's level|
+|4.5 -- 5.0|The work is not at the level of a master's student, but would be sufficient for a student at the bachelor's level|
+|5.5 -- 6.0|The work is only just sufficient at the level of a master's student.|
+|6.5 -- 7.5|The work meets reasonable expectations of a research master's student. |
+|8.0 -- 8.5|The work shows that the research master's student is performing at a high level.|
+|9.0 -- 9.5|The work demonstrates excellence.|
+|10.0|The research master's student is performing at a level appropriate for a PhD student in the first year of their programme, or better. |
 
 # The grading rubrics
 ## Experimental work (40%)
@@ -34,7 +35,7 @@ The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 
 |Data analysis  |The student is not able to select a data analysis method and/or cannot analyze and interpret results without step-by-step supervision.  |The student is able to select an appropriate data analysis for acquired data in the domain of the research project and is also able to analyze and interpret the results, but still requires considerable supervision to do so, and is not capable of motivating important choices during the analysis.|The student is able to select appropriate data analysis methods for acquired data in the domain of the research project. The student has shown a good understanding of the workings of the analysis methods and is able to analyze and interpret results. |The student is able to select appropriate data analysis methods for acquired data in the domain of the research project, and can provide clear argumentation to support a choice. The student is able to perform analysis and interpret the results critically, while relatively unsupervised.|
 |Process |The learning process of the student was unnecessarily hindered for a long time and/or the student could not be relied upon when agreements or deadlines were set. Feedback had little effect to improve the learning of the student.|The student stayed in control of the learning process, seeking out information independently or by asking questions. However, the learning process was unnecessarily hindered at times and/or the student had difficulties upholding agreements and deadlines. The student responded well to feedback.| The student showed initiative in learning, seeking out information independently or by asking questions. The student responded well to feedback and upheld agreements and deadlines.|The student has demonstrated to be inquisitive during the learning process, keeping the right balance between asking questions and learning independently. The student upheld agreements and deadlines, responded well to feedback and took initiative to structure the internship, set personal goals and optimize learning.|
 |Original contribution| Throughout the project, the student mostly followed instructions with regards to experimental design, data analysis and interpretation. The student did not bring in any substantial ideas for the project.| The student demonstrated the ability to make choices for the experimental design, data analysis and interpretation of results, in collaboration with the supervisor.|The student can formulate good hypotheses and make design choices independently. |The student can formulate good hypotheses and make design choices independently, and can articulate the good reasoning behind those choices. The student came up with original insights or ideas that clearly aided data collection, analysis or interpretation.|
-|Collaboration|The student does not clearly keep the larger goal of the group and the objectives of colleagues in mind when working and has failed to consider the tasks and schedules of others on multiple occassions.|The student is clearly aware of the larger goals of the group and of the objectives of colleagues. The student organized his/her work in such a way that it considered those goals and objectives.|The student is clearly aware of the larger goal of the group and the objectives of colleagues. The student organized his/her project work in such a way that it contributed to reaching those goals and objectives.|The student is clearly aware of the larger goals of the group and the objectives of colleagues. The student's work contributed to reaching those goals and objectives not only be working effectively on his/her own project, but also by helping out others and working in the interest of the group as a whole.|
+|Collaboration|The student does not clearly keep the larger goal of the group and the objectives of colleagues in mind when working and has failed to consider the tasks and schedules of others on multiple occassions.|The student is clearly aware of the larger goals of the group and of the objectives of colleagues. The student organized his/her work in such a way that it considered those goals and objectives.|The student is clearly aware of the larger goal of the group and the objectives of colleagues. The student organized his/her project work in such a way that it contributed to reaching those goals and objectives.|The student is clearly aware of the larger goals of the group and the objectives of colleagues. The student's work contributed to reaching those goals and objectives not only by working effectively on his/her own project, but also by helping out others and working in the interest of the group as a whole.|
 
 ## Presentation (10%)
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 8.9) | Excellent (9.0 or higher)|
@@ -47,7 +48,7 @@ The University of Amsterdam (UvA) uses a grading scheme that ranges from 1.0 to 
 |Eye contact and elocution|The student mumbles or is otherwise difficult to follow, and makes too much use of notes or other supportive material to stay on track.|Student is mostly clear and mostly maintains appropriate eye contact, but makes use of notes or other supportive material a bit too often, or at times has trouble expressing ideas.|Student uses a clear voice and correct English, so that everyone can easily follow the presentation. The student appropriate maintains eye contact with the group, while making little use of notes or presentation slides to stay on track.|
 
 ## Research report (50%)
-Please note that the bandwidth of the category 'sufficient to good' is quite broad and offers room for nuance in determining the actual grade.
+Please note that the bandwidths of the categories 'insufficient' and 'sufficient to good' are quite broad and offer room for nuance when determining the actual grades.
 
 |Dimension  |Insufficient (5.5 or less) |Sufficient to good (6.0 - 7.5)|Good to excellent (8.0 - 9.0)|  Excellent (9.0 or higher)|
 |-|----|----|----|----|

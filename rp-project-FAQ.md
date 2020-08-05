@@ -16,3 +16,8 @@ Every Research Project involves two distinct assessors. One of these is the exam
 ### I am registering my project on Datanose, but step 2 is missing
 This is an oddity of the Datanose system. MBCS skips a step that many other educational programmes use during internships, and for some reason our steps cannot be renumbered. You can safely ignore the missing number 2.
 
+## By supervisors, assessors and examiners
+
+### The grading rubric handed to me via the manual is different from the rubrics shown on Datanose
+Sometimes the grading rubrics tied to a specific project on www.datanose.nl lag behind the rubrics as they were set out in the Research Project Manual. If this is the case, please use the rubrics in the manual to determine the grades per dimension and for the rubrics overall. You can then fill in these grades on Datanose. In the dropdown menu, select the description that is closest to the student performance.
+

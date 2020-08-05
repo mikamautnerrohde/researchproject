@@ -1,7 +1,9 @@
 # Midterm Evaluation Form
 This form is meant to structure the Midterm Evaluation that the student is expected to schedule about halfway during the project. It consists of two parts: one section that should be filled in by the supervisor and student independently before the meeting, and one section that should be filled in just after the meeting. The complete form is to be submitted to info-mcs@uva.nl for archival and monitoring purposes.
 
-The Midterm Evaluation is a tool to clarify where the student stands in the process of learning: which things are going well and which could be improved? It is also a moment to probe whether the project is meeting the expectations of the student.To prepare for the talk, both the Supervisor and the student should fill in their sections. Then, a point-by-point discussion about the different criteria can take place. Note that it is especially relevant to discuss aspects where the student and supervisor have differing opinions.
+The Midterm Evaluation is a tool to clarify where the student stands in the process of learning: which things are going well and which could be improved? It is also a moment for student and supervisor to reflect on their collaboration. The conversation about the different topics listed on the form is more important than the specific scoring, but for monitoring it is good to score the different items anyway: from left to right, filling in one dot corresponds to insufficient, and filling in five dots corresponds to very good.
+
+To prepare for the talk, both the Supervisor and the student should fill in their sections. Then, a point-by-point discussion about the different criteria can take place. Note that it is especially relevant to discuss aspects where the student and supervisor have differing opinions.
 
 ## Section 1: Rating the project so far
 
@@ -55,7 +57,7 @@ Will (or did) the tasks of the students change? If so, please provide a brief de
 <br/>
 <br/>
 <br/>
-Please send this form to the programme assistant of the Research Master Brain and Cognitive Sciences, info-mcs@uva.nl 
+Please send a copy of this form to the programme assistant of the Research Master Brain and Cognitive Sciences, info-mcs@uva.nl.
 
 
 

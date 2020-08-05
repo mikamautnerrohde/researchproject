@@ -3,7 +3,7 @@
 ## By students
 
 ### I want to register my project, but do not have a proposal yet that I can submit. What should I do?
-This is fine. Registration is the first step. It just lets you detail where and with whom you will do your internship. After registration, you can submit your research proposal and you have a month to do so.
+This is fine. Registration is the first step. It just lets you detail where and with whom you will do your internship. After registration, you can submit your research proposal and you have a month to do so. Please note that once you submit your proposal, you cannot register your project with a starting date that is more than 30 days before the proposal submission!
 
 ### How do I fill in who is examiner and who is assessor on Datanose?
 Every Research Project involves two distinct assessors. One of these is the examiner, who should be a senior researcher at the UvA. Datanose wants to see explicitly which of the assessors takes on this role. It is important to consider the following.

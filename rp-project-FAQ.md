@@ -6,9 +6,11 @@
 This is fine. Registration is the first step. It just lets you detail where and with whom you will do your internship. After registration, you can submit your research proposal and you have a month to do so.
 
 ### How do I fill in who is examiner and who is assessor on Datanose?
-Every Research Project involves two distinct assessors. One of these is the examiner, who should be a senior researcher at the UvA. Datanose wants to see explicitly which of the assessors takes on this role. While filling in your assessors, the best practice is to:
+Every Research Project involves two distinct assessors. One of these is the examiner, who should be a senior researcher at the UvA. Datanose wants to see explicitly which of the assessors takes on this role. It is important to consider the following.
 
-* Fill in the examiner first. If your project involves two assessors who both are senior researchers from UvA, you can just pick one.
+* If a project is *internal* (at UvA), the examiner will be assessing all elements (experimental work, presentation and report). Choose the person who has agreed to this, so a senior researcher at the institute where you are working.
+* If a project is *external* (to UvA), the examiner will only be the second reader of the final report. Please select the person who has agreed to this role.
+* Fill in the examiner first.
 * In the assessor field, fill in the name of the other assessor. If this assessor is not from UvA, you may need to click the blue box labeled "Not in list" in the dialog that pops up when you enter the name of the assessor.
 
 ### I am registering my project on Datanose, but step 2 is missing

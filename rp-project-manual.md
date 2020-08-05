@@ -63,7 +63,13 @@ Role| Requirements| Responsibilities
 
 In summary, the Research Project goes through several phases:
 
-1. Upon starting, once a work agreement is in place, the student registers the Research Project via Datanose (www.datanose.nl/#yourprojects), then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits again via Datanose, within one month of registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
+1. Upon starting, once a work agreement is in place, the student registers the Research Project via Datanose (www.datanose.nl/#yourprojects). Here, the student submits who will be examiner and who will be assessor. Who gets to be what depends on whether a project is *internal* (at UvA) or *external* (outside of UvA):
+
+* For internal projects, the examiner is the assessor based at UvA who works at the hosting lab and who agreed to grade experimental work, presentation and final report.
+* For external projects, the examiner is the assessor who is based at UvA and who agreed to be the second reader of the final report.
+* The other assessor of the project can be submitted as 'assessor' on the Datanose form.
+
+2. The student then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits again via Datanose, within one month of registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will have a Midterm Evaluation to discuss how the project is going with the supervisor and the examiner of the project.
 3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student may not submit multiple drafts.
 4. Based on the feedback on this draft, the student will submit a final version to Datanose, which will be graded by both assessors. The student will also give an oral presentation (usually 20 to 30 minutes, plus 10 minutes Q&A, but this can be adapted to be in line with the mores of the hosting institute) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.

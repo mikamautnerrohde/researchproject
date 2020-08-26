@@ -21,3 +21,5 @@ This is an oddity of the Datanose system. MBCS skips a step that many other educ
 ### The grading rubric handed to me via the manual is different from the rubrics shown on Datanose. Which one should I use?
 Sometimes the grading rubrics tied to a specific project on www.datanose.nl lag behind the rubrics as they were set out in the Research Project Manual. If this is the case, please use the rubrics in the manual to determine the grades per dimension and for the rubrics overall. You can then fill in these grades on Datanose. In the dropdown menu, select the description that is closest to the student performance.
 
+### I am an examiner and I cannot reach consensus with the assessor about the grading for the research project report. What should I do?
+You can contact the programme via info-mcs@uva.nl and send us your considerations. There will be then an additional internal assessment of the work submitted by the student, to arrive at a third opinion. On the basis of this opinion, you can choose to modify your grade or to let it stand: the final grade is then decided by you, as formal examiner of the project.

@@ -174,7 +174,7 @@ The important deadlines are listed in Table 6.
 ##### Table 6 - Important deadlines
 |What?  |When?  |Who?|
 |--|--|--|
-|Registering the project via datanose.nl/#yourprojects  |As soon as a complete [work agreement](rp-work-agreement) is in place|Student|
+|Registering the project via datanose.nl/#yourprojects  |As soon as a complete [work agreement](https://canvas.uva.nl/courses/6067/pages/research-projects) is in place|Student|
 |Submitting proposal via datanose.nl/#yourprojects  | Within one month of starting date | Student|
 |Reviewing the proposal | Within two weeks of submission date |Programme and examiner|
 |Midterm Evaluation Meeting| Halfway through the project | Student, supervisor and examiner - scheduled by student|

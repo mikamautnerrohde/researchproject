@@ -13,6 +13,9 @@ Every Research Project involves two distinct assessors. One of these is the exam
 * Fill in the examiner first.
 * In the assessor field, fill in the name of the other assessor. If this assessor is not from UvA, you may need to click the blue box labeled "Not in list" in the dialog that pops up when you enter the name of the assessor.
 
+### My intended examiner is not listed on Datanose
+Only the examiners approved by the Examinations Board are listed on Datanose. If you wish to propose a new examiner, please send the name, title and e-mail address of this examiner to info-mcs@uva.nl. Our offices will then request listing of your intended examiner.
+
 ### I am registering my project on Datanose, but step 2 is missing. Is something wrong?
 This is an oddity of the Datanose system. MBCS skips a step that many other educational programmes use during internships, and for some reason our steps cannot be renumbered. You can safely ignore the missing number 2.
 

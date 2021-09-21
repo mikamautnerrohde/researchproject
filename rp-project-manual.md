@@ -256,8 +256,7 @@ In case the deadline for final submission as registered on Datanose is not going
 At the Faculty of Science at the University of Amsterdam, grades for individual projects such as *Research Project 1* and *Research Project 2* are registered at the date of grade submission by the examiner. Note that the students should be actively enrolled for this grade registration. 
 
 ## Questions and comments
-* If you notice any issues with this manual or the overall process of the Research Project, please contact v.tijms@uva.nl or submit them via [the Github issue tracker](https://github.com/braincogsci/researchproject/issues).
-* There is a FAQ [here](rp-project-FAQ.md).
+* If you notice any issues with this manual or the overall process of the Research Project, please contact v.tijms@uva.nl.
 
 # Appendix 1: Dublin descriptors
 In this Appendix, the Learning Objectives of the Research Projects are aligned with the exit qualifications of the programme, as defined in the TER-B of the research master Brain and Cognitive Sciences.

@@ -162,7 +162,7 @@ While reviewing the proposal, it is possible to leave remarks that are visible t
 Halfway through the project, the student schedules a meeting with the supervisor and the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
 
 #### Submit the final grade.
-The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report. For more on grade submission the examiner is referred to [our teaching wiki](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades).
+The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
 
 #### Guarantee validity of the grade.
 The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and establishing consensus if the first opinions about the final grade diverge too much. See [here](#grading) for more information. In case of any doubts about the overall grade, the examiner can contact the MBCS programme coordinator for troubleshooting. Examples of such doubts may be:

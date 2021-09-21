@@ -57,7 +57,7 @@ Role| Requirements| Responsibilities
 [External assessor](#external-assessor-tasks)| <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li><li>Joins final feedback meeting</li></ul>
 [Examiner](#examiner-tasks) | <ul><li>This is a label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA). <li>Must hold doctoral degree.</ul> | <ul><li>Reviews and approves project proposal.</li><li>Joins the midterm evaluation.<li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
 
-**Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the assessor who has the label examiner as examiner. You can list the other assessor as assessor. MAke sure you correctly enter whether the project is done internally (at UvA) or externally (at a lab outside of UvA).
+**Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the assessor who has the label examiner as examiner. You can list the other assessor as assessor. Make sure you correctly enter whether the project is done internally (at UvA) or externally (at a lab outside of UvA). If an examiner cannot be selected from the menu in Datanose, this means the specific examiner has not been approved by the Examinations Board yet. If this is the case, let the programme know via info-mcs@uva.nl, so that this approval can be requested.
 
 ## Phases of the Research Project
 

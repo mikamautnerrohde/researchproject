@@ -197,7 +197,7 @@ Grading is based on three components: the experimental work, the final report on
 |Final report|50% |Internal assessor and external assessor |6.0 |
 |Oral presentation|10%|Internal assessor |5.5|
 
-To grade the different components or to get a better idea about the expected level, please consult the respective [grading rubric](rp-project-rubrics.md).
+To grade the different components or to get a better idea about the expected level, please review the grading rubrics of the Research Project.
 
 The final report is graded by both the internal and the external assessor (see the final row of table 6 for a process description). Their grades are automatically averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme via info-mcs@uva.nl.
 

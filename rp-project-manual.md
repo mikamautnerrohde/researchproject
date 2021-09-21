@@ -204,9 +204,9 @@ The final report is graded by both the internal and the external assessor (see t
 ### Submitting the grade
 Both the internal and external assessor will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, they can grade the different components of the project. Once both assessors have provided the grades, the examiner can then, finally, confirm the final grade, which is calculated as the weighted average of the average grades given by the assessors. Please note that the grade point difference between the two assessments of the final report should not be 1 or more.
 
-Upon confirmation of the grading, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. The latter method will allow for immediate registration of the grade in SIS. For the former method, the examiner can send a signed copy to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
+Upon confirmation of the grading, the examiner will be prompted with a grade registration form, available for digital signing using two-factor authentication. Please notice that the full workflow listed in the right hand of the Datanose page needs to be completed: that means first confirming the grade and then registering it.
 
-Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results **before** submitting grades to Datanose.
+Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results **before** submitting grades to Datanose, for example during the final feedback meeting.
 
 ## Miscellaneous issues
 ### Credits and delays

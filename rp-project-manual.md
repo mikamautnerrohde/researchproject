@@ -136,7 +136,7 @@ The internal assessor is expected to grade all three assessment forms: the exper
 It is good practice to monitor the project, either via occassional check-ins with the supervisor or with the student.
 
 #### Join the final feedback meeting
-Once all components are assessed, the internal and external assessors meet with the student to give feedback on the student's performance and to discuss how things went. After this meeting, the student writes a brief relection on the experience and identifies one or more personal learning objectives for the future. This reflection should be submitted to info-mcs@uva.nl.
+Once all components are assessed, the internal and external assessors meet with the student to give feedback on the student's performance and to discuss how things went. After this meeting, the student writes a brief reflection on the experience and identifies one or more personal learning objectives for the future. This reflection should be submitted to info-mcs@uva.nl. The reflection is not assessed or graded.
 
 ### External assessor tasks
 ##### Table 5 - Overview of external assessor tasks

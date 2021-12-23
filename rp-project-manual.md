@@ -6,12 +6,7 @@ This manual concerns the modules *Research Project 1* and *Research Project 2* f
 
 The research project is one of the capstones of the programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. All students of the research master *Brain and Cognitive Sciences* conduct two research projects as mandatory parts of their curriculum:
 
-*Research Project 1* (26 EC) and *Research Project 2* (36 or 42 EC).
-
----
-Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at logic departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer their research question.
-
----
+*Research Project 1* (26 EC) and *Research Project 2* (36 or 42 EC). 
 
 As 1 EC corresponds to 28 hours of work, the size of these projects can also be considered as:
 
@@ -20,6 +15,11 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 26 | 728|17 weeks
 36|1008|24 weeks
 42|1176|28 weeks
+
+---
+Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at logic departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer their research question.
+
+---
 
 ## Learning objectives
 During the research projects, the student is trained to:
@@ -39,28 +39,27 @@ During the research projects, the student is trained to:
 7. Reflect on and describe the limitations and implications of the research project.
 
 ## Roles within the project
-To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). At least one of these assessors should be a senior scientist employed at UvA who is formally labeled as the _examiner_ of the project.
+To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). One of these two assessors should be a senior scientist employed at UvA who is formally labeled as the _examiner_ of the project. Note that the two assessors will not have exactly the same tasks: the internal assessor can grade experimental work, oral presentation and final report, but the external assessor, being an outsider to the hosting lab, will only be able to assess the written report.
 
-The supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to take on both the supervisor and internal assessor roles, as long as all of the above requirements are met.
+The supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to take on both the supervisor and internal assessor roles, as long as all of the above requirements are met. If the supervisor and the internal assessor are different people, please note that it is the internal assessor who will ultimately grade the work of the student, not the supervisor.
 
 The external assessor should be a researcher with a doctoral degree from another group, who still has relevant expertise (whether topic-wise or method-wise) to assess the final report that is written on the project.
 
-One of the assessors is designated examiner, and will hold ultimate responsibility for the final grade. This examiner needs to be a UvA employee with a doctoral degree.
+As mentioned above, one of the two assessors is labeled examiner, and this assessor holds ultimate responsibility for the final grade. The examiner needs to be a UvA employee with a doctoral degree.
 
 Table 1 summarizes the requirements and responsibilities of the different roles. Please note that for each assessor, the tasks depend on whether they are internal or external to the lab where the project is taking place. The tasks are described in more detail in the section *[Detailed tasks per role](#detailed-tasks-per-role)*.
 
 #####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
 ----- | ----- | ---------
-[Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude. <li>Joins midterm evaluation, together with student and examiner.<li>Provides feedback on the draft version of the research report.<li>Evaluates experimental work and presentation: advises internal assessor on grading. </ul> 
-[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor.</li><li>Grades experimental work, presentation and final report.<li>Joins the final feedback meeting</ul>
-[External assessor](#external-assessor-tasks)| <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic). </ul> | <ul><li>Grades final report.</li><li>Joins final feedback meeting</li></ul>
-[Examiner](#examiner-tasks) | <ul><li>This is a label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA). <li>Must hold doctoral degree.</ul> | <ul><li>Reviews and approves project proposal.</li><li>Joins the midterm evaluation.<li>Submits the final grade.<li>Guarantees validity of the grade.</li></ul>
+[Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions <li>Provides feedback on overall performance and promotes scientific attitude <li>Joins midterm evaluation, together with student and examiner<li>Provides feedback on the draft version of the research report</ul> 
+[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor</li><li>Grades experimental work, presentation and final report<li>Joins the final feedback meeting</ul>
+[External assessor](#external-assessor-tasks)| <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic) </ul> | <ul><li>Grades final report</li><li>Joins final feedback meeting</li></ul>
+[Examiner](#examiner-tasks) | <ul><li>Label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA)<li>Must hold doctoral degree</ul><li>Must be approved by programme Examinations Board</ul>|<ul><li>Reviews and approves project proposal</li><li>Joins the midterm evaluation<li>Submits the final grade<li>Guarantees validity of the grade</li></ul>
 
-**Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the assessor who has the label examiner as examiner. You can list the other assessor as assessor. Make sure you correctly enter whether the project is done internally (at UvA) or externally (at a lab outside of UvA). If an examiner cannot be selected from the menu in Datanose, this means the specific examiner has not been approved by the Examinations Board yet. If this is the case, let the programme know via info-mcs@uva.nl, so that this approval can be requested.
+**Note for students:** when registering your project on Datanose, you will be asked to list an assessor and an examiner. Please enter the assessor who has the label examiner as examiner. You can list the other assessor as assessor. Make sure you correctly enter whether the project is done internally (at UvA) or externally (at a lab outside of UvA). If an examiner cannot be selected from the dropdown menu in Datanose, this means the specific examiner has not been approved by the Examinations Board yet. If this is the case, let the programme know via info-mcs@uva.nl. The Examinations Board will then review whether the intended examiner can be approved as such.
 
 ## Phases of the Research Project
-
 In summary, the Research Project goes through several phases:
 
 1. Upon starting, once the hosting lab and the student have reached an agreement about the nature and conditions of the internship, the student registers the Research Project via Datanose (www.datanose.nl/#yourprojects). Here, the student submits who will be examiner and who will be the other assessor. Care should be taken when registering the project as *internal* (at UvA) or *external* (outside of UvA):
@@ -69,10 +68,10 @@ In summary, the Research Project goes through several phases:
 * For external projects, the examiner is assumed to work outside of the hosting lab. In this case, the examiner will only grade the final report.
 * The assessor of the project who is not labeled as the examiner should be submitted as 'assessor' on the Datanose form.
 
-2. The student then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits again via Datanose, within one month of the starting date that was entered when registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
+2. The student then reads relevant literature and formulates research questions, hypotheses and an appropriate design in collaboration with the supervisor. This results in a Research Proposal, which the student submits again via Datanose, within one month after the starting date that was entered when registering the project. This proposal is reviewed by both the MBCS programme coordinator and the examiner of the project.
 2. In the subsequent months, the student will acquire and/or analyze the data relevant to the Research Project. At some convenient time within this phase, the student will schedule a Midterm Evaluation to discuss how the project is going with the supervisor and the examiner of the project.
 3. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a report on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student may not submit multiple drafts.
-4. Based on the feedback on this draft, the student will submit a final version to Datanose, which will be graded by both assessors. The student will also give an oral presentation (usually 20 to 30 minutes, plus 10 minutes Q&A, but this can be adapted to be in line with the mores of the hosting institute) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. See [here](#grading) for more information on grading.
+4. Based on the feedback on this draft, the student will submit a final version to Datanose, which will be graded by both assessors. The student will also give an oral presentation (usually 20 to 30 minutes, plus 10 minutes Q&A, but this can be adapted to be in line with the mores of the hosting institute) about their Research Project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. We recommend giving the presentation in the phase between draft report and final report.
 5. To close off the project, student, internal assessor and external assessor (and optionally, the supervisor) meet for a final feedback meeting to discuss assessment.
 
 ## Detailed tasks per role
@@ -87,9 +86,8 @@ Ongoing feedback|4|6|7|
 Feedback on draft report|6|6|6|
 Miscellaneous|11|22|29|
 
-
 #### Assist in project planning
-When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project (see table 3). The supervisor is requested to ascertain the feasibility of the project within the submitted time frame. The student can inform the supervisor about the relevant EC count.
+When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project (see table 3). The supervisor checks whether it is reasonable to expect that the planned project can be finished within the given time frame. 
 
 #### Table 3 - Project sizes
 Project size (EC)| Workload (hours) | Fulltime equivalent
@@ -98,10 +96,10 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 36|1008|24 weeks
 42|1176|28 weeks
 
-Note: once the proposal has been approved, it is not possible to change the EC rewarded to the student upon succesful completion of the project.
+Note: once the proposal has been approved by programme and examiner, it is not possible to change the EC rewarded to the student upon succesful completion of the project.
 
 #### Be contact for student questions
-The supervisor is the go-to person for the student, for any questions related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student. At the same time, the students should display ownership of the project.
+The supervisor is the go-to person for the student, for any questions related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student. At the same time, the student should display ownership of the project.
 
 A good rule of thumb is for the supervisor to have at least 1 hour per week allotted to discussion with the student, either via a single meeting or via multiple short ones.
 
@@ -118,9 +116,6 @@ One month before the end of the project, the student will submit a draft version
 
 The supervisor is expected to evaluate this draft report within a reasonable time frame and provide the student with constructive feedback.
 
-####  Evaluate experimental work and presentation
-In case the supervisor and internal assessor are not the same person, the supervisor is encouraged to *advise* the internal assessor on grading the experimental work of the student, as well as the oral presentation on the project. 
-
 ### Internal assessor tasks
 
 ##### Table 4 - Overview of internal assessor tasks
@@ -130,10 +125,16 @@ Miscellaneous|1|1|1|
 Grading |3|3|3|
 
 #### Grade experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. Experimental work can be difficult to assess for an internal assessor who did not supervise the student, which is why the supervisor is expected to provide the internal assessor with advice on the grading. See [here](#grading) for more information about grading. Grading includes filling in the appropriate grading rubrics on www.datanose.nl.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. These rubrics can be filled on the Datanose project portal when the time for assessment has come. To see the rubrics before that time, they are also publicly available via:
+
+https://student.uva.nl/bcs/content/az/research-projects/research-project-s.html
+
+Where they are listed as **Rubric Template Research Project**.
+
+See [here](#grading) for more information about grading.
 
 #### Monitor the project
-It is good practice to monitor the project, either via occassional check-ins with the supervisor or with the student.
+It is good practice to monitor the project, either via occassional check-ins with the supervisor or with the student. This is especially important to be able to assess the experimental work, as it might otherwise not be clear what the performance of the student is like.
 
 #### Join the final feedback meeting
 Once all components are assessed, the internal and external assessors meet with the student to give feedback on the student's performance and to discuss how things went. After this meeting, the student writes a brief reflection on the experience and identifies one or more personal learning objectives for the future. This reflection should be submitted to info-mcs@uva.nl. The reflection is not assessed or graded.
@@ -149,12 +150,14 @@ Grading report |3|3|3|
 The external assessor is expected to grade the final report. See [here](#grading) for more information about grading. This includes filling in the appropriate grading rubric on www.datanose.nl.
 
 ### Examiner tasks
+Once the student registers the project, the examiner receives a notification from Datanose to confirm participation in the project.
 
 ####  Reviews and approves project proposal.
-Once the student has submitted a research proposal to the master's programme and that proposal has been approved by the programme, the examiner will be asked to review the proposal. In this process, the examiner is asked to judge the following:
+One month into the project, the student submits a research proposal via www.datanose.nl and once that proposal has been approved by the programme, the examiner will be asked to review the proposal. In this process, the examiner is asked to judge the following:
 
-- is the planning of the project feasible?
+- is the planning of the project feasible for a master student?
 - is the design of the study appropriate given the research question and hypotheses?
+- is the plan of the student fitting for a master's level project?
 
 While reviewing the proposal, it is possible to leave remarks that are visible to all parties involved in the project.
 
@@ -162,13 +165,13 @@ While reviewing the proposal, it is possible to leave remarks that are visible t
 Halfway through the project, the student schedules a meeting with the supervisor and the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
 
 #### Submit the final grade.
-The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report.
+The examiner is expected to submit the final grade for registration via www.datanose.nl, using a link that is automatically e-mailed once the student has submitted the final report and assessment by both internal and external assessor is completed.
 
 #### Guarantee validity of the grade.
-The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and establishing consensus if the first opinions about the final grade diverge too much. See [here](#grading) for more information. In case of any doubts about the overall grade, the examiner can contact the MBCS programme coordinator for troubleshooting. Examples of such doubts may be:
+The examiner is expected to collect the grade(s) given by the other assessor and to determine a final grade. This includes discussing the verdict with the other assessor, and establishing consensus if the first opinions about the final grade diverge by one grade point or more. See [here](#grading) for more information. In case of any doubts about the overall grade, the examiner can contact the MBCS programme coordinator for troubleshooting. Examples of such doubts may be:
 
 * The two assessors have conflicting opinions about the written report
-* The quality of the (cross-validated) report is very different from the quality of the (non-validated) experimental work and/or presentation.
+* The (cross-validated) assessment of the report is very different from the assessment of the (non-validated) experimental work and/or presentation.
 
 ### Student tasks
 As a research master student, the student enrolled in either *Research Project 1* or *Research Project 2* is expected to take the lead on his or her project. While all decisions and plans should be made in collaboration with the supervisor, the student is expected to display ownership of the project. The perfomance level is enumerated (relatively abstractly) in the grading rubrics of the project. The student is expected to meet agreements and deadlines set out in collaboration with supervisor, assessor(s) and the programme. These include setting up a work agreement at the start, submitting documentation in time and scheduling the Midterm Evaluation.
@@ -183,9 +186,9 @@ The important deadlines are listed in Table 6.
 |Reviewing the proposal | Within two weeks of submission date |Programme and examiner|
 |Midterm Evaluation Meeting| Halfway through the project | Student, supervisor and examiner - scheduled by student|
 |Submit draft of research project| One month before ending date| Student sends draft, supervisor provides feedback|
-|Submit final report via datanose.nl/#yourprojects  |Project finish date | Student|
 |Present research findings in presentation of 20-30 minutes  |In the weeks before finish date | Student|
-|Grading | Within 20 working days after project completion| <ol> <li>The student submits the final report to Datanose.<li>The examiner will receive an e-mail notification to provide assessment. If the project is internal to the UvA, the examiner will assess the report, presentation and experimental work. If the project is external to UvA, the examiner will only assess the final report.<li>Once the examiner has finished assessment, the other assessor of the project receives a notification to provide assessment.<li>Once the other assessor is done, the examiner will be asked to confirm the assessment. If the grades for the final report differ by one grade point or more, the examiner should reach out to the other assessor to discuss the grading and seek consensus.<li>Once consensus is reached and the grade is confirmed by the examiner, supervisor and/or the internal assessor meet with the student to provide feedback personally.<li>Once feedback has been given, the examiner registers the grade on www.datanose.nl.</ol>
+|Submit final report via datanose.nl/#yourprojects  |Project finish date | Student|
+|Grading | Within 20 working days after project completion| <ol> <li>The student submits the final report to Datanose.<li>The examiner will receive an e-mail notification to provide assessment. If the project is internal to the UvA, the examiner will assess the report, presentation and experimental work. If the project is external to UvA, the examiner will only assess the final report.<li>Once the examiner has finished assessment, the other assessor of the project receives a notification to provide assessment.<li>Once the other assessor is done, the examiner will be asked to confirm the assessment. If the grades for the final report differ by one grade point or more, the examiner should reach out to the other assessor to discuss the grading and seek consensus.<li>Once consensus is reached and the grade is confirmed by the examiner, supervisor and/or the internal assessor meet with the student to provide feedback personally.<li>Once feedback has been given, the examiner confirms and then registers the grade on www.datanose.nl.</ol>
 
 ## Grading
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 7 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
@@ -202,11 +205,11 @@ To grade the different components or to get a better idea about the expected lev
 The final report is graded by both the internal and the external assessor (see the final row of table 6 for a process description). Their grades are automatically averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme via info-mcs@uva.nl.
 
 ### Submitting the grade
-Both the internal and external assessor will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, they can grade the different components of the project. Once both assessors have provided the grades, the examiner can then, finally, confirm the final grade, which is calculated as the weighted average of the average grades given by the assessors. Please note that the grade point difference between the two assessments of the final report should not be 1 or more.
+Both the internal and external assessor will receive an automatic e-mail once the student has submitted the final report to Datanose.nl. Through the link in this e-mail, they can grade the different components of the project. Once both assessors have provided the grades, the examiner can then confirm the final grade, which is calculated as the weighted average of the average grades given by the assessors. Please note that the grade point difference between the two assessments of the final report should not be 1 or more.
 
 Upon confirmation of the grading, the examiner will be prompted with a grade registration form, available for digital signing using two-factor authentication. Please notice that the full workflow listed in the right hand of the Datanose page needs to be completed: that means first confirming the grade and then registering it.
 
-Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results **before** submitting grades to Datanose, for example during the final feedback meeting.
+Upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results **before** submitting grades to Datanose, for example during the final feedback meeting.
 
 ## Miscellaneous issues
 ### Credits and delays
@@ -254,6 +257,9 @@ In case the deadline for final submission as registered on Datanose is not going
 
 ### Registration date of the grade
 At the Faculty of Science at the University of Amsterdam, grades for individual projects such as *Research Project 1* and *Research Project 2* are registered at the date of grade submission by the examiner. Note that the students should be actively enrolled for this grade registration. 
+
+### Research Projects in non-academic environments
+When _Research Project 1_ or _Research Project 2_ takes place in a non-academic setting, such as a company, NGO or governmental institute, it may not always be possible to find a supervisor or internal assessor that meets the above requirements. In that case, the role of the examiner is extended: besides involvement in the proposal, Midterm Evaluation and assessment, the examiner will then regularly check on project progress. In these scenarios, it is important that supervisor, student and examiner meet with the MBCS programme coordinator to set up appropriate planning.
 
 ## Questions and comments
 * If you notice any issues with this manual or the overall process of the Research Project, please contact v.tijms@uva.nl.

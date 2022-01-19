@@ -56,7 +56,7 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 
 #####  Table 1 - Roles, requirements and responsibilities
 Role| Requirements| Responsibilities
------ | ----- | ---------
+:----- | ----- | ---------
 [Daily supervisor](#supervisor-tasks)|<ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul> | <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions <li>Provides feedback on overall performance and promotes scientific attitude <li>Joins midterm evaluation, together with student and examiner<li>Provides feedback on the draft version of the research report</ul> 
 [Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor</li><li>Grades experimental work, presentation and final report<li>Joins the final feedback meeting</ul>
 [External assessor](#external-assessor-tasks)| <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic) </ul> | <ul><li>Grades final report</li><li>Joins final feedback meeting</li></ul>
@@ -84,6 +84,7 @@ In summary, the Research Project goes through several phases:
 
 ##### Table 2 - Overview of supervisor tasks
 Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
+
 :---:|:---:|:---:|:---:|
 Assist in project planning|6|6|6|
 Contact person|17|24|28|
@@ -96,6 +97,7 @@ When the student submits a research proposal to the programme, this will include
 
 #### Table 3 - Project sizes
 Project size (EC)| Workload (hours) | Fulltime equivalent
+
 :----: | :----:|:----:|
 26 | 728|17 weeks
 36|1008|24 weeks
@@ -124,6 +126,7 @@ The supervisor is expected to evaluate this draft report within a reasonable tim
 ### Internal assessor tasks
 
 ##### Table 4 - Overview of internal assessor tasks
+
 Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
 :---:|:---:|:---:|:---:|
 Miscellaneous|1|1|1|

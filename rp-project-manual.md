@@ -17,7 +17,7 @@ As 1 EC corresponds to 28 hours of work, the size of these projects can also be 
 
 Project size (EC)| Workload (hours) | Fulltime equivalent
 :----: | :----:|:----:|
-26 | 728|17 weeks
+26 |728|17 weeks
 36|1008|24 weeks
 42|1176|28 weeks
 
@@ -55,8 +55,9 @@ As mentioned above, one of the two assessors is labeled examiner, and this asses
 Table 1 summarizes the requirements and responsibilities of the different roles. Please note that for each assessor, the tasks depend on whether they are internal or external to the lab where the project is taking place. The tasks are described in more detail in the section *[Detailed tasks per role](#detailed-tasks-per-role)*.
 
 #####  Table 1 - Roles, requirements and responsibilities
+
 | Role | Requirements | Responsibilities |
-|[Daily supervisor](#supervisor-tasks)|* Must be PhD candidate or a more senior researcher. * Must be active in research group that hosts the internship. | * Assists in creating realistic project planning, corresponding to workload. * Contact person for student questions * Provides feedback on overall performance and promotes scientific attitude * Joins midterm evaluation, together with student and examiner * Provides feedback on the draft version of the research report>|
+|[Daily supervisor](#supervisor-tasks)|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship. | Assists in creating realistic project planning, corresponding to workload. Contact person for student questions. Provides feedback on overall performance and promotes scientific attitude .Joins midterm evaluation, together with student and examiner. Provides feedback on the draft version of the research report|
 
 ##addendum
 |[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor</li><li>Grades experimental work, presentation and final report<li>Joins the final feedback meeting</ul>

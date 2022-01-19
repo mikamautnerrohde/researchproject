@@ -58,8 +58,6 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 
 | Role | Requirements | Responsibilities |
 |[Daily supervisor](#supervisor-tasks)|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship. | Assists in creating realistic project planning, corresponding to workload. Contact person for student questions. Provides feedback on overall performance and promotes scientific attitude .Joins midterm evaluation, together with student and examiner. Provides feedback on the draft version of the research report|
-
-##addendum
 |[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor</li><li>Grades experimental work, presentation and final report<li>Joins the final feedback meeting</ul>
 |[External assessor](#external-assessor-tasks)| <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic) </ul> | <ul><li>Grades final report</li><li>Joins final feedback meeting</li></ul>
 |[Examiner](#examiner-tasks) | <ul><li>Label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA)<li>Must hold doctoral degree</ul><li>Must be approved by programme Examinations Board</ul>|<ul><li>Reviews and approves project proposal</li><li>Joins the midterm evaluation<li>Submits the final grade<li>Guarantees validity of the grade</li></ul>
@@ -85,6 +83,7 @@ In summary, the Research Project goes through several phases:
 ### Supervisor tasks
 
 ##### Table 2 - Overview of supervisor tasks
+
 Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
 
 :---:|:---:|:---:|:---:|
@@ -98,6 +97,7 @@ Miscellaneous|11|22|29|
 When the student submits a research proposal to the programme, this will include planning for the project. This planning should be realistic and the workload should correspond to the EC count of the project (see table 3). The supervisor checks whether it is reasonable to expect that the planned project can be finished within the given time frame. 
 
 #### Table 3 - Project sizes
+
 Project size (EC)| Workload (hours) | Fulltime equivalent
 
 :----: | :----:|:----:|
@@ -151,6 +151,7 @@ Once all components are assessed, the internal and external assessors meet with 
 
 ### External assessor tasks
 ##### Table 5 - Overview of external assessor tasks
+
 Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
 :---:|:---:|:---:|:---:|
 Miscellaneous|1|1|1|
@@ -189,6 +190,7 @@ As a research master student, the student enrolled in either *Research Project 1
 The important deadlines are listed in Table 6.
 
 ##### Table 6 - Important deadlines
+
 |What?  |When?  |Who?|
 |--|--|--|
 |Registering the project via datanose.nl/#yourprojects  |As soon as a complete [work agreement](https://canvas.uva.nl/courses/6067/pages/research-projects) is in place|Student|
@@ -204,6 +206,7 @@ The important deadlines are listed in Table 6.
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 7 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
 ##### Table 7 - Assessment forms
+
 | Component |Contribution to final grade| Graded by| Minimum grade | 
 |:--|:--:|:--|:--:|
 |Experimental work|40%|Internal assessor |5.5|

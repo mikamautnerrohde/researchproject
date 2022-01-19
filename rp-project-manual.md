@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research Project Manual"
+title: Research Project Manual
 permalink: /manual/
 ---
 

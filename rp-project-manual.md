@@ -3,6 +3,7 @@ layout: page
 title: "Research Project Manual"
 permalink: /manual/
 ---
+
 # Research Project Manual
 
 

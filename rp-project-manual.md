@@ -26,8 +26,13 @@ Note for the reader: students from *Brain and Cognitive Sciences* form a multidi
 2. [Roles within the project](#roles-within-the-project)
 3. [Phases of the Research Project](#phases-of-the-research-project)
 4. [Detailed tasks per role](#detailed-tasks-per-role)
-5. [Grading](#grading)
-6. [Miscellaneous](#miscellaneous-issues)
+    - [Supervisor tasks](##supervisor-tasks)
+    - [Internal Assessor tasks](##internal-assessor-tasks)
+    - [External Assessor tasks](##external-assessor-tasks)
+    - [Examiner tasks](##examiner-tasks)
+    - [Student tasks](##student-tasks)
+6. [Grading](#grading)
+7. [Miscellaneous](#miscellaneous-issues)
 
 ---
 

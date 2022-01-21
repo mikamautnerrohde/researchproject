@@ -22,11 +22,12 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at logic departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer their research question.
 
 # Table of Contents
-1. Learning objectives
-2. Roles within the project
-3. Phases of the Research Project
-4. Detailed tasks per role
-5. 
+1. [Learning objectives](#learning-objectives)
+2. [Roles within the project](#roles-within-the-project)
+3. [Phases of the Research Project](#phases-of-the-research-project)
+4. [Detailed tasks per role](#detailed-tasks-per-role)
+5. [Grading](#grading)
+6. [Miscellaneous](#miscellaneous-issues)
 
 ---
 

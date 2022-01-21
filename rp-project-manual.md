@@ -26,11 +26,11 @@ Note for the reader: students from *Brain and Cognitive Sciences* form a multidi
 2. [Roles within the project](#roles-within-the-project)
 3. [Phases of the Research Project](#phases-of-the-research-project)
 4. [Detailed tasks per role](#detailed-tasks-per-role)
-    - [Supervisor tasks](##supervisor-tasks)
-    - [Internal Assessor tasks](##internal-assessor-tasks)
-    - [External Assessor tasks](##external-assessor-tasks)
-    - [Examiner tasks](##examiner-tasks)
-    - [Student tasks](##student-tasks)
+    - [Supervisor tasks](#supervisor-tasks)
+    - [Internal Assessor tasks](#internal-assessor-tasks)
+    - [External Assessor tasks](#external-assessor-tasks)
+    - [Examiner tasks](#examiner-tasks)
+    - [Student tasks](#student-tasks)
 6. [Grading](#grading)
 7. [Miscellaneous](#miscellaneous-issues)
 
@@ -67,7 +67,7 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 ####  Table 1 - Roles, requirements and responsibilities
 
 | Role | Requirements | Responsibilities |
-|[Daily supervisor](#supervisor-tasks)|Must be PhD candidate or a more senior researcher. Must be active in research group that hosts the internship. | Assists in creating realistic project planning, corresponding to workload. Contact person for student questions. Provides feedback on overall performance and promotes scientific attitude .Joins midterm evaluation, together with student and examiner. Provides feedback on the draft version of the research report|
+|[Daily supervisor](#supervisor-tasks)|<div><ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul></div> | Assists in creating realistic project planning, corresponding to workload. Contact person for student questions. Provides feedback on overall performance and promotes scientific attitude .Joins midterm evaluation, together with student and examiner. Provides feedback on the draft version of the research report|
 |[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor</li><li>Grades experimental work, presentation and final report<li>Joins the final feedback meeting</ul>
 |[External assessor](#external-assessor-tasks)| <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic) </ul> | <ul><li>Grades final report</li><li>Joins final feedback meeting</li></ul>
 |[Examiner](#examiner-tasks) | <ul><li>Label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA)<li>Must hold doctoral degree</ul><li>Must be approved by programme Examinations Board</ul>|<ul><li>Reviews and approves project proposal</li><li>Joins the midterm evaluation<li>Submits the final grade<li>Guarantees validity of the grade</li></ul>

@@ -20,6 +20,7 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 
 ---
 Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at logic departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer their research question.
+---
 
 # Table of Contents
 1. [Learning objectives](#learning-objectives)
@@ -31,10 +32,9 @@ Note for the reader: students from *Brain and Cognitive Sciences* form a multidi
     - [External Assessor tasks](#external-assessor-tasks)
     - [Examiner tasks](#examiner-tasks)
     - [Student tasks](#student-tasks)
-6. [Grading](#grading)
-7. [Miscellaneous](#miscellaneous-issues)
+5. [Grading](#grading)
+6. [Miscellaneous](#miscellaneous-issues)
 
----
 
 # Learning objectives
 During the research projects, the student is trained to:
@@ -54,7 +54,7 @@ During the research projects, the student is trained to:
 7. Reflect on and describe the limitations and implications of the research project.
 
 # Roles within the project
-To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). One of these two assessors should be a senior scientist employed at UvA who is formally labeled as the _examiner_ of the project. Note that the two assessors will not have exactly the same tasks: the internal assessor can grade experimental work, oral presentation and final report, but the external assessor, being an outsider to the hosting lab, will only be able to assess the written report.
+To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). One of these two assessors should be a senior scientist employed at UvA who is also formally labeled as the _examiner_ of the project. Note that the two assessors will not have exactly the same tasks: the internal assessor can grade experimental work, oral presentation and final report, but the external assessor --being an outsider to the hosting lab -- will only be able to assess the written report.
 
 The supervisor can be a PhD candidate or a more senior researcher who works in the hosting research group. The internal assessor should be a researcher within the hosting research group who has a doctoral degree. It is possible for a single person to take on both the supervisor and internal assessor roles, as long as all of the above requirements are met. If the supervisor and the internal assessor are different people, please note that it is the internal assessor who will ultimately grade the work of the student, not the supervisor.
 

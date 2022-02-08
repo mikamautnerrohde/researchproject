@@ -212,6 +212,18 @@ The important deadlines are listed in Table 6.
 |Submit final report via datanose.nl/#yourprojects  |Project finish date | Student|
 |Grading | Within 20 working days after project completion| <ol> <li>The student submits the final report to Datanose.<li>The examiner will receive an e-mail notification to provide assessment. If the project is internal to the UvA, the examiner will assess the report, presentation and experimental work. If the project is external to UvA, the examiner will only assess the final report.<li>Once the examiner has finished assessment, the other assessor of the project receives a notification to provide assessment.<li>Once the other assessor is done, the examiner will be asked to confirm the assessment. If the grades for the final report differ by one grade point or more, the examiner should reach out to the other assessor to discuss the grading and seek consensus.<li>Once consensus is reached and the grade is confirmed by the examiner, supervisor and/or the internal assessor meet with the student to provide feedback personally.<li>Once feedback has been given, the examiner confirms and then registers the grade on www.datanose.nl.</ol>
 
+## Schedule Midterm Evaluation Meeting
+Halfway through the project, the student schedules a meeting with the supervisor and the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
+
+## Provide draft version of the research report
+One month before the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
+
+## Present the Research Project orally
+At the end of the project, the student presents the work that was done in front of at least the internal assessor and supervisor, but preferably in front of the hosting gruop. During a 20-30 minute presentation, the student shows what the project was about and what the results have been and engages in a Q&A with the audience. This activity is assessed. It is recommended to hold the presentation between the draft stage of the report and the final submission, so that feedback from the presentation can in principle be used in the final report.
+
+## Provide final report
+The student finalizes the Research Project by submitting a written report which follows the structure and style of a journal that is relevant to the domain in which the student has worked. The report can be submitted via the project portal on Datanose.
+
 # Grading
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 7 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
@@ -224,6 +236,8 @@ Grading is based on three components: the experimental work, the final report on
 |Oral presentation|10%|Internal assessor |5.5|
 
 To grade the different components or to get a better idea about the expected level, please review the grading rubrics of the Research Project.
+
+
 
 The final report is graded by both the internal and the external assessor (see the final row of table 6 for a process description). Their grades are automatically averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme via info-mcs@uva.nl.
 

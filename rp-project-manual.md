@@ -18,6 +18,7 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 36|1008|24 weeks
 42|1176|28 weeks
 
+
 ---
 Note for the reader: students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter internships at a wide range of hosting institutes. Some of them could work at logic departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them expose the students to the cycle of formulating a research question, gathering data, performing analysis and interpreting results to answer their research question.
 ---
@@ -67,7 +68,7 @@ Table 1 summarizes the requirements and responsibilities of the different roles.
 ####  Table 1 - Roles, requirements and responsibilities
 
 | Role | Requirements | Responsibilities |
-|[Daily supervisor](#supervisor-tasks)|<div><ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul></div> | Assists in creating realistic project planning, corresponding to workload. Contact person for student questions. Provides feedback on overall performance and promotes scientific attitude .Joins midterm evaluation, together with student and examiner. Provides feedback on the draft version of the research report|
+|[Daily supervisor](#supervisor-tasks)|<html><div><ul><li>Must be PhD candidate or a more senior researcher. <li>Must be active in research group that hosts the internship.</ul></div> </html>| <html> <ul><li>Assists in creating realistic project planning, corresponding to workload. <li>Contact person for student questions. <li>Provides feedback on overall performance and promotes scientific attitude.<li>Joins midterm evaluation, together with student and examiner. <li>Provides feedback on the draft version of the research report</ul></div></html>|
 |[Internal assessor](#internal-assessor-tasks) | <ul><li>Is located in same lab/research group as supervisor. <li>Holds a doctoral degree. <li>Can be same person as daily supervisor, as long requirements for both roles are met.</ul>|<ul><li>Monitors student performance in correspondence with supervisor</li><li>Grades experimental work, presentation and final report<li>Joins the final feedback meeting</ul>
 |[External assessor](#external-assessor-tasks)| <ul><li>Holds a doctoral degree. <li>Must have relevant domain knowledge to assess the final report (e.g. on the methodology or research topic) </ul> | <ul><li>Grades final report</li><li>Joins final feedback meeting</li></ul>
 |[Examiner](#examiner-tasks) | <ul><li>Label placed on either the internal assessor or the external assessor. <li>Must be employed at UvA (note: AMC counts as UvA)<li>Must hold doctoral degree</ul><li>Must be approved by programme Examinations Board</ul>|<ul><li>Reviews and approves project proposal</li><li>Joins the midterm evaluation<li>Submits the final grade<li>Guarantees validity of the grade</li></ul>

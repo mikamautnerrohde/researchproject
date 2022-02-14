@@ -228,6 +228,9 @@ The student finalizes the Research Project by submitting a written report which 
 # Grading
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 7 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
+# Reflect on the process
+After _Research Project 1_ (but not _Research Project 2_), the student is expected to submit a reflection on the project. This should be done once the grade has been processed. The reflection yields personal learning objectives for _Research Project 2_. You can find the reflection form [here](https://forms.office.com/r/b5QbaKqjN1).
+
 ### Table 7 - Assessment forms
 
 | Component |Contribution to final grade| Graded by| Minimum grade | 
@@ -237,8 +240,6 @@ Grading is based on three components: the experimental work, the final report on
 |Oral presentation|10%|Internal assessor |5.5|
 
 To grade the different components or to get a better idea about the expected level, please review the grading rubrics of the Research Project.
-
-
 
 The final report is graded by both the internal and the external assessor (see the final row of table 6 for a process description). Their grades are automatically averaged to arrive at a final score for the report, *except if the difference between their grades is more than or equal to 1 point*. In that case, the two assessors are expected to discuss their considerations with each other and arrive at a consensus grade. If such consensus cannot be reached, the examiner should reach out to the programme via info-mcs@uva.nl.
 

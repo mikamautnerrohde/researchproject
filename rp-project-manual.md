@@ -96,7 +96,6 @@ In summary, the Research Project goes through several phases:
 ### Table 2 - Overview of supervisor tasks
 
 Task|Hours on 26 EC project|Hours on 36 EC project|Hours on 42 EC project|
-
 :---:|:---:|:---:|:---:|
 Assist in project planning|6|6|6|
 Contact person|17|24|28|
@@ -109,14 +108,14 @@ When the student submits a research proposal to the programme, this will include
 
 ### Table 3 - Project sizes
 
-Project size (EC)| Workload (hours) | Fulltime equivalent
-
+Project size (EC)| Workload (hours) | Fulltime equivalent*
 :----: | :----:|:----:|
-26 | 728|17 weeks
+26|728|17 weeks
 36|1008|24 weeks
 42|1176|28 weeks
 
-Note: once the proposal has been approved by programme and examiner, it is not possible to change the EC rewarded to the student upon succesful completion of the project.
+Note 1: once the proposal has been approved by programme and examiner, it is not possible to change the EC rewarded to the student upon succesful completion of the project.
+Note 2: in the first year, the student combines _Research Project 1_ with coursework. This means instead of full-time, the student is available an average of 38 hours per week.
 
 ### Be contact for student questions
 The supervisor is the go-to person for the student, for any questions related to performing the research project. During the research project, the supervisor should be available to discuss problems within a reasonable time frame. When absent due to illness or leave, the supervisor should ensure that there is somebody else available for pressing questions of the student. At the same time, the student should display ownership of the project.
@@ -211,7 +210,7 @@ The important deadlines are listed in Table 6.
 |Submit draft of research project| One month before ending date| Student sends draft, supervisor provides feedback|
 |Present research findings in presentation of 20-30 minutes  |In the weeks before finish date | Student|
 |Submit final report via datanose.nl/#yourprojects  |Project finish date | Student|
-|Grading | Within 20 working days after project completion| {::normarkdown}<ol> <li>The student submits the final report to Datanose.<li>The examiner will receive an e-mail notification to provide assessment. If the project is internal to the UvA, the examiner will assess the report, presentation and experimental work. If the project is external to UvA, the examiner will only assess the final report.<li>Once the examiner has finished assessment, the other assessor of the project receives a notification to provide assessment.<li>Once the other assessor is done, the examiner will be asked to confirm the assessment. If the grades for the final report differ by one grade point or more, the examiner should reach out to the other assessor to discuss the grading and seek consensus.<li>Once consensus is reached and the grade is confirmed by the examiner, supervisor and/or the internal assessor meet with the student to provide feedback personally.<li>Once feedback has been given, the examiner confirms and then registers the grade on www.datanose.nl.</ol>{:/}
+|Grading | Within 20 working days after project completion| {::nomarkdown}<ol> <li>The student submits the final report to Datanose.<li>The examiner will receive an e-mail notification to provide assessment. If the project is internal to the UvA, the examiner will assess the report, presentation and experimental work. If the project is external to UvA, the examiner will only assess the final report.<li>Once the examiner has finished assessment, the other assessor of the project receives a notification to provide assessment.<li>Once the other assessor is done, the examiner will be asked to confirm the assessment. If the grades for the final report differ by one grade point or more, the examiner should reach out to the other assessor to discuss the grading and seek consensus.<li>Once consensus is reached and the grade is confirmed by the examiner, supervisor and/or the internal assessor meet with the student to provide feedback personally.<li>Once feedback has been given, the examiner confirms and then registers the grade on www.datanose.nl.</ol>{:/}
 
 ## Schedule Midterm Evaluation Meeting
 Halfway through the project, the student schedules a meeting with the supervisor and the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.

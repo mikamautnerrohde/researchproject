@@ -145,11 +145,7 @@ Miscellaneous|1|1|1|
 Grading |3|3|3|
 
 ### Grade experimental work, presentation and final report
-The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. These rubrics can be filled on the Datanose project portal when the time for assessment has come. To see the rubrics before that time, they are also publicly available via:
-
-https://student.uva.nl/bcs/content/az/research-projects/research-project-s.html
-
-Where they are listed as **Rubric Template Research Project**.
+The internal assessor is expected to grade all three assessment forms: the experimental work, the final presentation and the final report, using the respective grading rubrics. These rubrics can be filled on the Datanose project portal when the time for assessment has come. To see the rubrics before that time, please see [here](rp-rubrics.md).
 
 See [here](#grading) for more information about grading.
 

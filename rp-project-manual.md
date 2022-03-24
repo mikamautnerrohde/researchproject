@@ -38,21 +38,21 @@ Project size (EC)| Workload (hours) | Fulltime equivalent
 
 
 # Learning objectives
-During the research projects, the student is trained to:
+During _Research Project 1_ and _Research Project 2_, the student is trained to:
 
 1. Engage in the different phases of research in the field of brain and cognitive sciences (i.e. using and selecting relevant literature, choosing a research design, performing experimental work, analyzing data).
 
 2. Independently perform relevant scientific research method(s) and data analyses.
 
-3. Create a realistic planning for research, within the time limits that are imposed.
+3. Create and maintain realistic planning for research activities.
 
-4. Report about the project in a manner accordant to the norms and standards of a relevant journal
-
-5. Demonstrate academic presentation skills.
+4. Report about the project in a manner accordant to the norms and standards of a relevant journal.
 
 6. Demonstrate a scientific attitude (independence, responsibility, perseverance, initiative, self-assessment, communication) within the work and in relation to the supervisor and colleagues.
 
-7. Reflect on and describe the limitations and implications of the research project.
+During Research Project 1, the student is additional prepared to:
+
+7. Reflect on professional skills as a researcher
 
 # Roles within the project
 To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). One of these two assessors should be a senior scientist employed at UvA who is also formally labeled as the _examiner_ of the project. Note that the two assessors will not have exactly the same tasks: the internal assessor can grade experimental work, oral presentation and final report, but the external assessor --being an outsider to the hosting lab -- will only be able to assess the written report.

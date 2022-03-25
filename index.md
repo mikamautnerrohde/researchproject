@@ -4,4 +4,3 @@ This page lists the most up-to-date documentation on the Research Projects of th
 * [The Manual](/researchproject/manual)
 * [The Rubrics](/researchproject/rubrics)
 * [The FAQ](/researchproject/faq)
-* 

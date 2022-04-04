@@ -10,18 +10,18 @@ This manual concerns the modules *Research Project 1* and *Research Project 2* f
 
 The research project is one of the capstones of the programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. All students of the research master *Brain and Cognitive Sciences* conduct two research projects as mandatory parts of their curriculum:
 
-*Research Project 1* (26 EC) and *Research Project 2* (36 or 42 EC). 
+*Research Project 1* (26 or 32 EC) and *Research Project 2* (36 or 42 EC). 
 
 As 1 EC corresponds to 28 hours of work, the size of these projects can also be considered as:
 
 Project size (EC)| Workload (hours) | Fulltime equivalent
 :----: | :----:|:----:|
-26 |728|17 weeks
+26|728|17 weeks
+32|896|21 weeks
 36|1008|24 weeks
 42|1176|28 weeks
 
-
-
+Note that full-time equivalence corresponds to a workload of 1.5 EC (42 hours) per week.
 
 # Table of Contents
 1. [Learning objectives](#learning-objectives)
@@ -50,9 +50,7 @@ During _Research Project 1_ and _Research Project 2_, the student is trained to:
 
 6. Demonstrate a scientific attitude (independence, responsibility, perseverance, initiative, self-assessment, communication) within the work and in relation to the supervisor and colleagues.
 
-During Research Project 1, the student is additional prepared to:
-
-7. Reflect on professional skills as a researcher
+7. Reflect on professional skills as a researcher (in _Research Project 1_)
 
 # Roles within the project
 To reach these goals, the student will work together with a supervisor, an assessor within the institute hosting the Research Project (the so-called internal assessor) and an assessor outside of the institute hosting the Research Project (the so-called external assessor). One of these two assessors should be a senior scientist employed at UvA who is also formally labeled as the _examiner_ of the project. Note that the two assessors will not have exactly the same tasks: the internal assessor can grade experimental work, oral presentation and final report, but the external assessor --being an outsider to the hosting lab -- will only be able to assess the written report.
@@ -202,6 +200,17 @@ The important deadlines are listed in Table 6.
 |Present research findings in presentation of 20-30 minutes  |In the weeks before finish date | Student|
 |Submit final report via datanose.nl/#yourprojects  |Project finish date | Student|
 |Grading | Within 20 working days after project completion| {::nomarkdown}<ol> <li>The student submits the final report to Datanose.<li>The examiner will receive an e-mail notification to provide assessment. If the project is internal to the UvA, the examiner will assess the report, presentation and experimental work. If the project is external to UvA, the examiner will only assess the final report.<li>Once the examiner has finished assessment, the other assessor of the project receives a notification to provide assessment.<li>Once the other assessor is done, the examiner will be asked to confirm the assessment. If the grades for the final report differ by one grade point or more, the examiner should reach out to the other assessor to discuss the grading and seek consensus.<li>Once consensus is reached and the grade is confirmed by the examiner, supervisor and/or the internal assessor meet with the student to provide feedback personally.<li>Once feedback has been given, the examiner confirms and then registers the grade on www.datanose.nl.</ol>{:/}
+
+## Submit a proposal within a month after registering the project
+The student is expected to register the project at some time before starting it. After the starting date, the student has one month to prepare a research proposal that outlines the planning and goals of the project. Note that while it may not be possible to go through all phases of the empirical cycle in a single project, the students is expected to have significant experience with all the following aspects once both _Research Project 1_ and _Research Project 2_ are done:
+
+1. Formulating research question/hypothesis
+2. Experimental design
+3. Collecting/reviewing literature
+4. Data acquisition
+5. Data analysis
+
+When submitting the proposal, the student is asked to indicate which of these aspects are covered by the respective project.
 
 ## Schedule Midterm Evaluation Meeting
 Halfway through the project, the student schedules a meeting with the supervisor and the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going.
